@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calculadora para quitar dívidas: bola de neve x avalanche (grátis)</title>
+<meta name="description" content="Calculadora grátis: informe suas dívidas, os juros ao mês e quanto pode pagar e veja em quantos meses quita e quanto paga de juros (bola de neve x avalanche).">
+<link rel="canonical" href="https://araujo19con.github.io/questaodiaria/calculadora-quitar-dividas/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b3d6e">
+<link rel="icon" href="/questaodiaria/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/questaodiaria/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/questaodiaria/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/questaodiaria/style.css?v=4">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Questão Diária Concursos">
+<meta property="og:title" content="Calculadora para quitar dívidas: bola de neve x avalanche (grátis)">
+<meta property="og:description" content="Calculadora grátis: informe suas dívidas, os juros ao mês e quanto pode pagar e veja em quantos meses quita e quanto paga de juros (bola de neve x avalanche).">
+<meta property="og:url" content="https://araujo19con.github.io/questaodiaria/calculadora-quitar-dividas/">
+<meta property="og:image" content="https://araujo19con.github.io/questaodiaria/img/capa-planilha-dividas.jpg">
+<meta property="og:image:alt" content="Calculadora para quitar dívidas: bola de neve x avalanche">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Calculadora para quitar dívidas: bola de neve x avalanche (grátis)">
+<meta name="twitter:description" content="Calculadora grátis: informe suas dívidas, os juros ao mês e quanto pode pagar e veja em quantos meses quita e quanto paga de juros (bola de neve x avalanche).">
+<meta name="twitter:image" content="https://araujo19con.github.io/questaodiaria/img/capa-planilha-dividas.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora para quitar dívidas: bola de neve x avalanche","url":"https://araujo19con.github.io/questaodiaria/calculadora-quitar-dividas/","description":"Calculadora grátis: informe suas dívidas, os juros ao mês e quanto pode pagar e veja em quantos meses quita e quanto paga de juros (bola de neve x avalanche).","applicationCategory":"FinanceApplication","operatingSystem":"Any","inLanguage":"pt-BR","offers":{"@type":"Offer","price":"0","priceCurrency":"BRL"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qual método é melhor?","acceptedAnswer":{"@type":"Answer","text":"A avalanche costuma pagar menos juros. A bola de neve quita as dívidas pequenas antes, o que ajuda quem precisa ver resultado rápido. A calculadora mostra a diferença no seu caso."}},{"@type":"Question","name":"Meu banco informa juros ao ano. O que faço?","acceptedAnswer":{"@type":"Answer","text":"Divida a taxa anual por 12 para ter uma aproximação dos juros ao mês. Para o rotativo do cartão, use a taxa mensal que aparece na fatura."}},{"@type":"Question","name":"O resultado é exato?","acceptedAnswer":{"@type":"Answer","text":"É uma estimativa. O banco pode calcular juros por dia e cobrar IOF e tarifas. Use o resultado para planejar e confira os saldos nas faturas."}},{"@type":"Question","name":"É consultoria financeira?","acceptedAnswer":{"@type":"Answer","text":"Não. É uma ferramenta de organização e não garante resultado."}}]}</script>
+<link rel="alternate" hreflang="pt-BR" href="https://araujo19con.github.io/questaodiaria/calculadora-quitar-dividas/">
+<link rel="alternate" hreflang="es" href="https://araujo19con.github.io/questaodiaria/es/calculadora-bola-de-nieve/">
+<style>
+.calc table{width:100%;border-collapse:collapse;font-size:.95rem}
+.calc th{font-size:.8rem;text-align:left;color:var(--muted);padding:4px}
+.calc td{padding:4px;vertical-align:top}
+.calc input{width:100%;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fffbe6}
+.calc .rm{min-height:44px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.2rem}
+.calc .row-btns{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.calc label{display:block;font-weight:700;margin:12px 0 6px}
+.res{display:grid;gap:14px;margin:18px 0}
+@media(min-width:640px){.res{grid-template-columns:1fr 1fr}}
+.rbox{border:2px solid var(--navy);border-radius:12px;padding:12px 14px;background:#fff}
+.rbox h3{margin:.2rem 0 .6rem;font-size:1.05rem}
+.rbox dl{display:grid;grid-template-columns:auto auto;gap:4px 12px;margin:0}
+.rbox dt{color:var(--muted)}.rbox dd{margin:0;font-weight:700;text-align:right}
+.rbox ol{margin:.6rem 0 0;padding-left:1.2rem;font-size:.9rem}
+.rbox.win{border-color:#2e7d5b;box-shadow:0 0 0 3px #d7efe3}
+.cerr{color:#b23a48;font-weight:700}
+@media(max-width:560px){.calc thead{display:none}.calc tr{display:grid;grid-template-columns:1fr 1fr;gap:4px;border-bottom:1px solid var(--line);padding:8px 0}.calc td:first-child{grid-column:1/3}.calc td[data-label]::before{content:attr(data-label);display:block;font-size:.75rem;color:var(--muted);margin-bottom:2px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="top">
+<div class="wrap top-in">
+<a class="brand" href="/questaodiaria/"><img src="/questaodiaria/img/logo.png" width="40" height="40" alt=""><span>Questão Diária <b>Concursos</b></span></a>
+<nav aria-label="Principal"><a href="/questaodiaria/#concursos">Concursos</a></nav>
+</div>
+</header>
+<main id="conteudo">
+<section class="hero"><div class="wrap">
+<nav class="crumbs" aria-label="Trilha"><a href="/questaodiaria/">Início</a> <span aria-hidden="true">›</span> <span>Calculadora de dívidas</span></nav>
+<h1>Calculadora para quitar dívidas: bola de neve x avalanche</h1>
+<p class="lead">Coloque suas dívidas, os juros ao mês e quanto você consegue pagar por mês. A calculadora mostra em quantos meses você quita tudo e quanto paga de juros em cada método. Nada é enviado: o cálculo roda no seu navegador.</p>
+</div></section>
+<div class="wrap content">
+<section class="calc" aria-label="Calculadora de dívidas">
+<table><thead><tr><th scope="col">Dívida</th><th scope="col">Saldo (R$)</th><th scope="col">Juros ao mês (%)</th><th scope="col">Parcela mínima (R$)</th><th scope="col"></th></tr></thead><tbody id="dt"></tbody></table>
+<div class="row-btns"><button type="button" class="btn btn-ghost" id="add">+ Adicionar dívida</button></div>
+<label for="pay">Quanto você pode pagar por mês no total (R$)</label>
+<input id="pay" inputmode="decimal" value="1000">
+<div class="row-btns"><button type="button" class="btn btn-buy" id="go">Calcular</button></div>
+<div id="out" aria-live="polite"></div>
+</section>
+<section class="band" aria-labelledby="cta"><h2 id="cta">Quer o plano mês a mês e o controle dos pagamentos?</h2><p>A Planilha para Quitar Dívidas faz este cálculo para até 10 dívidas, com calendário de 240 meses, quanto pagar em cada dívida por mês, gráficos e registro de pagamentos. Funciona no Excel e no Google Planilhas.</p>
+<div class="cta-row"><a class="btn btn-buy" href="/questaodiaria/planilhas/#dividas">Ver a planilha (R$ 19,90)</a></div></section>
+<section aria-labelledby="how"><h2 id="how">Como a calculadora funciona</h2><ol><li>Todo mês, os juros de cada dívida são somados ao saldo (saldo × juros ao mês).</li><li>Você paga a parcela mínima de todas as dívidas e o que sobra do valor mensal vai para a dívida da vez.</li><li>Bola de neve: a dívida da vez é a de menor saldo. Avalanche: é a de maior juro.</li><li>Quando uma dívida acaba, a parcela dela passa para a próxima.</li></ol></section>
+<section aria-labelledby="faq"><h2 id="faq">FAQ</h2><div class="faq"><details><summary>Qual método é melhor?</summary><p>A avalanche costuma pagar menos juros. A bola de neve quita as dívidas pequenas antes, o que ajuda quem precisa ver resultado rápido. A calculadora mostra a diferença no seu caso.</p></details><details><summary>Meu banco informa juros ao ano. O que faço?</summary><p>Divida a taxa anual por 12 para ter uma aproximação dos juros ao mês. Para o rotativo do cartão, use a taxa mensal que aparece na fatura.</p></details><details><summary>O resultado é exato?</summary><p>É uma estimativa. O banco pode calcular juros por dia e cobrar IOF e tarifas. Use o resultado para planejar e confira os saldos nas faturas.</p></details><details><summary>É consultoria financeira?</summary><p>Não. É uma ferramenta de organização e não garante resultado.</p></details></div></section>
+<p class="small">¿En español? <a href="/questaodiaria/es/calculadora-bola-de-nieve/" hreflang="es">Calculadora en español</a>.</p>
+</div></main>
+<script>window.CALC={"loc": "pt-BR", "code": "BRL", "cur": "R$", "th": ["Dívida", "Saldo (R$)", "Juros ao mês (%)", "Parcela mínima (R$)", ""], "ex": [["Cartão de crédito", 2500, 12, 150], ["Empréstimo pessoal", 6000, 4.5, 320], ["Cheque especial", 900, 8, 60]], "rm": "Remover", "snow": "Bola de neve (menor saldo primeiro)", "aval": "Avalanche (maior juro primeiro)", "months": "Meses até quitar", "interest": "Juros totais", "total": "Total pago", "date": "Quitação estimada", "order": "Ordem de pagamento", "err_min": "O valor mensal precisa ser pelo menos a soma das parcelas mínimas", "err_never": "Com esse valor a dívida não termina em 50 anos: os juros crescem mais do que o pagamento.", "diff": "Diferença de juros entre os métodos"};</script>
+<script>
+(function(){
+var C=window.CALC,tb=document.getElementById('dt'),out=document.getElementById('out');
+function fmt(v){try{return new Intl.NumberFormat(C.loc,{style:'currency',currency:C.code}).format(v)}catch(e){return C.cur+' '+v.toFixed(2)}}
+function row(d){var tr=document.createElement('tr');
+ tr.innerHTML='<td data-label="'+C.th[0]+'"><input aria-label="'+C.th[0]+'" class="n"></td><td data-label="'+C.th[1]+'"><input aria-label="'+C.th[1]+'" class="b" inputmode="decimal"></td><td data-label="'+C.th[2]+'"><input aria-label="'+C.th[2]+'" class="r" inputmode="decimal"></td><td data-label="'+C.th[3]+'"><input aria-label="'+C.th[3]+'" class="m" inputmode="decimal"></td><td><button type="button" class="rm" aria-label="'+C.rm+'">×</button></td>';
+ var i=tr.querySelectorAll('input');if(d){i[0].value=d[0];i[1].value=d[1];i[2].value=d[2];i[3].value=d[3];}
+ tr.querySelector('.rm').onclick=function(){tr.remove()};tb.appendChild(tr);}
+function num(s){s=String(s||'').trim();if(!s)return 0;if(s.indexOf(',')>-1){s=s.replace(/\./g,'').replace(',','.')}else if(/^\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,'')}return parseFloat(s)||0}
+function sim(ds,pay,key){var d=ds.map(function(x){return {n:x.n,b:x.b,r:x.r/100,m:x.m,done:0}});var tot=0,int=0,mo=0,order=[];
+ while(d.some(function(x){return x.b>0.005})){mo++;if(mo>600)return null;
+  d.forEach(function(x){if(x.b>0){var i=x.b*x.r;x.b+=i;int+=i}});
+  var left=pay;d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p;left-=p;tot+=p}});
+  var act=d.filter(function(x){return x.b>0.005}).sort(key);
+  for(var k=0;k<act.length&&left>0.005;k++){var p=Math.min(left,act[k].b);act[k].b-=p;left-=p;tot+=p}
+  d.forEach(function(x){if(x.b<=0.005&&!x.done){x.done=mo;x.b=0;order.push(x.n+' ('+mo+')')}});}
+ return {mo:mo,int:int,tot:tot,order:order}}
+function box(t,r,win){var dt=new Date();dt.setMonth(dt.getMonth()+r.mo);
+ return '<div class="rbox'+(win?' win':'')+'"><h3>'+t+'</h3><dl><dt>'+C.months+'</dt><dd>'+r.mo+'</dd><dt>'+C.date+'</dt><dd>'+dt.toLocaleDateString(C.loc,{month:'short',year:'numeric'})+'</dd><dt>'+C.interest+'</dt><dd>'+fmt(r.int)+'</dd><dt>'+C.total+'</dt><dd>'+fmt(r.tot)+'</dd></dl><p class="small">'+C.order+':</p><ol>'+r.order.map(function(o){return '<li>'+o.replace(/</g,'&lt;')+'</li>'}).join('')+'</ol></div>'}
+function run(){var ds=[];tb.querySelectorAll('tr').forEach(function(tr,i){var v=tr.querySelectorAll('input');var b=num(v[1].value);if(b>0)ds.push({n:v[0].value||('#'+(i+1)),b:b,r:num(v[2].value),m:num(v[3].value)})});
+ var pay=num(document.getElementById('pay').value),minS=ds.reduce(function(a,x){return a+x.m},0);
+ if(!ds.length){out.innerHTML='';return}
+ if(pay<minS){out.innerHTML='<p class="cerr">'+C.err_min+': '+fmt(minS)+'</p>';return}
+ var s=sim(ds,pay,function(a,b){return a.b-b.b}),a=sim(ds,pay,function(a,b){return b.r-a.r||a.b-b.b});
+ if(!s||!a){out.innerHTML='<p class="cerr">'+C.err_never+'</p>';return}
+ out.innerHTML='<div class="res">'+box(C.snow,s,s.int<a.int-0.5)+box(C.aval,a,a.int<=s.int+0.5)+'</div><p><strong>'+C.diff+':</strong> '+fmt(Math.abs(s.int-a.int))+'</p>';
+ try{if(window.gtag)gtag('event','calc')}catch(e){}}
+C.ex.forEach(row);document.getElementById('add').onclick=function(){row()};
+document.getElementById('go').onclick=run;run();
+})();
+</script>
+<footer class="foot">
+<div class="wrap">
+<div class="foot-grid">
+<div><p class="foot-brand">Questão Diária Concursos</p><p>1 questão de legislação específica por dia, e materiais em PDF por concurso.</p><p class="socs"><a class="soc" href="https://www.tiktok.com/@questaododia.concursos" rel="noopener" target="_blank">TikTok @questaododia.concursos</a><a class="soc" href="https://www.youtube.com/@questaodiariaconcursos" rel="noopener" target="_blank">YouTube @questaodiariaconcursos</a></p></div>
+<div><p class="foot-h">Concursos</p><ul class="foot-list"><li><a href="/questaodiaria/camara-mossoro/">Câmara de Mossoró</a></li><li><a href="/questaodiaria/alepa/">ALEPA</a></li><li><a href="/questaodiaria/etica-oab/">Ética OAB</a></li><li><a href="/questaodiaria/gcm-salvador/">GCM Salvador</a></li><li><a href="/questaodiaria/trt8/">TRT-8</a></li><li><a href="/questaodiaria/pmal-cbmal/">PMAL e CBMAL</a></li></ul></div>
+<div><p class="foot-h">Parcerias</p><ul class="foot-list"><li><a href="/questaodiaria/afiliados/">Seja afiliado (50% de comissão)</a></li><li><a href="/questaodiaria/planilhas/">Planilhas de finanças</a></li></ul></div>
+</div>
+<p class="foot-disc">Ferramenta de organização financeira. Não é recomendação financeira e não garante resultado.</p>
+<p class="foot-copy">© 2026 Questão Diária Concursos · Pagamento e entrega pela Hotmart.</p>
+</div>
+</footer>
+</body>
+</html>

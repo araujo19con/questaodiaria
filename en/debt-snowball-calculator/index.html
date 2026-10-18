@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Debt Snowball vs. Avalanche Calculator (Free)</title>
+<meta name="description" content="Free debt payoff calculator: enter your debts, APR and monthly budget and compare the debt snowball and avalanche methods: months to debt-free and total interest.">
+<link rel="canonical" href="https://araujo19con.github.io/questaodiaria/en/debt-snowball-calculator/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b3d6e">
+<link rel="icon" href="/questaodiaria/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/questaodiaria/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/questaodiaria/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/questaodiaria/style.css?v=4">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Questão Diária Concursos">
+<meta property="og:title" content="Debt Snowball vs. Avalanche Calculator (Free)">
+<meta property="og:description" content="Free debt payoff calculator: enter your debts, APR and monthly budget and compare the debt snowball and avalanche methods: months to debt-free and total interest.">
+<meta property="og:url" content="https://araujo19con.github.io/questaodiaria/en/debt-snowball-calculator/">
+<meta property="og:image" content="https://araujo19con.github.io/questaodiaria/img/cover-en-debt.jpg">
+<meta property="og:image:alt" content="Debt Snowball vs. Avalanche Calculator">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Debt Snowball vs. Avalanche Calculator (Free)">
+<meta name="twitter:description" content="Free debt payoff calculator: enter your debts, APR and monthly budget and compare the debt snowball and avalanche methods: months to debt-free and total interest.">
+<meta name="twitter:image" content="https://araujo19con.github.io/questaodiaria/img/cover-en-debt.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Debt Snowball vs. Avalanche Calculator","url":"https://araujo19con.github.io/questaodiaria/en/debt-snowball-calculator/","description":"Free debt payoff calculator: enter your debts, APR and monthly budget and compare the debt snowball and avalanche methods: months to debt-free and total interest.","applicationCategory":"FinanceApplication","operatingSystem":"Any","inLanguage":"en","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which method is better?","acceptedAnswer":{"@type":"Answer","text":"Avalanche usually costs less interest. Snowball pays off small debts first, which helps if you need quick wins to stay motivated. The calculator shows the difference for your numbers."}},{"@type":"Question","name":"My lender shows an APR. What do I enter?","acceptedAnswer":{"@type":"Answer","text":"Divide the APR by 12 to get an approximate monthly rate. For example, 24% APR is about 2% per month."}},{"@type":"Question","name":"Are the results exact?","acceptedAnswer":{"@type":"Answer","text":"They are estimates. Lenders may charge daily interest and fees. Use the result to plan and check your statements."}},{"@type":"Question","name":"Is this financial advice?","acceptedAnswer":{"@type":"Answer","text":"No. It is a planning tool and does not guarantee any result."}}]}</script>
+<link rel="alternate" hreflang="en" href="https://araujo19con.github.io/questaodiaria/en/debt-snowball-calculator/">
+<link rel="alternate" hreflang="es" href="https://araujo19con.github.io/questaodiaria/es/calculadora-bola-de-nieve/">
+<style>
+.calc table{width:100%;border-collapse:collapse;font-size:.95rem}
+.calc th{font-size:.8rem;text-align:left;color:var(--muted);padding:4px}
+.calc td{padding:4px;vertical-align:top}
+.calc input{width:100%;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fffbe6}
+.calc .rm{min-height:44px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.2rem}
+.calc .row-btns{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.calc label{display:block;font-weight:700;margin:12px 0 6px}
+.res{display:grid;gap:14px;margin:18px 0}
+@media(min-width:640px){.res{grid-template-columns:1fr 1fr}}
+.rbox{border:2px solid var(--navy);border-radius:12px;padding:12px 14px;background:#fff}
+.rbox h3{margin:.2rem 0 .6rem;font-size:1.05rem}
+.rbox dl{display:grid;grid-template-columns:auto auto;gap:4px 12px;margin:0}
+.rbox dt{color:var(--muted)}.rbox dd{margin:0;font-weight:700;text-align:right}
+.rbox ol{margin:.6rem 0 0;padding-left:1.2rem;font-size:.9rem}
+.rbox.win{border-color:#2e7d5b;box-shadow:0 0 0 3px #d7efe3}
+.cerr{color:#b23a48;font-weight:700}
+@media(max-width:560px){.calc thead{display:none}.calc tr{display:grid;grid-template-columns:1fr 1fr;gap:4px;border-bottom:1px solid var(--line);padding:8px 0}.calc td:first-child{grid-column:1/3}.calc td[data-label]::before{content:attr(data-label);display:block;font-size:.75rem;color:var(--muted);margin-bottom:2px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Skip to content</a>
+<header class="top">
+<div class="wrap top-in">
+<a class="brand" href="/questaodiaria/"><img src="/questaodiaria/img/logo.png" width="40" height="40" alt=""><span>Questão Diária <b>Concursos</b></span></a>
+
+</div>
+</header>
+<main id="conteudo">
+<section class="hero"><div class="wrap">
+<nav class="crumbs" aria-label="Trilha"><a href="/questaodiaria/en/templates/">Templates</a> <span aria-hidden="true">›</span> <span>Debt payoff calculator</span></nav>
+<h1>Debt Snowball vs. Avalanche Calculator</h1>
+<p class="lead">Enter your debts, their interest rate and how much you can pay each month in total. The calculator shows how many months it takes to be debt-free and how much interest you pay with each method. Nothing is sent anywhere: it runs in your browser.</p>
+</div></section>
+<div class="wrap content">
+<section class="calc" aria-label="Debt payoff calculator">
+<table><thead><tr><th scope="col">Debt</th><th scope="col">Balance ($)</th><th scope="col">Monthly interest (%)</th><th scope="col">Minimum payment ($)</th><th scope="col"></th></tr></thead><tbody id="dt"></tbody></table>
+<div class="row-btns"><button type="button" class="btn btn-ghost" id="add">+ Add a debt</button></div>
+<label for="pay">Total you can pay per month ($)</label>
+<input id="pay" inputmode="decimal" value="1200">
+<div class="row-btns"><button type="button" class="btn btn-buy" id="go">Calculate</button></div>
+<div id="out" aria-live="polite"></div>
+</section>
+<section class="band" aria-labelledby="cta"><h2 id="cta">Want the month-by-month plan and a payment log?</h2><p>The Debt Payoff Tracker does this for up to 10 debts, with a 240-month payment calendar, how much to pay on each debt every month, charts and a payment log. Works in Excel and Google Sheets.</p>
+<div class="cta-row"><a class="btn btn-buy" href="/questaodiaria/en/templates/#debt">See the template (US$ 12.90)</a></div></section>
+<section aria-labelledby="how"><h2 id="how">How the calculator works</h2><ol><li>Every month, each debt grows by its interest (balance × monthly rate). If your card shows an APR, divide it by 12.</li><li>You pay the minimum on every debt, and the rest of your budget goes to the target debt.</li><li>Snowball: the target is the smallest balance. Avalanche: the target is the highest interest rate.</li><li>When a debt is paid off, its payment rolls over to the next one.</li></ol></section>
+<section aria-labelledby="faq"><h2 id="faq">FAQ</h2><div class="faq"><details><summary>Which method is better?</summary><p>Avalanche usually costs less interest. Snowball pays off small debts first, which helps if you need quick wins to stay motivated. The calculator shows the difference for your numbers.</p></details><details><summary>My lender shows an APR. What do I enter?</summary><p>Divide the APR by 12 to get an approximate monthly rate. For example, 24% APR is about 2% per month.</p></details><details><summary>Are the results exact?</summary><p>They are estimates. Lenders may charge daily interest and fees. Use the result to plan and check your statements.</p></details><details><summary>Is this financial advice?</summary><p>No. It is a planning tool and does not guarantee any result.</p></details></div></section>
+<p class="small">En español: <a href="/questaodiaria/es/calculadora-bola-de-nieve/" hreflang="es">calculadora bola de nieve</a>. See also: <a href="/questaodiaria/en/50-30-20-calculator/">50/30/20 budget calculator</a>.</p>
+</div></main>
+<script>window.CALC={"loc": "en-US", "code": "USD", "cur": "$", "th": ["Debt", "Balance ($)", "Monthly interest (%)", "Minimum payment ($)", ""], "ex": [["Credit card", 4000, 2, 120], ["Car loan", 9000, 0.6, 250], ["Store card", 1200, 1.5, 40]], "rm": "Remove", "snow": "Snowball (smallest balance first)", "aval": "Avalanche (highest interest first)", "months": "Months to debt-free", "interest": "Total interest", "total": "Total paid", "date": "Debt-free date", "order": "Payoff order", "err_min": "Your monthly budget must be at least the sum of the minimum payments", "err_never": "With this budget the debt is never paid off within 50 years: interest grows faster than the payment.", "diff": "Interest difference between the methods"};</script>
+<script>
+(function(){
+var C=window.CALC,tb=document.getElementById('dt'),out=document.getElementById('out');
+function fmt(v){try{return new Intl.NumberFormat(C.loc,{style:'currency',currency:C.code}).format(v)}catch(e){return C.cur+' '+v.toFixed(2)}}
+function row(d){var tr=document.createElement('tr');
+ tr.innerHTML='<td data-label="'+C.th[0]+'"><input aria-label="'+C.th[0]+'" class="n"></td><td data-label="'+C.th[1]+'"><input aria-label="'+C.th[1]+'" class="b" inputmode="decimal"></td><td data-label="'+C.th[2]+'"><input aria-label="'+C.th[2]+'" class="r" inputmode="decimal"></td><td data-label="'+C.th[3]+'"><input aria-label="'+C.th[3]+'" class="m" inputmode="decimal"></td><td><button type="button" class="rm" aria-label="'+C.rm+'">×</button></td>';
+ var i=tr.querySelectorAll('input');if(d){i[0].value=d[0];i[1].value=d[1];i[2].value=d[2];i[3].value=d[3];}
+ tr.querySelector('.rm').onclick=function(){tr.remove()};tb.appendChild(tr);}
+function num(s){s=String(s||'').trim();if(!s)return 0;if(s.indexOf(',')>-1){s=s.replace(/\./g,'').replace(',','.')}else if(/^\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,'')}return parseFloat(s)||0}
+function sim(ds,pay,key){var d=ds.map(function(x){return {n:x.n,b:x.b,r:x.r/100,m:x.m,done:0}});var tot=0,int=0,mo=0,order=[];
+ while(d.some(function(x){return x.b>0.005})){mo++;if(mo>600)return null;
+  d.forEach(function(x){if(x.b>0){var i=x.b*x.r;x.b+=i;int+=i}});
+  var left=pay;d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p;left-=p;tot+=p}});
+  var act=d.filter(function(x){return x.b>0.005}).sort(key);
+  for(var k=0;k<act.length&&left>0.005;k++){var p=Math.min(left,act[k].b);act[k].b-=p;left-=p;tot+=p}
+  d.forEach(function(x){if(x.b<=0.005&&!x.done){x.done=mo;x.b=0;order.push(x.n+' ('+mo+')')}});}
+ return {mo:mo,int:int,tot:tot,order:order}}
+function box(t,r,win){var dt=new Date();dt.setMonth(dt.getMonth()+r.mo);
+ return '<div class="rbox'+(win?' win':'')+'"><h3>'+t+'</h3><dl><dt>'+C.months+'</dt><dd>'+r.mo+'</dd><dt>'+C.date+'</dt><dd>'+dt.toLocaleDateString(C.loc,{month:'short',year:'numeric'})+'</dd><dt>'+C.interest+'</dt><dd>'+fmt(r.int)+'</dd><dt>'+C.total+'</dt><dd>'+fmt(r.tot)+'</dd></dl><p class="small">'+C.order+':</p><ol>'+r.order.map(function(o){return '<li>'+o.replace(/</g,'&lt;')+'</li>'}).join('')+'</ol></div>'}
+function run(){var ds=[];tb.querySelectorAll('tr').forEach(function(tr,i){var v=tr.querySelectorAll('input');var b=num(v[1].value);if(b>0)ds.push({n:v[0].value||('#'+(i+1)),b:b,r:num(v[2].value),m:num(v[3].value)})});
+ var pay=num(document.getElementById('pay').value),minS=ds.reduce(function(a,x){return a+x.m},0);
+ if(!ds.length){out.innerHTML='';return}
+ if(pay<minS){out.innerHTML='<p class="cerr">'+C.err_min+': '+fmt(minS)+'</p>';return}
+ var s=sim(ds,pay,function(a,b){return a.b-b.b}),a=sim(ds,pay,function(a,b){return b.r-a.r||a.b-b.b});
+ if(!s||!a){out.innerHTML='<p class="cerr">'+C.err_never+'</p>';return}
+ out.innerHTML='<div class="res">'+box(C.snow,s,s.int<a.int-0.5)+box(C.aval,a,a.int<=s.int+0.5)+'</div><p><strong>'+C.diff+':</strong> '+fmt(Math.abs(s.int-a.int))+'</p>';
+ try{if(window.gtag)gtag('event','calc')}catch(e){}}
+C.ex.forEach(row);document.getElementById('add').onclick=function(){row()};
+document.getElementById('go').onclick=run;run();
+})();
+</script>
+<footer class="foot"><div class="wrap"><p class="foot-disc">A financial planning tool. Not financial advice; no guaranteed results.</p><p class="foot-copy">© 2026 Gabriel Araujo de Lima</p></div></footer>
+</body>
+</html>

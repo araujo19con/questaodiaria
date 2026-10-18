@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calcolatore rientro debiti: palla di neve vs. valanga (gratis)</title>
+<meta name="description" content="Calcolatore gratuito: inserisci i debiti, il tasso mensile e il budget e confronta i metodi palla di neve e valanga: mesi per finire di pagare e interessi totali.">
+<link rel="canonical" href="https://araujo19con.github.io/questaodiaria/it/calcolatore-debiti/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b3d6e">
+<link rel="icon" href="/questaodiaria/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/questaodiaria/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/questaodiaria/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/questaodiaria/style.css?v=4">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="it_IT">
+<meta property="og:site_name" content="Gabriel Araujo de Lima">
+<meta property="og:title" content="Calcolatore rientro debiti: palla di neve vs. valanga (gratis)">
+<meta property="og:description" content="Calcolatore gratuito: inserisci i debiti, il tasso mensile e il budget e confronta i metodi palla di neve e valanga: mesi per finire di pagare e interessi totali.">
+<meta property="og:url" content="https://araujo19con.github.io/questaodiaria/it/calcolatore-debiti/">
+<meta property="og:image" content="https://araujo19con.github.io/questaodiaria/img/cover-it-debt.jpg">
+<meta property="og:image:alt" content="Calcolatore rientro debiti: palla di neve vs. valanga">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Calcolatore rientro debiti: palla di neve vs. valanga (gratis)">
+<meta name="twitter:description" content="Calcolatore gratuito: inserisci i debiti, il tasso mensile e il budget e confronta i metodi palla di neve e valanga: mesi per finire di pagare e interessi totali.">
+<meta name="twitter:image" content="https://araujo19con.github.io/questaodiaria/img/cover-it-debt.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calcolatore rientro debiti: palla di neve vs. valanga","url":"https://araujo19con.github.io/questaodiaria/it/calcolatore-debiti/","description":"Calcolatore gratuito: inserisci i debiti, il tasso mensile e il budget e confronta i metodi palla di neve e valanga: mesi per finire di pagare e interessi totali.","applicationCategory":"FinanceApplication","operatingSystem":"Any","inLanguage":"it","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quale metodo è migliore?","acceptedAnswer":{"@type":"Answer","text":"La valanga di solito costa meno interessi. La palla di neve chiude prima i debiti piccoli e aiuta a restare motivati. Il calcolatore mostra la differenza con i tuoi numeri."}},{"@type":"Question","name":"Come passo dal tasso annuo a quello mensile?","acceptedAnswer":{"@type":"Answer","text":"Dividi il tasso annuo per 12. Esempio: 18% annuo ≈ 1,5% al mese."}},{"@type":"Question","name":"È una consulenza finanziaria?","acceptedAnswer":{"@type":"Answer","text":"No. È uno strumento di pianificazione e non garantisce risultati."}}]}</script>
+<link rel="alternate" hreflang="it" href="https://araujo19con.github.io/questaodiaria/it/calcolatore-debiti/">
+<link rel="alternate" hreflang="en" href="https://araujo19con.github.io/questaodiaria/en/debt-snowball-calculator/">
+<style>
+.calc table{width:100%;border-collapse:collapse;font-size:.95rem}
+.calc th{font-size:.8rem;text-align:left;color:var(--muted);padding:4px}
+.calc td{padding:4px;vertical-align:top}
+.calc input{width:100%;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fffbe6}
+.calc .rm{min-height:44px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.2rem}
+.calc .row-btns{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.calc label{display:block;font-weight:700;margin:12px 0 6px}
+.res{display:grid;gap:14px;margin:18px 0}
+@media(min-width:640px){.res{grid-template-columns:1fr 1fr}}
+.rbox{border:2px solid var(--navy);border-radius:12px;padding:12px 14px;background:#fff}
+.rbox h3{margin:.2rem 0 .6rem;font-size:1.05rem}
+.rbox dl{display:grid;grid-template-columns:auto auto;gap:4px 12px;margin:0}
+.rbox dt{color:var(--muted)}.rbox dd{margin:0;font-weight:700;text-align:right}
+.rbox ol{margin:.6rem 0 0;padding-left:1.2rem;font-size:.9rem}
+.rbox.win{border-color:#2e7d5b;box-shadow:0 0 0 3px #d7efe3}
+.cerr{color:#b23a48;font-weight:700}
+@media(max-width:560px){.calc thead{display:none}.calc tr{display:grid;grid-template-columns:1fr 1fr;gap:4px;border-bottom:1px solid var(--line);padding:8px 0}.calc td:first-child{grid-column:1/3}.calc td[data-label]::before{content:attr(data-label);display:block;font-size:.75rem;color:var(--muted);margin-bottom:2px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Vai al contenuto</a>
+<header class="top">
+<div class="wrap top-in">
+<a class="brand" href="/questaodiaria/it/modelli/"><svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#f2a516"/><text x="20" y="26" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#14213d">GA</text></svg><span>Gabriel Araujo <b>Modelli</b></span></a>
+
+</div>
+</header>
+<main id="conteudo">
+<section class="hero"><div class="wrap">
+<nav class="crumbs" aria-label="Trilha"><a href="/questaodiaria/it/modelli/">Modelli</a> <span aria-hidden="true">›</span> <span>Calcolatore debiti</span></nav>
+<h1>Calcolatore rientro debiti: palla di neve vs. valanga</h1>
+<p class="lead">Inserisci i tuoi debiti, il tasso di interesse e quanto puoi pagare in totale ogni mese. Il calcolatore mostra in quanti mesi finisci di pagare e quanti interessi paghi con ogni metodo. Non viene inviato nulla: tutto si calcola nel tuo browser.</p>
+</div></section>
+<div class="wrap content">
+<section class="calc" aria-label="Calcolatore debiti">
+<table><thead><tr><th scope="col">Debito</th><th scope="col">Saldo (€)</th><th scope="col">Tasso mensile (%)</th><th scope="col">Rata minima (€)</th><th scope="col"></th></tr></thead><tbody id="dt"></tbody></table>
+<div class="row-btns"><button type="button" class="btn btn-ghost" id="add">+ Aggiungi un debito</button></div>
+<label for="pay">Totale che puoi pagare al mese (€)</label>
+<input id="pay" inputmode="decimal" value="600">
+<div class="row-btns"><button type="button" class="btn btn-buy" id="go">Calcola</button></div>
+<div id="out" aria-live="polite"></div>
+</section>
+<section class="band" aria-labelledby="cta"><h2 id="cta">Vuoi il piano mese per mese e un registro dei pagamenti?</h2><p>Il Piano di Rientro dai Debiti lo fa per un massimo di 10 debiti, con il piano dei pagamenti, quanto pagare su ogni debito ogni mese, grafici e registro. Per Excel e Google Sheets.</p>
+<div class="cta-row"><a class="btn btn-buy" href="/questaodiaria/it/modelli/#debiti">Vedi il modello</a></div></section>
+<section aria-labelledby="how"><h2 id="how">Come funziona il calcolatore</h2><ol><li>Ogni mese ogni debito cresce dei suoi interessi (saldo × tasso mensile). Se la banca indica un tasso annuo, dividilo per 12.</li><li>Paghi la rata minima su ogni debito e il resto del budget va al debito obiettivo.</li><li>Palla di neve: l&#x27;obiettivo è il saldo più basso. Valanga: l&#x27;obiettivo è il tasso più alto.</li><li>Quando un debito è estinto, la sua rata passa al successivo.</li></ol></section>
+<section aria-labelledby="faq"><h2 id="faq">FAQ</h2><div class="faq"><details><summary>Quale metodo è migliore?</summary><p>La valanga di solito costa meno interessi. La palla di neve chiude prima i debiti piccoli e aiuta a restare motivati. Il calcolatore mostra la differenza con i tuoi numeri.</p></details><details><summary>Come passo dal tasso annuo a quello mensile?</summary><p>Dividi il tasso annuo per 12. Esempio: 18% annuo ≈ 1,5% al mese.</p></details><details><summary>È una consulenza finanziaria?</summary><p>No. È uno strumento di pianificazione e non garantisce risultati.</p></details></div></section>
+<p class="small">Vedi anche: <a href="/questaodiaria/it/calcolatore-50-30-20/">calcolatore 50/30/20</a> · <a href="/questaodiaria/it/palla-di-neve-o-valanga/">palla di neve o valanga?</a> · In English: <a href="/questaodiaria/en/debt-snowball-calculator/" hreflang="en">debt snowball calculator</a>.</p>
+</div></main>
+<script>window.CALC={"loc": "it-IT", "code": "EUR", "cur": "€", "th": ["Debito", "Saldo (€)", "Tasso mensile (%)", "Rata minima (€)", ""], "ex": [["Carta revolving", 3000, 1.5, 90], ["Prestito personale", 7000, 0.6, 180], ["Scoperto di conto", 800, 0.9, 25]], "rm": "Rimuovi", "snow": "Palla di neve (saldo più basso prima)", "aval": "Valanga (tasso più alto prima)", "months": "Mesi per finire di pagare", "interest": "Interessi totali", "total": "Totale pagato", "date": "Libero dai debiti a", "order": "Ordine di pagamento", "err_min": "Il budget mensile deve essere almeno la somma delle rate minime", "err_never": "Con questo budget il debito non si estingue in 50 anni: gli interessi crescono più in fretta della rata.", "diff": "Differenza di interessi tra i metodi"};</script>
+<script>
+(function(){
+var C=window.CALC,tb=document.getElementById('dt'),out=document.getElementById('out');
+function fmt(v){try{return new Intl.NumberFormat(C.loc,{style:'currency',currency:C.code}).format(v)}catch(e){return C.cur+' '+v.toFixed(2)}}
+function row(d){var tr=document.createElement('tr');
+ tr.innerHTML='<td data-label="'+C.th[0]+'"><input aria-label="'+C.th[0]+'" class="n"></td><td data-label="'+C.th[1]+'"><input aria-label="'+C.th[1]+'" class="b" inputmode="decimal"></td><td data-label="'+C.th[2]+'"><input aria-label="'+C.th[2]+'" class="r" inputmode="decimal"></td><td data-label="'+C.th[3]+'"><input aria-label="'+C.th[3]+'" class="m" inputmode="decimal"></td><td><button type="button" class="rm" aria-label="'+C.rm+'">×</button></td>';
+ var i=tr.querySelectorAll('input');if(d){i[0].value=d[0];i[1].value=d[1];i[2].value=d[2];i[3].value=d[3];}
+ tr.querySelector('.rm').onclick=function(){tr.remove()};tb.appendChild(tr);}
+function num(s){s=String(s||'').trim();if(!s)return 0;if(s.indexOf(',')>-1){s=s.replace(/\./g,'').replace(',','.')}else if(/^\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,'')}return parseFloat(s)||0}
+function sim(ds,pay,key){var d=ds.map(function(x){return {n:x.n,b:x.b,r:x.r/100,m:x.m,done:0}});var tot=0,int=0,mo=0,order=[];
+ while(d.some(function(x){return x.b>0.005})){mo++;if(mo>600)return null;
+  d.forEach(function(x){if(x.b>0){var i=x.b*x.r;x.b+=i;int+=i}});
+  var left=pay;d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p;left-=p;tot+=p}});
+  var act=d.filter(function(x){return x.b>0.005}).sort(key);
+  for(var k=0;k<act.length&&left>0.005;k++){var p=Math.min(left,act[k].b);act[k].b-=p;left-=p;tot+=p}
+  d.forEach(function(x){if(x.b<=0.005&&!x.done){x.done=mo;x.b=0;order.push(x.n+' ('+mo+')')}});}
+ return {mo:mo,int:int,tot:tot,order:order}}
+function box(t,r,win){var dt=new Date();dt.setMonth(dt.getMonth()+r.mo);
+ return '<div class="rbox'+(win?' win':'')+'"><h3>'+t+'</h3><dl><dt>'+C.months+'</dt><dd>'+r.mo+'</dd><dt>'+C.date+'</dt><dd>'+dt.toLocaleDateString(C.loc,{month:'short',year:'numeric'})+'</dd><dt>'+C.interest+'</dt><dd>'+fmt(r.int)+'</dd><dt>'+C.total+'</dt><dd>'+fmt(r.tot)+'</dd></dl><p class="small">'+C.order+':</p><ol>'+r.order.map(function(o){return '<li>'+o.replace(/</g,'&lt;')+'</li>'}).join('')+'</ol></div>'}
+function run(){var ds=[];tb.querySelectorAll('tr').forEach(function(tr,i){var v=tr.querySelectorAll('input');var b=num(v[1].value);if(b>0)ds.push({n:v[0].value||('#'+(i+1)),b:b,r:num(v[2].value),m:num(v[3].value)})});
+ var pay=num(document.getElementById('pay').value),minS=ds.reduce(function(a,x){return a+x.m},0);
+ if(!ds.length){out.innerHTML='';return}
+ if(pay<minS){out.innerHTML='<p class="cerr">'+C.err_min+': '+fmt(minS)+'</p>';return}
+ var s=sim(ds,pay,function(a,b){return a.b-b.b}),a=sim(ds,pay,function(a,b){return b.r-a.r||a.b-b.b});
+ if(!s||!a){out.innerHTML='<p class="cerr">'+C.err_never+'</p>';return}
+ out.innerHTML='<div class="res">'+box(C.snow,s,s.int<a.int-0.5)+box(C.aval,a,a.int<=s.int+0.5)+'</div><p><strong>'+C.diff+':</strong> '+fmt(Math.abs(s.int-a.int))+'</p>';
+ try{if(window.gtag)gtag('event','calc')}catch(e){}}
+C.ex.forEach(row);document.getElementById('add').onclick=function(){row()};
+document.getElementById('go').onclick=run;run();
+})();
+</script>
+<footer class="foot"><div class="wrap"><p class="foot-disc">Uno strumento di pianificazione finanziaria. Non è consulenza finanziaria e non garantisce risultati.</p><p class="foot-copy">© 2026 Gabriel Araujo de Lima</p></div></footer>
+</body>
+</html>

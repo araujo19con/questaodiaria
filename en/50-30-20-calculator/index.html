@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>50/30/20 Budget Calculator: What to Spend and Save (Free)</title>
+<meta name="description" content="Free 50/30/20 budget calculator: enter your monthly take-home pay and see how much goes to needs, wants and savings, and compare it with what you spend today.">
+<link rel="canonical" href="https://araujo19con.github.io/questaodiaria/en/50-30-20-calculator/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b3d6e">
+<link rel="icon" href="/questaodiaria/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/questaodiaria/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/questaodiaria/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/questaodiaria/style.css?v=4">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Questão Diária Concursos">
+<meta property="og:title" content="50/30/20 Budget Calculator: What to Spend and Save (Free)">
+<meta property="og:description" content="Free 50/30/20 budget calculator: enter your monthly take-home pay and see how much goes to needs, wants and savings, and compare it with what you spend today.">
+<meta property="og:url" content="https://araujo19con.github.io/questaodiaria/en/50-30-20-calculator/">
+<meta property="og:image" content="https://araujo19con.github.io/questaodiaria/img/cover-en-budget.jpg">
+<meta property="og:image:alt" content="50/30/20 Budget Calculator">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="50/30/20 Budget Calculator: What to Spend and Save (Free)">
+<meta name="twitter:description" content="Free 50/30/20 budget calculator: enter your monthly take-home pay and see how much goes to needs, wants and savings, and compare it with what you spend today.">
+<meta name="twitter:image" content="https://araujo19con.github.io/questaodiaria/img/cover-en-budget.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"50/30/20 Budget Calculator","url":"https://araujo19con.github.io/questaodiaria/en/50-30-20-calculator/","description":"Free 50/30/20 budget calculator: enter your monthly take-home pay and see how much goes to needs, wants and savings, and compare it with what you spend today.","applicationCategory":"FinanceApplication","operatingSystem":"Any","inLanguage":"en","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What if my needs are more than 50%?","acceptedAnswer":{"@type":"Answer","text":"That is common, especially with high rent. Use the rule as a guide: cut wants first and adjust the percentages to your situation."}},{"@type":"Question","name":"Where do debt payments go?","acceptedAnswer":{"@type":"Answer","text":"Minimum payments are needs. Anything extra you pay to get out of debt faster goes in the 20%."}},{"@type":"Question","name":"Is this financial advice?","acceptedAnswer":{"@type":"Answer","text":"No. It is a planning tool and does not guarantee any result."}}]}</script>
+<link rel="alternate" hreflang="en" href="https://araujo19con.github.io/questaodiaria/en/50-30-20-calculator/">
+<link rel="alternate" hreflang="es" href="https://araujo19con.github.io/questaodiaria/es/calculadora-50-30-20/">
+<style>
+.c5 label{display:block;font-weight:700;margin:12px 0 6px}
+.c5 input{width:100%;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fffbe6}
+.c5 .grp{border:2px solid var(--navy);border-radius:12px;padding:12px 14px;margin:14px 0;background:#fff}
+.c5 .grp h3{margin:0 0 2px;font-size:1.1rem}.c5 .grp .hint{color:var(--muted);font-size:.85rem;margin:0 0 8px}
+.c5 .big{font-size:1.6rem;font-weight:800;color:var(--navy-900);margin:4px 0}
+.c5 .cmp{font-size:.95rem;margin:6px 0 0}.c5 .bad{color:#b23a48;font-weight:700}.c5 .good{color:#2e7d5b;font-weight:700}
+.c5 .bar{height:10px;border-radius:6px;background:var(--navy-50);overflow:hidden;margin-top:8px}.c5 .bar i{display:block;height:100%;background:var(--navy)}
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Skip to content</a>
+<header class="top">
+<div class="wrap top-in">
+<a class="brand" href="/questaodiaria/"><img src="/questaodiaria/img/logo.png" width="40" height="40" alt=""><span>Questão Diária <b>Concursos</b></span></a>
+
+</div>
+</header>
+<main id="conteudo">
+<section class="hero"><div class="wrap">
+<nav class="crumbs" aria-label="Trilha"><a href="/questaodiaria/en/templates/">Templates</a> <span aria-hidden="true">›</span> <span>50/30/20 calculator</span></nav>
+<h1>50/30/20 Budget Calculator</h1>
+<p class="lead">Enter your monthly take-home pay and see how the 50/30/20 rule splits it into needs, wants and savings. Optionally, enter what you spend today in each group to compare. It runs in your browser.</p>
+</div></section>
+<div class="wrap content">
+<section class="c5" aria-label="50/30/20 calculator">
+<label for="inc">Monthly take-home pay ($)</label><input id="inc" inputmode="decimal" value="4200">
+<div aria-live="polite"><div class="grp"><h3>Needs · 50%</h3><p class="hint">Rent or mortgage, utilities, groceries, transportation, insurance, minimum debt payments</p><div id="r-needs"></div>
+<label for="c-needs">What you spend today (optional)</label><input id="c-needs" inputmode="decimal"></div><div class="grp"><h3>Wants · 30%</h3><p class="hint">Dining out, entertainment, subscriptions, shopping</p><div id="r-wants"></div>
+<label for="c-wants">What you spend today (optional)</label><input id="c-wants" inputmode="decimal"></div><div class="grp"><h3>Savings and debt · 20%</h3><p class="hint">Emergency fund, retirement, investing and extra debt payments</p><div id="r-save"></div>
+<label for="c-save">What you spend today (optional)</label><input id="c-save" inputmode="decimal"></div></div>
+<button type="button" class="btn btn-buy" id="go">Calculate</button>
+</section>
+<section class="band" aria-labelledby="cta"><h2 id="cta">Want to track this every month?</h2><p>The Monthly Budget Planner has 12 monthly tabs with planned vs. actual, a dashboard with charts by category and savings goals with progress bars. Works in Excel and Google Sheets.</p>
+<div class="cta-row"><a class="btn btn-buy" href="/questaodiaria/en/templates/#budget">See the template (US$ 9.90)</a></div></section>
+<section aria-labelledby="how"><h2 id="how">What is the 50/30/20 rule?</h2><ol><li>It is a starting point for splitting your take-home pay (after taxes) into three groups.</li><li>50% for needs: what you must pay to live and work.</li><li>30% for wants: what makes life better but can be cut if needed.</li><li>20% for savings and paying off debt faster.</li></ol></section>
+<section aria-labelledby="faq"><h2 id="faq">FAQ</h2><div class="faq"><details><summary>What if my needs are more than 50%?</summary><p>That is common, especially with high rent. Use the rule as a guide: cut wants first and adjust the percentages to your situation.</p></details><details><summary>Where do debt payments go?</summary><p>Minimum payments are needs. Anything extra you pay to get out of debt faster goes in the 20%.</p></details><details><summary>Is this financial advice?</summary><p>No. It is a planning tool and does not guarantee any result.</p></details></div></section>
+<p class="small">En español: <a href="/questaodiaria/es/calculadora-50-30-20/" hreflang="es">calculadora 50/30/20</a>. See also: <a href="/questaodiaria/en/debt-snowball-calculator/">debt snowball calculator</a>.</p>
+</div></main>
+<script>window.C5={"loc": "en-US", "code": "USD", "now": "Today", "over": "above the suggestion", "under": "below the suggestion", "ok": "on target", "g": [{"k": "needs", "p": 0.5}, {"k": "wants", "p": 0.3}, {"k": "save", "p": 0.2}]};</script>
+<script>
+(function(){var C=window.C5;
+function num(s){s=String(s||'').trim();if(!s)return NaN;if(s.indexOf(',')>-1){s=s.replace(/\./g,'').replace(',','.')}else if(/^\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,'')}return parseFloat(s)}
+function fmt(v){try{return new Intl.NumberFormat(C.loc,{style:'currency',currency:C.code}).format(v)}catch(e){return v.toFixed(2)}}
+function run(){var inc=num(document.getElementById('inc').value);if(!(inc>0))return;
+ C.g.forEach(function(g){var t=inc*g.p,el=document.getElementById('r-'+g.k),cur=num(document.getElementById('c-'+g.k).value);
+  var h='<p class="big">'+fmt(t)+'</p>';
+  if(cur>=0){var d=cur-t,pct=Math.min(100,cur/inc*100);var bad=(g.k==='save')?d<-0.5:d>0.5;
+   h+='<p class="cmp">'+C.now+': '+fmt(cur)+' ('+(cur/inc*100).toFixed(0)+'%) · <span class="'+(Math.abs(d)<=0.5?'good':(bad?'bad':'good'))+'">'+fmt(Math.abs(d))+' '+(Math.abs(d)<=0.5?C.ok:(d>0?C.over:C.under))+'</span></p><div class="bar"><i style="width:'+pct+'%"></i></div>'}
+  el.innerHTML=h});}
+document.getElementById('go').onclick=run;document.querySelectorAll('.c5 input').forEach(function(i){i.addEventListener('input',run)});run();})();
+</script>
+<footer class="foot"><div class="wrap"><p class="foot-disc">A financial planning tool. Not financial advice; no guaranteed results.</p><p class="foot-copy">© 2026 Gabriel Araujo de Lima</p></div></footer>
+</body>
+</html>

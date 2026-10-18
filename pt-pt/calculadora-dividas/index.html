@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calculadora para pagar dívidas: bola de neve vs. avalanche (grátis)</title>
+<meta name="description" content="Calculadora grátis para pagar dívidas: indique as dívidas, a taxa mensal e quanto pode pagar por mês e compare os métodos bola de neve e avalanche: meses e juros.">
+<link rel="canonical" href="https://araujo19con.github.io/questaodiaria/pt-pt/calculadora-dividas/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0b3d6e">
+<link rel="icon" href="/questaodiaria/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/questaodiaria/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/questaodiaria/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/questaodiaria/style.css?v=4">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_PT">
+<meta property="og:site_name" content="Gabriel Araujo de Lima">
+<meta property="og:title" content="Calculadora para pagar dívidas: bola de neve vs. avalanche (grátis)">
+<meta property="og:description" content="Calculadora grátis para pagar dívidas: indique as dívidas, a taxa mensal e quanto pode pagar por mês e compare os métodos bola de neve e avalanche: meses e juros.">
+<meta property="og:url" content="https://araujo19con.github.io/questaodiaria/pt-pt/calculadora-dividas/">
+<meta property="og:image" content="https://araujo19con.github.io/questaodiaria/img/cover-ptpt-debt.jpg">
+<meta property="og:image:alt" content="Calculadora para pagar dívidas: bola de neve vs. avalanche">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Calculadora para pagar dívidas: bola de neve vs. avalanche (grátis)">
+<meta name="twitter:description" content="Calculadora grátis para pagar dívidas: indique as dívidas, a taxa mensal e quanto pode pagar por mês e compare os métodos bola de neve e avalanche: meses e juros.">
+<meta name="twitter:image" content="https://araujo19con.github.io/questaodiaria/img/cover-ptpt-debt.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora para pagar dívidas: bola de neve vs. avalanche","url":"https://araujo19con.github.io/questaodiaria/pt-pt/calculadora-dividas/","description":"Calculadora grátis para pagar dívidas: indique as dívidas, a taxa mensal e quanto pode pagar por mês e compare os métodos bola de neve e avalanche: meses e juros.","applicationCategory":"FinanceApplication","operatingSystem":"Any","inLanguage":"pt-PT","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qual é o melhor método?","acceptedAnswer":{"@type":"Answer","text":"A avalanche costuma custar menos juros. A bola de neve paga primeiro as dívidas pequenas, o que ajuda a manter a motivação. A calculadora mostra a diferença com os seus números."}},{"@type":"Question","name":"Como passo da taxa anual para a mensal?","acceptedAnswer":{"@type":"Answer","text":"Divida a taxa anual por 12. Exemplo: 15,6 % por ano ≈ 1,3 % por mês."}},{"@type":"Question","name":"É aconselhamento financeiro?","acceptedAnswer":{"@type":"Answer","text":"Não. É uma ferramenta de planeamento e não garante resultados."}}]}</script>
+<link rel="alternate" hreflang="pt-PT" href="https://araujo19con.github.io/questaodiaria/pt-pt/calculadora-dividas/">
+<link rel="alternate" hreflang="pt-BR" href="https://araujo19con.github.io/questaodiaria/calculadora-quitar-dividas/">
+<style>
+.calc table{width:100%;border-collapse:collapse;font-size:.95rem}
+.calc th{font-size:.8rem;text-align:left;color:var(--muted);padding:4px}
+.calc td{padding:4px;vertical-align:top}
+.calc input{width:100%;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fffbe6}
+.calc .rm{min-height:44px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.2rem}
+.calc .row-btns{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.calc label{display:block;font-weight:700;margin:12px 0 6px}
+.res{display:grid;gap:14px;margin:18px 0}
+@media(min-width:640px){.res{grid-template-columns:1fr 1fr}}
+.rbox{border:2px solid var(--navy);border-radius:12px;padding:12px 14px;background:#fff}
+.rbox h3{margin:.2rem 0 .6rem;font-size:1.05rem}
+.rbox dl{display:grid;grid-template-columns:auto auto;gap:4px 12px;margin:0}
+.rbox dt{color:var(--muted)}.rbox dd{margin:0;font-weight:700;text-align:right}
+.rbox ol{margin:.6rem 0 0;padding-left:1.2rem;font-size:.9rem}
+.rbox.win{border-color:#2e7d5b;box-shadow:0 0 0 3px #d7efe3}
+.cerr{color:#b23a48;font-weight:700}
+@media(max-width:560px){.calc thead{display:none}.calc tr{display:grid;grid-template-columns:1fr 1fr;gap:4px;border-bottom:1px solid var(--line);padding:8px 0}.calc td:first-child{grid-column:1/3}.calc td[data-label]::before{content:attr(data-label);display:block;font-size:.75rem;color:var(--muted);margin-bottom:2px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Saltar para o conteúdo</a>
+<header class="top">
+<div class="wrap top-in">
+<a class="brand" href="/questaodiaria/pt-pt/modelos/"><svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#f2a516"/><text x="20" y="26" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#14213d">GA</text></svg><span>Gabriel Araujo <b>Modelos</b></span></a>
+
+</div>
+</header>
+<main id="conteudo">
+<section class="hero"><div class="wrap">
+<nav class="crumbs" aria-label="Trilha"><a href="/questaodiaria/pt-pt/modelos/">Modelos</a> <span aria-hidden="true">›</span> <span>Calculadora de dívidas</span></nav>
+<h1>Calculadora para pagar dívidas: bola de neve vs. avalanche</h1>
+<p class="lead">Indique as suas dívidas, a taxa de juro e quanto pode pagar no total por mês. A calculadora mostra em quantos meses fica sem dívidas e quanto paga de juros com cada método. Nada é enviado: tudo é calculado no seu navegador.</p>
+</div></section>
+<div class="wrap content">
+<section class="calc" aria-label="Calculadora de dívidas">
+<table><thead><tr><th scope="col">Dívida</th><th scope="col">Saldo (€)</th><th scope="col">Juro mensal (%)</th><th scope="col">Prestação mínima (€)</th><th scope="col"></th></tr></thead><tbody id="dt"></tbody></table>
+<div class="row-btns"><button type="button" class="btn btn-ghost" id="add">+ Adicionar dívida</button></div>
+<label for="pay">Total que pode pagar por mês (€)</label>
+<input id="pay" inputmode="decimal" value="600">
+<div class="row-btns"><button type="button" class="btn btn-buy" id="go">Calcular</button></div>
+<div id="out" aria-live="polite"></div>
+</section>
+<section class="band" aria-labelledby="cta"><h2 id="cta">Quer o plano mês a mês e um registo de pagamentos?</h2><p>O Plano para Pagar Dívidas faz isto para até 10 dívidas, com plano de pagamentos, quanto pagar em cada dívida por mês, gráficos e registo. Para Excel e Google Sheets.</p>
+<div class="cta-row"><a class="btn btn-buy" href="/questaodiaria/pt-pt/modelos/#dividas">Ver o modelo (12,90 €)</a></div></section>
+<section aria-labelledby="how"><h2 id="how">Como funciona a calculadora</h2><ol><li>Todos os meses, cada dívida cresce com os juros (saldo × taxa mensal). Se o banco indicar uma TAN anual, divida-a por 12.</li><li>Paga a prestação mínima em todas as dívidas e o resto do valor vai para a dívida-alvo.</li><li>Bola de neve: o alvo é o menor saldo. Avalanche: o alvo é o juro mais alto.</li><li>Quando uma dívida fica paga, a prestação dela passa para a seguinte.</li></ol></section>
+<section aria-labelledby="faq"><h2 id="faq">FAQ</h2><div class="faq"><details><summary>Qual é o melhor método?</summary><p>A avalanche costuma custar menos juros. A bola de neve paga primeiro as dívidas pequenas, o que ajuda a manter a motivação. A calculadora mostra a diferença com os seus números.</p></details><details><summary>Como passo da taxa anual para a mensal?</summary><p>Divida a taxa anual por 12. Exemplo: 15,6 % por ano ≈ 1,3 % por mês.</p></details><details><summary>É aconselhamento financeiro?</summary><p>Não. É uma ferramenta de planeamento e não garante resultados.</p></details></div></section>
+<p class="small">Veja também: <a href="/questaodiaria/pt-pt/calculadora-50-30-20/">calculadora 50/30/20</a> · <a href="/questaodiaria/pt-pt/bola-de-neve-ou-avalanche/">bola de neve ou avalanche?</a> · No Brasil: <a href="/questaodiaria/calculadora-quitar-dividas/" hreflang="pt-BR">calculadora em reais</a>.</p>
+</div></main>
+<script>window.CALC={"loc": "pt-PT", "code": "EUR", "cur": "€", "th": ["Dívida", "Saldo (€)", "Juro mensal (%)", "Prestação mínima (€)", ""], "ex": [["Cartão de crédito", 2500, 1.3, 75], ["Crédito automóvel", 6000, 0.6, 160], ["Descoberto bancário", 600, 0.9, 20]], "rm": "Remover", "snow": "Bola de neve (menor saldo primeiro)", "aval": "Avalanche (juro mais alto primeiro)", "months": "Meses até ficar sem dívidas", "interest": "Juros totais", "total": "Total pago", "date": "Sem dívidas em", "order": "Ordem de pagamento", "err_min": "O valor mensal tem de ser pelo menos a soma das prestações mínimas", "err_never": "Com este valor a dívida não fica paga em 50 anos: os juros crescem mais depressa do que o pagamento.", "diff": "Diferença de juros entre os métodos"};</script>
+<script>
+(function(){
+var C=window.CALC,tb=document.getElementById('dt'),out=document.getElementById('out');
+function fmt(v){try{return new Intl.NumberFormat(C.loc,{style:'currency',currency:C.code}).format(v)}catch(e){return C.cur+' '+v.toFixed(2)}}
+function row(d){var tr=document.createElement('tr');
+ tr.innerHTML='<td data-label="'+C.th[0]+'"><input aria-label="'+C.th[0]+'" class="n"></td><td data-label="'+C.th[1]+'"><input aria-label="'+C.th[1]+'" class="b" inputmode="decimal"></td><td data-label="'+C.th[2]+'"><input aria-label="'+C.th[2]+'" class="r" inputmode="decimal"></td><td data-label="'+C.th[3]+'"><input aria-label="'+C.th[3]+'" class="m" inputmode="decimal"></td><td><button type="button" class="rm" aria-label="'+C.rm+'">×</button></td>';
+ var i=tr.querySelectorAll('input');if(d){i[0].value=d[0];i[1].value=d[1];i[2].value=d[2];i[3].value=d[3];}
+ tr.querySelector('.rm').onclick=function(){tr.remove()};tb.appendChild(tr);}
+function num(s){s=String(s||'').trim();if(!s)return 0;if(s.indexOf(',')>-1){s=s.replace(/\./g,'').replace(',','.')}else if(/^\d{1,3}(\.\d{3})+$/.test(s)){s=s.replace(/\./g,'')}return parseFloat(s)||0}
+function sim(ds,pay,key){var d=ds.map(function(x){return {n:x.n,b:x.b,r:x.r/100,m:x.m,done:0}});var tot=0,int=0,mo=0,order=[];
+ while(d.some(function(x){return x.b>0.005})){mo++;if(mo>600)return null;
+  d.forEach(function(x){if(x.b>0){var i=x.b*x.r;x.b+=i;int+=i}});
+  var left=pay;d.forEach(function(x){if(x.b>0){var p=Math.min(x.m,x.b);x.b-=p;left-=p;tot+=p}});
+  var act=d.filter(function(x){return x.b>0.005}).sort(key);
+  for(var k=0;k<act.length&&left>0.005;k++){var p=Math.min(left,act[k].b);act[k].b-=p;left-=p;tot+=p}
+  d.forEach(function(x){if(x.b<=0.005&&!x.done){x.done=mo;x.b=0;order.push(x.n+' ('+mo+')')}});}
+ return {mo:mo,int:int,tot:tot,order:order}}
+function box(t,r,win){var dt=new Date();dt.setMonth(dt.getMonth()+r.mo);
+ return '<div class="rbox'+(win?' win':'')+'"><h3>'+t+'</h3><dl><dt>'+C.months+'</dt><dd>'+r.mo+'</dd><dt>'+C.date+'</dt><dd>'+dt.toLocaleDateString(C.loc,{month:'short',year:'numeric'})+'</dd><dt>'+C.interest+'</dt><dd>'+fmt(r.int)+'</dd><dt>'+C.total+'</dt><dd>'+fmt(r.tot)+'</dd></dl><p class="small">'+C.order+':</p><ol>'+r.order.map(function(o){return '<li>'+o.replace(/</g,'&lt;')+'</li>'}).join('')+'</ol></div>'}
+function run(){var ds=[];tb.querySelectorAll('tr').forEach(function(tr,i){var v=tr.querySelectorAll('input');var b=num(v[1].value);if(b>0)ds.push({n:v[0].value||('#'+(i+1)),b:b,r:num(v[2].value),m:num(v[3].value)})});
+ var pay=num(document.getElementById('pay').value),minS=ds.reduce(function(a,x){return a+x.m},0);
+ if(!ds.length){out.innerHTML='';return}
+ if(pay<minS){out.innerHTML='<p class="cerr">'+C.err_min+': '+fmt(minS)+'</p>';return}
+ var s=sim(ds,pay,function(a,b){return a.b-b.b}),a=sim(ds,pay,function(a,b){return b.r-a.r||a.b-b.b});
+ if(!s||!a){out.innerHTML='<p class="cerr">'+C.err_never+'</p>';return}
+ out.innerHTML='<div class="res">'+box(C.snow,s,s.int<a.int-0.5)+box(C.aval,a,a.int<=s.int+0.5)+'</div><p><strong>'+C.diff+':</strong> '+fmt(Math.abs(s.int-a.int))+'</p>';
+ try{if(window.gtag)gtag('event','calc')}catch(e){}}
+C.ex.forEach(row);document.getElementById('add').onclick=function(){row()};
+document.getElementById('go').onclick=run;run();
+})();
+</script>
+<footer class="foot"><div class="wrap"><p class="foot-disc">Ferramenta de planeamento financeiro. Não é aconselhamento financeiro e não garante resultados.</p><p class="foot-copy">© 2026 Gabriel Araujo de Lima</p></div></footer>
+</body>
+</html>

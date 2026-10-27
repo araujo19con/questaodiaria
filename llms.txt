@@ -37,6 +37,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Quórum e votações no Regimento Interno da Câmara de Pires do Rio/GO (Instituto Verbena)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/quorum-votacoes-camara-pires-do-rio/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Pires do Rio/GO](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/veto-sancao-promulgacao-camara-pires-do-rio/)
 - [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
+  - [Eleição da Mesa no Regimento Interno da Câmara de Unaí/MG: prazos, votação e desempate (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/eleicao-mesa-camara-unai/)
   - [Quórum, votação e veto no Regimento Interno da Câmara de Unaí/MG (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/quorum-votacao-veto-camara-unai/)
 - [Legislação Câmara de Tupaciguara 2026 (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/): Câmara Municipal de Tupaciguara/MG, banca IADHED, prova 27/12/2026
   - [Lei Orgânica de Tupaciguara/MG: pontos que mais caem e prazos (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/lei-organica-camara-tupaciguara-pontos-e-prazos/)

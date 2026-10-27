@@ -118,5 +118,10 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Revisor de posts jurídicos com IA (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/)
 - [Revisor de Posts Jurídicos (agente de IA)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/): 
 
+## Por banca
+- [Provas da Comperve: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/comperve/)
+- [Provas da Consulplan: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/consulplan/)
+- [Provas da FGV: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fgv/)
+
 ## Sobre
 - [Como o material é feito e conferido](https://araujo19con.github.io/questaodiaria/sobre/)

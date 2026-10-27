@@ -39,6 +39,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
   - [Quórum, votação e veto no Regimento Interno da Câmara de Unaí/MG (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/quorum-votacao-veto-camara-unai/)
 - [Legislação Câmara de Tupaciguara 2026 (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/): Câmara Municipal de Tupaciguara/MG, banca IADHED, prova 27/12/2026
+  - [Lei Orgânica de Tupaciguara/MG: pontos que mais caem e prazos (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/lei-organica-camara-tupaciguara-pontos-e-prazos/)
   - [Quórum e Mesa Diretora no Regimento Interno da Câmara de Tupaciguara/MG (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/quorum-mesa-diretora-camara-tupaciguara/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Tupaciguara/MG (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/veto-sancao-promulgacao-camara-tupaciguara/)
 - [Legislação Câmara de Vila Boa 2027 (ITAME)](https://araujo19con.github.io/questaodiaria/camara-vila-boa/): Câmara Municipal de Vila Boa/GO, banca ITAME, prova 17/01/2027

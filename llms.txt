@@ -31,6 +31,10 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Top 20 dispositivos da Câmara de Goianinha/RN para a prova da Comperve](https://araujo19con.github.io/questaodiaria/camara-goianinha/top-20-dispositivos-camara-goianinha/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Goianinha/RN](https://araujo19con.github.io/questaodiaria/camara-goianinha/veto-sancao-promulgacao-camara-goianinha/)
 - [Legislação Câmara de Pires do Rio 2026 (Instituto Verbena/UFG)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/): Câmara Municipal de Pires do Rio/GO, banca Instituto Verbena/UFG, prova 17/01/2027
+  - [Comissões da Câmara de Pires do Rio/GO no Regimento Interno: permanentes e temporárias](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/comissoes-regimento-interno-camara-pires-do-rio/)
+  - [Mesa Diretora da Câmara de Pires do Rio/GO no Regimento Interno: composição, eleição e destituição](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/mesa-diretora-camara-pires-do-rio/)
+  - [Quórum e votações no Regimento Interno da Câmara de Pires do Rio/GO (Instituto Verbena)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/quorum-votacoes-camara-pires-do-rio/)
+  - [Veto, sanção e promulgação no Regimento Interno da Câmara de Pires do Rio/GO](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/veto-sancao-promulgacao-camara-pires-do-rio/)
 - [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
 - [Legislação Câmara de Tupaciguara 2026 (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/): Câmara Municipal de Tupaciguara/MG, banca IADHED, prova 27/12/2026
 - [Legislação Câmara de Vila Boa 2027 (ITAME)](https://araujo19con.github.io/questaodiaria/camara-vila-boa/): Câmara Municipal de Vila Boa/GO, banca ITAME, prova 17/01/2027

@@ -1,0 +1,122 @@
+# Questão Diária Concursos
+
+> Materiais independentes de legislação para concursos (Câmaras Municipais, guardas municipais, polícias militares, assembleias legislativas, tribunais e OAB): resumos esquematizados com o artigo de cada regra e questões inéditas no estilo da banca. Sem vínculo com os órgãos ou as bancas. Não garante aprovação.
+
+Cada página traz o concurso, a banca e a data da prova; os artigos citados são conferidos com o texto oficial da norma e a página informa a data da conferência.
+
+## Câmaras Municipais
+- [Concursos de Câmara Municipal: legislação e questões](https://araujo19con.github.io/questaodiaria/camaras-municipais/)
+- [Legislação Câmara de Mossoró 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-mossoro/): Câmara Municipal de Mossoró/RN, banca Comperve, prova 06/12/2026
+  - [Lei de Improbidade com a reforma da Lei 14.230/2021: resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-de-improbidade-resumo/)
+  - [Lei Orgânica do Município de Mossoró: resumo para a Comperve](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-organica-mossoro-resumo/)
+  - [Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-mossoro-resolucao-25-2025/)
+  - [Regimento Interno da Câmara Municipal de Mossoró](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-de-mossoro/)
+  - [Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025) e suas alterações](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-mossoro-rn-alteracoes/)
+  - [Regimento Interno x Lei Orgânica de Mossoró: divergências](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-x-lei-organica-mossoro/)
+  - [Top 20 dispositivos da Câmara de Mossoró (Comperve)](https://araujo19con.github.io/questaodiaria/camara-mossoro/top-20-dispositivos-camara-mossoro/)
+- [Legislação Câmara de Cristalina 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/): Câmara Municipal de Cristalina/GO, banca Consulplan, prova 20/12/2026
+  - [Estágio probatório em Cristalina/GO: o que mudou com a Lei nº 2.874/2026](https://araujo19con.github.io/questaodiaria/camara-cristalina/estagio-probatorio-cristalina-lei-2874-2026/)
+  - [Estatuto dos Servidores de Cristalina/GO (Lei nº 1.207/1994): resumo](https://araujo19con.github.io/questaodiaria/camara-cristalina/estatuto-servidores-cristalina-lei-1207/)
+  - [Estatuto dos Servidores de Cristalina: Lei Municipal nº 475/1971 ou Lei nº 1.207/1994?](https://araujo19con.github.io/questaodiaria/camara-cristalina/estatuto-servidores-cristalina-lei-475-1971/)
+  - [Lei Orgânica de Cristalina/GO: resumo para a Consulplan](https://araujo19con.github.io/questaodiaria/camara-cristalina/lei-organica-cristalina-resumo/)
+  - [Lei Orgânica do Município de Cristalina-GO nº 1/1990: o que mais cai e questões](https://araujo19con.github.io/questaodiaria/camara-cristalina/lei-organica-municipio-cristalina-go-1-1990/)
+  - [Regimento Interno da Câmara de Cristalina/GO (Resolução nº 160/2013): resumo](https://araujo19con.github.io/questaodiaria/camara-cristalina/regimento-interno-camara-cristalina-resumo/)
+  - [Regimento Interno da Câmara Municipal de Cristalina-GO: prazos que caem e questões](https://araujo19con.github.io/questaodiaria/camara-cristalina/regimento-interno-camara-municipal-cristalina-go/)
+  - [Regimento Interno x Lei Orgânica de Cristalina: as divergências](https://araujo19con.github.io/questaodiaria/camara-cristalina/regimento-x-lei-organica-cristalina/)
+  - [Simulado Câmara de Cristalina (Consulplan): 5 questões grátis de Legislação Específica](https://araujo19con.github.io/questaodiaria/camara-cristalina/simulado-camara-cristalina-consulplan/)
+  - [Top 20 dispositivos da Câmara de Cristalina (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/top-20-dispositivos-camara-cristalina/)
+- [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
+  - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
+  - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)
+  - [Top 20 dispositivos da Câmara de Goianinha/RN para a prova da Comperve](https://araujo19con.github.io/questaodiaria/camara-goianinha/top-20-dispositivos-camara-goianinha/)
+  - [Veto, sanção e promulgação no Regimento Interno da Câmara de Goianinha/RN](https://araujo19con.github.io/questaodiaria/camara-goianinha/veto-sancao-promulgacao-camara-goianinha/)
+- [Legislação Câmara de Pires do Rio 2026 (Instituto Verbena/UFG)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/): Câmara Municipal de Pires do Rio/GO, banca Instituto Verbena/UFG, prova 17/01/2027
+- [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
+- [Legislação Câmara de Tupaciguara 2026 (IADHED)](https://araujo19con.github.io/questaodiaria/camara-tupaciguara/): Câmara Municipal de Tupaciguara/MG, banca IADHED, prova 27/12/2026
+- [Legislação Câmara de Vila Boa 2027 (ITAME)](https://araujo19con.github.io/questaodiaria/camara-vila-boa/): Câmara Municipal de Vila Boa/GO, banca ITAME, prova 17/01/2027
+  - [Lei Orgânica de Vila Boa: o que cai na prova da Câmara](https://araujo19con.github.io/questaodiaria/camara-vila-boa/lei-organica-de-vila-boa/)
+  - [Regimento Interno da Câmara de Vila Boa: prazos, quóruns e questões](https://araujo19con.github.io/questaodiaria/camara-vila-boa/regimento-interno-camara-de-vila-boa/)
+
+## Guardas Municipais
+- [Concursos de Guarda Civil Municipal: legislação e questões](https://araujo19con.github.io/questaodiaria/guardas-municipais/)
+- [Legislação GCM Salvador 2027 (FGV)](https://araujo19con.github.io/questaodiaria/gcm-salvador/): Guarda Civil Municipal de Salvador, banca FGV, prova 17/01/2027
+  - [Decreto nº 27.731/2016 de Salvador: Regimento da GCM resumido (FGV 2027)](https://araujo19con.github.io/questaodiaria/gcm-salvador/decreto-27731-2016-regimento-gcm-salvador/)
+  - [Divergências entre as normas da GCM Salvador](https://araujo19con.github.io/questaodiaria/gcm-salvador/divergencias-legislacao-gcm-salvador/)
+  - [Estatuto Geral das Guardas Municipais (Lei 13.022/2014): resumo](https://araujo19con.github.io/questaodiaria/gcm-salvador/estatuto-geral-guardas-municipais-lei-13022/)
+  - [Lei nº 9.273/2017 de Salvador: Regime Disciplinar da GCM resumido (FGV 2027)](https://araujo19con.github.io/questaodiaria/gcm-salvador/lei-9273-2017-regime-disciplinar-gcm-salvador/)
+  - [Lei nº 9.640/2022 de Salvador: Plano de Carreira da GCM resumido (FGV 2027)](https://araujo19con.github.io/questaodiaria/gcm-salvador/lei-9640-2022-plano-de-carreira-gcm-salvador/)
+  - [Pegadinhas FGV de legislação da GCM Salvador](https://araujo19con.github.io/questaodiaria/gcm-salvador/pegadinhas-fgv-gcm-salvador/)
+  - [Top 20 dispositivos da GCM Salvador para a prova (FGV)](https://araujo19con.github.io/questaodiaria/gcm-salvador/top-20-dispositivos-gcm-salvador/)
+
+## Polícia Militar e Bombeiros
+- [Concursos de Polícia Militar e Bombeiros: legislação e itens](https://araujo19con.github.io/questaodiaria/policia-militar/)
+- [Legislação PMAL e CBMAL 2027 (Cebraspe)](https://araujo19con.github.io/questaodiaria/pmal-cbmal/): Polícia Militar e Corpo de Bombeiros Militar de Alagoas, banca Cebraspe, prova 17/01/2027 (PM) e 24/01/2027 (CBM)
+  - [Abuso de autoridade (Lei 13.869/2019) para o concurso da PM-AL: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/abuso-de-autoridade-lei-13869-pm-al/)
+  - [Crimes hediondos (Lei 8.072/1990) atualizada até 2026 para a PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/crimes-hediondos-lei-8072-pm-al/)
+  - [Estatuto do Desarmamento: crimes e penas para o concurso da PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/estatuto-do-desarmamento-crimes-pm-al/)
+  - [Estatuto da PM de Alagoas (Lei 5.346/1992) atualizado: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/estatuto-pmal-lei-5346-resumo/)
+  - [Juizados Especiais Criminais (Lei 9.099/1995) para a PM-AL: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/juizados-especiais-criminais-lei-9099-pm-al/)
+  - [Lei de Drogas (11.343/2006) para o concurso da PM-AL: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/lei-de-drogas-11343-pm-al/)
+  - [Lei de Tortura (9.455/1997) para a PM-AL: resumo atualizado em 2026](https://araujo19con.github.io/questaodiaria/pmal-cbmal/lei-de-tortura-9455-pm-al/)
+  - [Lei Maria da Penha atualizada em 2026 para o concurso da PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/lei-maria-da-penha-11340-pm-al/)
+  - [Lei Orgânica Nacional das PMs e CBMs (Lei 14.751/2023): resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/lei-organica-nacional-pm-lei-14751/)
+  - [Organização criminosa (Lei 12.850/2013) para o concurso da PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/organizacao-criminosa-lei-12850-pm-al/)
+  - [Pegadinhas do Estatuto da PMAL e do Regulamento Disciplinar](https://araujo19con.github.io/questaodiaria/pmal-cbmal/pegadinhas-estatuto-pmal/)
+  - [Prisão temporária (Lei 7.960/1989) para o concurso da PM-AL: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/prisao-temporaria-lei-7960-pm-al/)
+  - [Racismo e injúria racial (Lei 7.716/1989) para o concurso da PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/racismo-injuria-racial-lei-7716-pm-al/)
+  - [Top 20 dispositivos da PMAL e do CBMAL (Cebraspe)](https://araujo19con.github.io/questaodiaria/pmal-cbmal/top-20-dispositivos-pmal/)
+
+## Assembleias Legislativas
+- [Concursos de Assembleia Legislativa: legislação e questões](https://araujo19con.github.io/questaodiaria/assembleias-legislativas/)
+- [Legislação ALEPA 2026 (Cetap)](https://araujo19con.github.io/questaodiaria/alepa/): Assembleia Legislativa do Pará, banca Cetap, prova 13/12/2026
+  - [Constituição do Estado do Pará para a ALEPA: resumo dos artigos do edital](https://araujo19con.github.io/questaodiaria/alepa/constituicao-do-para-resumo-alepa/)
+  - [Regimento da ALEPA x Constituição do Pará: divergências](https://araujo19con.github.io/questaodiaria/alepa/divergencias-regimento-alepa/)
+  - [Lei Anticorrupção (12.846/2013): resumo para concursos](https://araujo19con.github.io/questaodiaria/alepa/lei-anticorrupcao-resumo/)
+  - [LC 95/1998: técnica legislativa para concursos (resumo)](https://araujo19con.github.io/questaodiaria/alepa/lei-complementar-95-tecnica-legislativa/)
+  - [LGPD (Lei 13.709/2018): resumo para concursos](https://araujo19con.github.io/questaodiaria/alepa/lgpd-resumo-concursos/)
+  - [Pegadinhas da ALEPA: Regimento Interno e Constituição do Pará](https://araujo19con.github.io/questaodiaria/alepa/pegadinhas-alepa/)
+  - [Regimento Interno da ALEPA (Resolução nº 02/2022): resumo para a Cetap](https://araujo19con.github.io/questaodiaria/alepa/regimento-interno-alepa-resolucao-02-2022/)
+  - [Top 20 dispositivos da ALEPA para a prova (Cetap)](https://araujo19con.github.io/questaodiaria/alepa/top-20-dispositivos-alepa/)
+
+## Tribunais
+- [Concursos de Tribunal: legislação e questões comentadas](https://araujo19con.github.io/questaodiaria/tribunais/)
+- [Reta Final TRT-8 2027 (FCC): Direitos PcD + Legislação do TRT-8](https://araujo19con.github.io/questaodiaria/trt8/): Tribunal Regional do Trabalho da 8ª Região (PA/AP), banca FCC, prova 17/01/2027
+  - [Capacidade civil, curatela e tomada de decisão apoiada (LBI)](https://araujo19con.github.io/questaodiaria/trt8/capacidade-civil-curatela-lbi/)
+  - [Conceitos da LBI: pessoa com deficiência e barreiras (arts. 2º e 3º)](https://araujo19con.github.io/questaodiaria/trt8/conceitos-lbi-pessoa-com-deficiencia/)
+  - [LBI: acessibilidade (arts. 53 a 62-A)](https://araujo19con.github.io/questaodiaria/trt8/lbi-acessibilidade/)
+  - [LBI: crimes e infrações (arts. 88 a 91)](https://araujo19con.github.io/questaodiaria/trt8/lbi-crimes/)
+  - [LBI: direito à educação da pessoa com deficiência (arts. 27 a 30)](https://araujo19con.github.io/questaodiaria/trt8/lbi-educacao/)
+  - [LBI: trabalho e habilitação profissional (arts. 34 a 38)](https://araujo19con.github.io/questaodiaria/trt8/lbi-trabalho/)
+  - [Lei 10.048/2000: atendimento prioritário (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-10048-atendimento-prioritario/)
+  - [Lei 10.098/2000: acessibilidade (resumo para concursos)](https://araujo19con.github.io/questaodiaria/trt8/lei-10098-acessibilidade/)
+  - [Lei 7.853/1989: apoio, ação civil pública e crimes (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-7853-pessoa-com-deficiencia/)
+  - [Direitos da pessoa com deficiência: quadros de revisão (TRT-8)](https://araujo19con.github.io/questaodiaria/trt8/quadros-revisao-pessoa-com-deficiencia-trt8/)
+
+## Exame de Ordem (OAB)
+- [Ética para a OAB: Estatuto e Código de Ética em questões](https://araujo19con.github.io/questaodiaria/oab/)
+- [Ética para a OAB 48 (FGV): Estatuto e CED Esquematizados](https://araujo19con.github.io/questaodiaria/etica-oab/): Exame de Ordem (OAB), banca FGV, prova 10/01/2027 (1ª fase, data provável)
+  - [Atividades privativas da advocacia e mandato (arts. 1º a 5º do Estatuto)](https://araujo19con.github.io/questaodiaria/etica-oab/atividade-de-advocacia-mandato-oab/)
+  - [Código de Ética da OAB: resumo de deveres, sigilo e publicidade](https://araujo19con.github.io/questaodiaria/etica-oab/codigo-de-etica-oab-resumo/)
+  - [Honorários advocatícios no Estatuto e no Código de Ética (OAB)](https://araujo19con.github.io/questaodiaria/etica-oab/honorarios-advocaticios-oab/)
+  - [Incompatibilidade x impedimento na OAB: quadro dos arts. 27 a 30](https://araujo19con.github.io/questaodiaria/etica-oab/incompatibilidade-impedimento-oab/)
+  - [Infrações e sanções na OAB: censura, suspensão e exclusão](https://araujo19con.github.io/questaodiaria/etica-oab/infracoes-e-sancoes-oab/)
+  - [Inscrição, licença e cancelamento na OAB (arts. 8º a 14)](https://araujo19con.github.io/questaodiaria/etica-oab/inscricao-na-oab/)
+  - [Organização da OAB e eleições (arts. 44 a 67), com a Lei 15.511/2026](https://araujo19con.github.io/questaodiaria/etica-oab/organizacao-da-oab-eleicoes/)
+  - [15 pegadinhas de Ética que a FGV repete na OAB](https://araujo19con.github.io/questaodiaria/etica-oab/pegadinhas-etica-oab/)
+  - [Prazos e quóruns do Estatuto da OAB: tabela para a 1ª fase](https://araujo19con.github.io/questaodiaria/etica-oab/prazos-estatuto-oab/)
+  - [Prerrogativas do advogado (art. 7º do Estatuto): resumo OAB](https://araujo19con.github.io/questaodiaria/etica-oab/prerrogativas-do-advogado-oab/)
+  - [Processo disciplinar na OAB: prazos e competência (resumo)](https://araujo19con.github.io/questaodiaria/etica-oab/processo-disciplinar-oab/)
+  - [Quantas questões de Ética caem na OAB? O que mudou para o 48º Exame](https://araujo19con.github.io/questaodiaria/etica-oab/quantas-questoes-etica-oab/)
+  - [Sociedade de advogados e advogado empregado: resumo OAB](https://araujo19con.github.io/questaodiaria/etica-oab/sociedade-de-advogados-oab/)
+
+## Advogados
+- [Posts para advogados: conteúdo jurídico dentro do Provimento 205](https://araujo19con.github.io/questaodiaria/advogados/)
+- [Clube de Posts para Advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/): 
+- [Pack de 30 posts para advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/): 
+  - [Clube de posts para advogados: 20 posts editáveis por mês](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/)
+  - [O que o advogado pode postar no Instagram (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/provimento-205-o-que-pode-postar/)
+  - [Revisor de posts jurídicos com IA (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/)
+- [Revisor de Posts Jurídicos (agente de IA)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/): 
+
+## Sobre
+- [Como o material é feito e conferido](https://araujo19con.github.io/questaodiaria/sobre/)

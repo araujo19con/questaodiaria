@@ -1,0 +1,195 @@
+LEGENDAS SUGERIDAS · Pack 30 Posts Proteção de Dados (LGPD)
+Troque [Nome do Escritório], OAB/UF e @seuperfil. Legendas informativas, conforme o Provimento CFOAB 205/2021: sem valores, sem promessa de resultado, sem casos concretos e sem chamada direta para contratação. Conteúdo conferido no texto de a Lei Geral de Proteção de Dados (Lei 13.709/2018) em 28/10/2026.
+
+===== POST 01 · LGPD, art. 1º, caput =====
+Para que serve a LGPD? O art. 1º dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 02 · LGPD, art. 2º, I, II e IV =====
+Entre os fundamentos da disciplina da proteção de dados pessoais, o art. 2º da LGPD lista:
+
+1. o respeito à privacidade (inciso I);
+2. a autodeterminação informativa (inciso II);
+3. a inviolabilidade da intimidade, da honra e da imagem (inciso IV).
+
+Há outros incisos, como a liberdade de expressão e a livre iniciativa.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 03 · LGPD, art. 3º, I =====
+A LGPD vale para quem está fora do Brasil? O art. 3º aplica a Lei a qualquer operação de tratamento realizada por pessoa natural ou jurídica, independentemente do meio, do país de sua sede ou do país onde estejam localizados os dados, desde que, por exemplo, a operação de tratamento seja realizada no território nacional (inciso I). Os incisos II e III trazem outras hipóteses.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 04 · LGPD, art. 4º, I, II, a, e III, a e b =====
+O art. 4º da LGPD afasta a aplicação da Lei, entre outras hipóteses, ao tratamento de dados pessoais:
+
+1. realizado por pessoa natural para fins exclusivamente particulares e não econômicos;
+2. realizado para fins exclusivamente jornalísticos e artísticos;
+3. realizado para fins exclusivos de segurança pública ou defesa nacional.
+
+O artigo traz outras hipóteses e ressalvas; vale ler o texto completo.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 05 · LGPD, art. 5º, I =====
+Dado pessoal, segundo o art. 5º, I, da LGPD, é a informação relacionada a pessoa natural identificada ou identificável. Note que a pessoa não precisa estar identificada de imediato: basta ser identificável.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 06 · LGPD, art. 5º, II =====
+O art. 5º, II, da LGPD define dado pessoal sensível como o dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
+
+#lgpd #protecaodedados #privacidade #dadossensiveis
+
+===== POST 07 · LGPD, art. 5º, III =====
+Dado anonimizado, pelo art. 5º, III, da LGPD, é o dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 08 · LGPD, art. 5º, V, VI e VII =====
+O art. 5º da LGPD define os principais personagens:
+
+1. titular: pessoa natural a quem se referem os dados pessoais objeto de tratamento (inciso V);
+2. controlador: pessoa natural ou jurídica a quem competem as decisões referentes ao tratamento (inciso VI);
+3. operador: pessoa natural ou jurídica que realiza o tratamento em nome do controlador (inciso VII).
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 09 · LGPD, art. 5º, X =====
+Tratamento, segundo o art. 5º, X, da LGPD, é toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, entre outras.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 10 · LGPD, art. 6º, I, III e VII =====
+As atividades de tratamento devem observar a boa-fé e os princípios do art. 6º da LGPD. Três deles:
+
+1. finalidade: propósitos legítimos, específicos, explícitos e informados ao titular (inciso I);
+2. necessidade: limitação do tratamento ao mínimo necessário para a realização das finalidades (inciso III);
+3. segurança: medidas técnicas e administrativas aptas a proteger os dados de acessos não autorizados e de situações acidentais ou ilícitas (inciso VII).
+
+#lgpd #protecaodedados #privacidade #principios
+
+===== POST 11 · LGPD, art. 6º, VI =====
+Transparência é um dos princípios do art. 6º da LGPD (inciso VI): garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial.
+
+#lgpd #protecaodedados #privacidade #principios
+
+===== POST 12 · LGPD, art. 6º, X =====
+O último princípio do art. 6º da LGPD (inciso X) é a responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+
+#lgpd #protecaodedados #privacidade #principios
+
+===== POST 13 · LGPD, art. 7º, I, II e VI =====
+O tratamento de dados pessoais somente poderá ser realizado nas hipóteses do art. 7º da LGPD. Três delas:
+
+1. mediante o fornecimento de consentimento pelo titular (inciso I);
+2. para o cumprimento de obrigação legal ou regulatória pelo controlador (inciso II);
+3. para o exercício regular de direitos em processo judicial, administrativo ou arbitral (inciso VI).
+
+O consentimento é só uma das bases legais; o rol completo tem dez incisos.
+
+#lgpd #protecaodedados #privacidade #baseslegais
+
+===== POST 14 · LGPD, art. 7º, I, II e V =====
+Mito: "todo tratamento de dados exige consentimento".
+
+O art. 7º da LGPD prevê várias hipóteses para o tratamento, e o consentimento (inciso I) é apenas uma delas. Há também, por exemplo, o cumprimento de obrigação legal ou regulatória pelo controlador (inciso II) e a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular (inciso V).
+
+#lgpd #protecaodedados #privacidade #consentimento
+
+===== POST 15 · LGPD, art. 7º, IX =====
+O art. 7º, IX, da LGPD admite o tratamento quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+
+#lgpd #protecaodedados #privacidade #baseslegais
+
+===== POST 16 · LGPD, art. 7º, § 4º =====
+O art. 7º, § 4º, da LGPD dispensa a exigência do consentimento para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos na Lei.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 17 · LGPD, art. 8º, § 1º =====
+Consentimento dado por escrito, em contrato, precisa de destaque: pelo art. 8º, § 1º, da LGPD, deve constar de cláusula destacada das demais cláusulas contratuais.
+
+#lgpd #protecaodedados #privacidade #consentimento
+
+===== POST 18 · LGPD, art. 8º, § 2º =====
+Quem precisa provar que houve consentimento? Pelo art. 8º, § 2º, da LGPD, cabe ao controlador o ônus da prova de que o consentimento foi obtido em conformidade com o disposto na Lei.
+
+#lgpd #protecaodedados #privacidade #consentimento
+
+===== POST 19 · LGPD, art. 8º, § 4º =====
+O art. 8º, § 4º, da LGPD determina que o consentimento deverá referir-se a finalidades determinadas, e que as autorizações genéricas para o tratamento de dados pessoais serão nulas.
+
+#lgpd #protecaodedados #privacidade #consentimento
+
+===== POST 20 · LGPD, art. 8º, § 5º =====
+O consentimento pode ser revogado a qualquer momento, mediante manifestação expressa do titular, por procedimento gratuito e facilitado (LGPD, art. 8º, § 5º). Ficam ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado, enquanto não houver requerimento de eliminação.
+
+#lgpd #protecaodedados #privacidade #consentimento
+
+===== POST 21 · LGPD, art. 9º, I, II e III =====
+O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que devem ser disponibilizadas de forma clara, adequada e ostensiva. Entre elas (LGPD, art. 9º):
+
+1. finalidade específica do tratamento;
+2. forma e duração do tratamento, observados os segredos comercial e industrial;
+3. identificação do controlador.
+
+O artigo traz outros itens, como contato do controlador e responsabilidades dos agentes.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 22 · LGPD, art. 11, I =====
+O art. 11, I, da LGPD permite o tratamento de dados pessoais sensíveis quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas. O inciso II lista hipóteses em que o tratamento é possível sem consentimento.
+
+#lgpd #protecaodedados #privacidade #dadossensiveis
+
+===== POST 23 · LGPD, art. 14, caput e § 1º =====
+Dados de crianças e adolescentes têm regra própria. O art. 14 da LGPD determina que o tratamento seja realizado em seu melhor interesse. Para dados de crianças, o § 1º exige consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal.
+
+#lgpd #protecaodedados #privacidade #criancas
+
+===== POST 24 · LGPD, art. 15, I, II e III =====
+O término do tratamento de dados pessoais ocorrerá, entre outras hipóteses do art. 15 da LGPD:
+
+1. quando verificado que a finalidade foi alcançada ou que os dados deixaram de ser necessários ou pertinentes (inciso I);
+2. com o fim do período de tratamento (inciso II);
+3. por comunicação do titular, inclusive no exercício do direito de revogação do consentimento (inciso III).
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 25 · LGPD, art. 16, caput e I =====
+Terminado o tratamento, os dados pessoais serão eliminados, no âmbito e nos limites técnicos das atividades (LGPD, art. 16). A lei autoriza a conservação para certas finalidades, como o cumprimento de obrigação legal ou regulatória pelo controlador (inciso I).
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 26 · LGPD, art. 18, V, VI e VII =====
+O art. 18 da LGPD assegura ao titular, mediante requisição ao controlador, entre outros direitos:
+
+1. portabilidade dos dados a outro fornecedor de serviço ou produto (inciso V);
+2. eliminação dos dados tratados com o consentimento, exceto nas hipóteses do art. 16 (inciso VI);
+3. informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados (inciso VII).
+
+#lgpd #protecaodedados #privacidade #direitosdotitular
+
+===== POST 27 · LGPD, art. 20, caput =====
+Decisão tomada por algoritmo pode ser revista? O art. 20 da LGPD assegura ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
+
+#lgpd #protecaodedados #privacidade #direitosdotitular
+
+===== POST 28 · LGPD, art. 19, II =====
+Pedido de declaração completa sobre o tratamento dos dados: a declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, deve ser fornecida no prazo de até 15 dias, contado da data do requerimento do titular (LGPD, art. 19, II). A confirmação de existência ou o acesso em formato simplificado é imediato (inciso I).
+
+#lgpd #protecaodedados #privacidade #direitosdotitular
+
+===== POST 29 · LGPD, art. 37 =====
+O art. 37 da LGPD exige que o controlador e o operador mantenham registro das operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse.
+
+#lgpd #protecaodedados #privacidade
+
+===== POST 30 · LGPD, art. 41, caput e § 1º =====
+O art. 41 da LGPD determina que o controlador indique encarregado pelo tratamento de dados pessoais. A identidade e as informações de contato do encarregado devem ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador (§ 1º).
+
+#lgpd #protecaodedados #privacidade #encarregado
+

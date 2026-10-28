@@ -124,6 +124,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Clube de Posts para Advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/): 
 - [Pack de 30 posts para advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/): 
   - [Clube de posts para advogados: 20 posts editáveis por mês](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/)
+  - [Packs de 30 posts para advogados por área do Direito](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/)
   - [O que o advogado pode postar no Instagram (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/provimento-205-o-que-pode-postar/)
   - [Revisor de posts jurídicos com IA (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/)
 - [Revisor de Posts Jurídicos (agente de IA)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/revisor-ia/): 

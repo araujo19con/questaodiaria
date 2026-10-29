@@ -124,6 +124,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Clube de Posts para Advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/): 
 - [Pack de 30 posts para advogados](https://araujo19con.github.io/questaodiaria/posts-para-advogados/): 
   - [Clube de posts para advogados: 20 posts editáveis por mês](https://araujo19con.github.io/questaodiaria/posts-para-advogados/clube/)
+  - [Dúvidas sobre marketing jurídico (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/)
   - [Ideias de posts para advogados por área](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/)
   - [Packs de 30 posts para advogados por área do Direito](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/)
   - [O que o advogado pode postar no Instagram (Provimento 205/2021)](https://araujo19con.github.io/questaodiaria/posts-para-advogados/provimento-205-o-que-pode-postar/)
@@ -137,3 +138,49 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 
 ## Sobre
 - [Como o material é feito e conferido](https://araujo19con.github.io/questaodiaria/sobre/)
+
+
+## Posts para advogados (publicidade informativa, Provimento 205/2021)
+### Dúvidas de marketing jurídico
+- [Advogado pode pagar anúncio e impulsionar posts?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/anuncio-pago-e-impulsionamento/)
+- [Advogado pode colocar telefone e endereço em artigos e entrevistas?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/contato-em-artigos-e-entrevistas/)
+- [Advogado pode anunciar especialidade?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/especialidade/)
+- [Advogado pode divulgar preço, desconto ou consulta grátis?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/honorarios-e-descontos/)
+- [Advogado pode divulgar lista de clientes ou causas?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/lista-de-clientes/)
+- [Advogado pode usar a logo da OAB nas redes sociais?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/logo-da-oab/)
+- [Advogado pode enviar newsletter ou boletim jurídico?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/newsletter-e-boletim/)
+- [Advogado pode mostrar carro, viagens e bens nas redes?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/ostentacao/)
+- [Advogado pode pagar para aparecer em rankings e prêmios?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/rankings-e-premios/)
+- [Advogado pode responder dúvidas jurídicas nas redes sociais?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/responder-duvidas-nas-redes/)
+- [Advogado pode divulgar resultados e casos no Instagram?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/resultados-e-casos/)
+- [Advogado pode mandar mensagem em massa no WhatsApp?](https://araujo19con.github.io/questaodiaria/posts-para-advogados/duvidas/whatsapp-e-mensagens/)
+### Packs de 30 posts por área
+- [Posts para advogados: Direito Civil (Contratos), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/civil/)
+- [Posts para advogados: Direito do Consumidor (CDC), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/consumidor/)
+- [Posts para advogados: Criança e Adolescente (ECA), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/eca/)
+- [Posts para advogados: Direito Empresarial, 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/empresarial/)
+- [Posts para advogados: Direito de Família (Código Civil), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/familia/)
+- [Posts para advogados: Imobiliário e Locação (Lei 8.245), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/imobiliario/)
+- [Posts para advogados: LGPD (proteção de dados), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/lgpd/)
+- [Posts para advogados: Assistência Social (LOAS e BPC), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/loas/)
+- [Posts para advogados: Previdenciário (Lei 8.213), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/previdenciario/)
+- [Posts para advogados: Processo Civil (CPC), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/processo-civil/)
+- [Posts para advogados: Direitos Reais, 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/reais/)
+- [Posts para advogados: Responsabilidade Civil, 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/respcivil/)
+- [Posts para advogados: Direito das Sucessões, 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/sucessoes/)
+- [Posts para advogados: Direito do Trabalho (CLT), 30 posts editáveis](https://araujo19con.github.io/questaodiaria/posts-para-advogados/packs/trabalho/)
+### Ideias de posts por área
+- [Ideias de posts para advogado de Direito Civil (Contratos): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/civil/)
+- [Ideias de posts para advogado de Direito do Consumidor (CDC): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/consumidor/)
+- [Ideias de posts para advogado de Criança e Adolescente (ECA): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/eca/)
+- [Ideias de posts para advogado de Direito Empresarial: 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/empresarial/)
+- [Ideias de posts para advogado de Direito de Família (Código Civil): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/familia/)
+- [Ideias de posts para advogado de Imobiliário e Locação (Lei 8.245): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/imobiliario/)
+- [Ideias de posts para advogado de LGPD (proteção de dados): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/lgpd/)
+- [Ideias de posts para advogado de Assistência Social (LOAS e BPC): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/loas/)
+- [Ideias de posts para advogado de Previdenciário (Lei 8.213): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/previdenciario/)
+- [Ideias de posts para advogado de Processo Civil (CPC): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/processo-civil/)
+- [Ideias de posts para advogado de Direitos Reais: 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/reais/)
+- [Ideias de posts para advogado de Responsabilidade Civil: 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/respcivil/)
+- [Ideias de posts para advogado de Direito das Sucessões: 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/sucessoes/)
+- [Ideias de posts para advogado de Direito do Trabalho (CLT): 10 temas](https://araujo19con.github.io/questaodiaria/posts-para-advogados/ideias/trabalho/)

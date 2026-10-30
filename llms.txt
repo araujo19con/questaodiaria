@@ -25,6 +25,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Regimento Interno x Lei Orgânica de Cristalina: as divergências](https://araujo19con.github.io/questaodiaria/camara-cristalina/regimento-x-lei-organica-cristalina/)
   - [Simulado Câmara de Cristalina (Consulplan): 5 questões grátis de Legislação Específica](https://araujo19con.github.io/questaodiaria/camara-cristalina/simulado-camara-cristalina-consulplan/)
   - [Top 20 dispositivos da Câmara de Cristalina (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/top-20-dispositivos-camara-cristalina/)
+- [Legislação Câmara de Cuiabá 2026 (Selecon)](https://araujo19con.github.io/questaodiaria/camara-cuiaba/): Câmara Municipal de Cuiabá/MT, banca Selecon, prova 13/12/2026
 - [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
   - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
   - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)
@@ -101,6 +102,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Lei 10.098/2000: acessibilidade (resumo para concursos)](https://araujo19con.github.io/questaodiaria/trt8/lei-10098-acessibilidade/)
   - [Lei 7.853/1989: apoio, ação civil pública e crimes (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-7853-pessoa-com-deficiencia/)
   - [Direitos da pessoa com deficiência: quadros de revisão (TRT-8)](https://araujo19con.github.io/questaodiaria/trt8/quadros-revisao-pessoa-com-deficiencia-trt8/)
+- [Legislação Institucional TCE-GO 2026 (FCC)](https://araujo19con.github.io/questaodiaria/tce-go/): Tribunal de Contas do Estado de Goiás, banca FCC, prova 17/01/2027
 
 ## Exame de Ordem (OAB)
 - [Ética para a OAB: Estatuto e Código de Ética em questões](https://araujo19con.github.io/questaodiaria/oab/)
@@ -134,6 +136,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 ## Por banca
 - [Provas da Comperve: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/comperve/)
 - [Provas da Consulplan: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/consulplan/)
+- [Provas da FCC: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fcc/)
 - [Provas da FGV: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fgv/)
 
 ## Sobre

@@ -26,6 +26,10 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Simulado Câmara de Cristalina (Consulplan): 5 questões grátis de Legislação Específica](https://araujo19con.github.io/questaodiaria/camara-cristalina/simulado-camara-cristalina-consulplan/)
   - [Top 20 dispositivos da Câmara de Cristalina (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/top-20-dispositivos-camara-cristalina/)
 - [Legislação Câmara de Cuiabá 2026 (Selecon)](https://araujo19con.github.io/questaodiaria/camara-cuiaba/): Câmara Municipal de Cuiabá/MT, banca Selecon, prova 13/12/2026
+  - [Lei Orgânica de Cuiabá: Câmara, Mesa e processo legislativo (resumo)](https://araujo19con.github.io/questaodiaria/camara-cuiaba/lei-organica-cuiaba-resumo/)
+  - [Comissões da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-comissoes-resumo/)
+  - [Mesa Diretora da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-mesa-diretora-resumo/)
+  - [Sessões da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-sessoes-resumo/)
 - [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
   - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
   - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)
@@ -95,14 +99,22 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Capacidade civil, curatela e tomada de decisão apoiada (LBI)](https://araujo19con.github.io/questaodiaria/trt8/capacidade-civil-curatela-lbi/)
   - [Conceitos da LBI: pessoa com deficiência e barreiras (arts. 2º e 3º)](https://araujo19con.github.io/questaodiaria/trt8/conceitos-lbi-pessoa-com-deficiencia/)
   - [LBI: acessibilidade (arts. 53 a 62-A)](https://araujo19con.github.io/questaodiaria/trt8/lbi-acessibilidade/)
+  - [LBI: assistência social e previdência (arts. 39 a 41 e 94)](https://araujo19con.github.io/questaodiaria/trt8/lbi-assistencia-social-previdencia/)
+  - [LBI: atendimento prioritário da pessoa com deficiência (art. 9º)](https://araujo19con.github.io/questaodiaria/trt8/lbi-atendimento-prioritario/)
   - [LBI: crimes e infrações (arts. 88 a 91)](https://araujo19con.github.io/questaodiaria/trt8/lbi-crimes/)
   - [LBI: direito à educação da pessoa com deficiência (arts. 27 a 30)](https://araujo19con.github.io/questaodiaria/trt8/lbi-educacao/)
+  - [LBI: direito à saúde da pessoa com deficiência (arts. 10 a 26)](https://araujo19con.github.io/questaodiaria/trt8/lbi-saude/)
   - [LBI: trabalho e habilitação profissional (arts. 34 a 38)](https://araujo19con.github.io/questaodiaria/trt8/lbi-trabalho/)
+  - [LBI: transporte e mobilidade (arts. 46 a 52 e 119)](https://araujo19con.github.io/questaodiaria/trt8/lbi-transporte-mobilidade/)
   - [Lei 10.048/2000: atendimento prioritário (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-10048-atendimento-prioritario/)
   - [Lei 10.098/2000: acessibilidade (resumo para concursos)](https://araujo19con.github.io/questaodiaria/trt8/lei-10098-acessibilidade/)
   - [Lei 7.853/1989: apoio, ação civil pública e crimes (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-7853-pessoa-com-deficiencia/)
   - [Direitos da pessoa com deficiência: quadros de revisão (TRT-8)](https://araujo19con.github.io/questaodiaria/trt8/quadros-revisao-pessoa-com-deficiencia-trt8/)
 - [Legislação Institucional TCE-GO 2026 (FCC)](https://araujo19con.github.io/questaodiaria/tce-go/): Tribunal de Contas do Estado de Goiás, banca FCC, prova 17/01/2027
+  - [Contas no TCE-GO (Lei Orgânica, Lei 16.168/2007): julgamento e execução, resumo](https://araujo19con.github.io/questaodiaria/tce-go/contas-tce-go-lei-organica-resumo/)
+  - [Fiscalização no TCE-GO (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/tce-go/fiscalizacao-tce-go-lei-organica-resumo/)
+  - [Sanções e medidas cautelares no TCE-GO (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/tce-go/sancoes-cautelares-tce-go-lei-organica-resumo/)
+  - [Sessões do TCE-GO (Regimento Interno, Res. 22/2008): resumo](https://araujo19con.github.io/questaodiaria/tce-go/sessoes-tce-go-regimento-interno-resumo/)
 
 ## Exame de Ordem (OAB)
 - [Ética para a OAB: Estatuto e Código de Ética em questões](https://araujo19con.github.io/questaodiaria/oab/)

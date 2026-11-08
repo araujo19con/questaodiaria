@@ -9,11 +9,13 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Legislação Câmara de Mossoró 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-mossoro/): Câmara Municipal de Mossoró/RN, banca Comperve, prova 06/12/2026
   - [Lei de Improbidade com a reforma da Lei 14.230/2021: resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-de-improbidade-resumo/)
   - [Lei Orgânica do Município de Mossoró: resumo para a Comperve](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-organica-mossoro-resumo/)
+  - [Processo legislativo na Câmara de Mossoró (Regimento e Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/processo-legislativo-camara-mossoro-regimento-lei-organica/)
   - [Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-mossoro-resolucao-25-2025/)
   - [Regimento Interno da Câmara Municipal de Mossoró](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-de-mossoro/)
   - [Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025) e suas alterações](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-mossoro-rn-alteracoes/)
   - [Regimento Interno x Lei Orgânica de Mossoró: divergências](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-x-lei-organica-mossoro/)
   - [Top 20 dispositivos da Câmara de Mossoró (Comperve)](https://araujo19con.github.io/questaodiaria/camara-mossoro/top-20-dispositivos-camara-mossoro/)
+  - [Vereadores de Mossoró: direitos, proibições e mandato (Regimento e Lei Orgânica)](https://araujo19con.github.io/questaodiaria/camara-mossoro/vereadores-mandato-direitos-proibicoes-camara-mossoro/)
 - [Legislação Câmara de Cristalina 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/): Câmara Municipal de Cristalina/GO, banca Consulplan, prova 20/12/2026
   - [Estágio probatório em Cristalina/GO: o que mudou com a Lei nº 2.874/2026](https://araujo19con.github.io/questaodiaria/camara-cristalina/estagio-probatorio-cristalina-lei-2874-2026/)
   - [Estatuto dos Servidores de Cristalina/GO (Lei nº 1.207/1994): resumo](https://araujo19con.github.io/questaodiaria/camara-cristalina/estatuto-servidores-cristalina-lei-1207/)

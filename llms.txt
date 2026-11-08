@@ -34,10 +34,13 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Top 20 dispositivos da Câmara de Cristalina (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-cristalina/top-20-dispositivos-camara-cristalina/)
   - [Vereadores no Regimento Interno da Câmara de Cristalina (arts. 64 a 89): resumo](https://araujo19con.github.io/questaodiaria/camara-cristalina/vereadores-regimento-interno-camara-cristalina/)
 - [Legislação Câmara de Cuiabá 2026 (Selecon)](https://araujo19con.github.io/questaodiaria/camara-cuiaba/): Câmara Municipal de Cuiabá/MT, banca Selecon, prova 13/12/2026
+  - [Deveres, proibições e penalidades no Estatuto dos Servidores de Cuiabá (LC 93/2003): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/estatuto-servidores-cuiaba-lc-93-penalidades-resumo/)
   - [Lei Orgânica de Cuiabá: Câmara, Mesa e processo legislativo (resumo)](https://araujo19con.github.io/questaodiaria/camara-cuiaba/lei-organica-cuiaba-resumo/)
   - [Comissões da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-comissoes-resumo/)
   - [Mesa Diretora da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-mesa-diretora-resumo/)
+  - [Processo legislativo da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-processo-legislativo-resumo/)
   - [Sessões da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-sessoes-resumo/)
+  - [Vereadores da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-vereadores-resumo/)
 - [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
   - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
   - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)

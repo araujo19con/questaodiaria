@@ -62,6 +62,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Lei nº 9.640/2022 de Salvador: Plano de Carreira da GCM resumido (FGV 2027)](https://araujo19con.github.io/questaodiaria/gcm-salvador/lei-9640-2022-plano-de-carreira-gcm-salvador/)
   - [Pegadinhas FGV de legislação da GCM Salvador](https://araujo19con.github.io/questaodiaria/gcm-salvador/pegadinhas-fgv-gcm-salvador/)
   - [Top 20 dispositivos da GCM Salvador para a prova (FGV)](https://araujo19con.github.io/questaodiaria/gcm-salvador/top-20-dispositivos-gcm-salvador/)
+- [Legislação GCM São Gonçalo 2026 (Selecon)](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/): Guarda Civil Municipal de São Gonçalo/RJ, banca Selecon, prova 24/01/2027
 
 ## Polícia Militar e Bombeiros
 - [Concursos de Polícia Militar e Bombeiros: legislação e itens](https://araujo19con.github.io/questaodiaria/policia-militar/)
@@ -150,6 +151,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Provas da Consulplan: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/consulplan/)
 - [Provas da FCC: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fcc/)
 - [Provas da FGV: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fgv/)
+- [Provas da Selecon: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/selecon/)
 
 ## Sobre
 - [Como o material é feito e conferido](https://araujo19con.github.io/questaodiaria/sobre/)

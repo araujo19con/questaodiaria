@@ -118,7 +118,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Lei 7.853/1989: apoio, ação civil pública e crimes (resumo)](https://araujo19con.github.io/questaodiaria/trt8/lei-7853-pessoa-com-deficiencia/)
   - [Direitos da pessoa com deficiência: quadros de revisão (TRT-8)](https://araujo19con.github.io/questaodiaria/trt8/quadros-revisao-pessoa-com-deficiencia-trt8/)
 - [Legislação Institucional TCE-GO 2026 (FCC)](https://araujo19con.github.io/questaodiaria/tce-go/): Tribunal de Contas do Estado de Goiás, banca FCC, prova 17/01/2027
-  - [Contas no TCE-GO (Lei Orgânica, Lei 16.168/2007): julgamento e execução, resumo](https://araujo19con.github.io/questaodiaria/tce-go/contas-tce-go-lei-organica-resumo/)
+  - [Contas no TCE-GO (Lei Orgânica): julgamento e execução](https://araujo19con.github.io/questaodiaria/tce-go/contas-tce-go-lei-organica-resumo/)
   - [Fiscalização no TCE-GO (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/tce-go/fiscalizacao-tce-go-lei-organica-resumo/)
   - [Sanções e medidas cautelares no TCE-GO (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/tce-go/sancoes-cautelares-tce-go-lei-organica-resumo/)
   - [Sessões do TCE-GO (Regimento Interno, Res. 22/2008): resumo](https://araujo19con.github.io/questaodiaria/tce-go/sessoes-tce-go-regimento-interno-resumo/)

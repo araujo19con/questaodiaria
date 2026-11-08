@@ -36,7 +36,9 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
   - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
   - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)
+  - [Sessões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/sessoes-camara-goianinha-regimento-interno/)
   - [Top 20 dispositivos da Câmara de Goianinha/RN para a prova da Comperve](https://araujo19con.github.io/questaodiaria/camara-goianinha/top-20-dispositivos-camara-goianinha/)
+  - [Vereadores no Regimento Interno da Câmara de Goianinha/RN: mandato, faltas e penalidades](https://araujo19con.github.io/questaodiaria/camara-goianinha/vereadores-mandato-regimento-interno-camara-goianinha/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Goianinha/RN](https://araujo19con.github.io/questaodiaria/camara-goianinha/veto-sancao-promulgacao-camara-goianinha/)
 - [Legislação Câmara de Pires do Rio 2026 (Instituto Verbena/UFG)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/): Câmara Municipal de Pires do Rio/GO, banca Instituto Verbena/UFG, prova 17/01/2027
   - [Comissões da Câmara de Pires do Rio/GO no Regimento Interno: permanentes e temporárias](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/comissoes-regimento-interno-camara-pires-do-rio/)

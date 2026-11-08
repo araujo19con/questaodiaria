@@ -63,6 +63,12 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Pegadinhas FGV de legislação da GCM Salvador](https://araujo19con.github.io/questaodiaria/gcm-salvador/pegadinhas-fgv-gcm-salvador/)
   - [Top 20 dispositivos da GCM Salvador para a prova (FGV)](https://araujo19con.github.io/questaodiaria/gcm-salvador/top-20-dispositivos-gcm-salvador/)
 - [Legislação GCM São Gonçalo 2026 (Selecon)](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/): Guarda Civil Municipal de São Gonçalo/RJ, banca Selecon, prova 24/01/2027
+  - [Estatuto Geral das Guardas Municipais (Lei 13.022/2014) para São Gonçalo](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/estatuto-geral-guardas-municipais-lei-13022-gcm-sao-goncalo/)
+  - [Estatuto da Guarda Municipal de São Gonçalo/RJ (Lei 1.625/2026): resumo](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/estatuto-guarda-municipal-sao-goncalo-lei-1625-resumo/)
+  - [Jornada, estabilidade e vantagens da Guarda de São Gonçalo (Lei 1.625/2026)](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/jornada-estabilidade-vantagens-guarda-sao-goncalo-lei-1625/)
+  - [Deveres, penalidades e processo disciplinar em São Gonçalo (Lei 1.416/2022)](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/processo-disciplinar-servidores-sao-goncalo-lei-1416/)
+  - [Regime Jurídico dos Servidores de São Gonçalo/RJ (Lei 1.416/2022): resumo](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/regime-juridico-servidores-sao-goncalo-lei-1416-resumo/)
+  - [Susp e PNSPDS (Lei 13.675/2018): resumo para a Guarda Municipal](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/susp-lei-13675-resumo-guarda-municipal-sao-goncalo/)
 
 ## Polícia Militar e Bombeiros
 - [Concursos de Polícia Militar e Bombeiros: legislação e itens](https://araujo19con.github.io/questaodiaria/policia-militar/)

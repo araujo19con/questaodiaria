@@ -562,35 +562,71 @@ URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/cassacao-manda
 Atualizado em: 2026-11-09
 Resumo do processo de cassação de mandato de vereador no Regimento Interno da Câmara de Petrolina/PE: comissão processante e quórum de 2/3, com os artigos.
 
-Seções: 7. Cassação de mandato (RI) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+Seções: 7. Cassação de mandato (RI) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+P: Como é formada a comissão processante na cassação de vereador em Petrolina?
+R: Por três vereadores sorteados dentre os desimpedidos (Regimento Interno da Câmara de Petrolina, art. 78, II).
+P: Qual o voto necessário para o afastamento definitivo do vereador?
+R: Pelo menos dois terços dos membros da Câmara (Regimento Interno, art. 78, VI). A Lei Orgânica também fixa dois terços para julgar vereador por infração político-administrativa (art. 12, XII).
 
 ## Lei Orgânica x Regimento Interno da Câmara de Petrolina: onde divergem
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/divergencias-lei-organica-regimento-camara-petrolina/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-09
 Divergências entre a Lei Orgânica e o Regimento Interno da Câmara de Petrolina/PE (sessão legislativa e sessões ordinárias) para a prova do IDECAN, com os artigos.
 
-Seções: 1. Atenção: onde a Lei Orgânica e o Regimento divergem | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Petrolina
+Seções: 1. Atenção: onde a Lei Orgânica e o Regimento divergem | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Petrolina
+P: Quando começam e terminam as sessões legislativas em Petrolina?
+R: Depende da norma citada: a Lei Orgânica (art. 30) fixa de 1º de fevereiro a 30 de junho e de 1º de agosto a 31 de dezembro; o Regimento Interno (art. 87) fixa de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
+P: Qual norma vale quando Lei Orgânica e Regimento divergem?
+R: Se a questão citar a norma, responda pela norma citada. Se não citar, vale a Lei Orgânica, por ter hierarquia superior (critério adotado neste material).
+P: Em que dias e horário ocorrem as sessões ordinárias?
+R: Terça e quinta-feira, às 09:00 (Regimento Interno, art. 86, § 1º).
 
 ## Mesa, sessões e comissões da Câmara de Petrolina (Regimento Interno): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/mesa-sessoes-comissoes-camara-petrolina-regimento-resumo/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-09
 Resumo da Mesa, das sessões e das comissões no Regimento Interno da Câmara de Petrolina/PE para a prova do IDECAN, com os artigos.
 
-Seções: 5. Regimento Interno: Mesa e sessões | 6. Regimento Interno: comissões | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Petrolina
+Seções: 5. Regimento Interno: Mesa e sessões | 6. Regimento Interno: comissões | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Petrolina
+P: Como é composta a Mesa da Câmara de Petrolina e qual o mandato?
+R: A Mesa tem 7 membros: Presidente, três Vice-Presidentes e três Secretários (Regimento Interno, art. 6º). O mandato é de 2 anos, com reeleição permitida na mesma legislatura (Lei Orgânica, art. 26, § 1º).
+P: Qual o quórum para destituir um membro da Mesa?
+R: Dois terços dos membros da Câmara (Regimento Interno, art. 8º).
+P: Com que antecedência se convoca sessão extraordinária?
+R: Com 72 horas de antecedência (Regimento Interno, art. 86, § 2º, I). As sessões itinerantes são 4 por sessão legislativa (art. 86, § 5º).
+P: Quantos membros tem uma Comissão Especial e como se cria uma CEI?
+R: A Comissão Especial tem de 4 a 7 membros, incluindo o autor do requerimento (art. 55, § 2º). Na CEI, o requerimento com um terço de assinaturas é deferido de plano pelo Presidente (art. 56, § 1º, II, a).
 
 ## Processo legislativo e veto em Petrolina (Lei Orgânica): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/processo-legislativo-veto-camara-petrolina-resumo/
 Atualizado em: 2026-11-09
 Resumo do processo legislativo da Lei Orgânica de Petrolina/PE: urgência, veto, sanção tácita, promulgação, decreto legislativo e resolução, com os artigos.
 
-Seções: 4. Processo legislativo (LOM) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+Seções: 4. Processo legislativo (LOM) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+P: Em quanto tempo o Prefeito de Petrolina pode vetar um projeto?
+R: Em 10 dias úteis do recebimento. Se o Prefeito ficar em silêncio, há sanção (Lei Orgânica, art. 46, §§ 1º e 3º).
+P: Qual o prazo e o quórum para a Câmara apreciar o veto?
+R: A Câmara aprecia o veto em 30 dias do recebimento. A rejeição exige maioria absoluta, em votação aberta (Lei Orgânica, art. 46, § 4º).
+P: Quem promulga a lei se o Prefeito não promulgar?
+R: Se o Prefeito não promulgar em 48 horas, o Presidente da Câmara o faz (Lei Orgânica, art. 46, § 8º).
+P: Qual o prazo de votação de projeto com urgência pedida pelo Prefeito?
+R: Quinze dias (Lei Orgânica, art. 45).
 
 ## Quóruns e competência da Câmara de Petrolina (Lei Orgânica): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/quoruns-camara-petrolina-lei-organica-resumo/
 Atualizado em: 2026-11-09
 Resumo da competência da Câmara e dos quóruns (2/3, maioria absoluta, 1/3) da Lei Orgânica do Município de Petrolina/PE para a prova do IDECAN, com os artigos.
 
-Seções: 3. Competência e quóruns (LOM) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+Seções: 3. Competência e quóruns (LOM) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Petrolina | Salve esta imagem no Pinterest
+P: Qual o quórum para julgar um vereador por infração político-administrativa em Petrolina?
+R: Dois terços dos membros da Câmara (Lei Orgânica do Município de Petrolina, art. 12, XII).
+P: Qual o quórum para derrubar o parecer do Tribunal de Contas sobre as contas do Prefeito?
+R: Dois terços dos membros da Câmara (Lei Orgânica, art. 12, XXI, a). Se a Câmara não deliberar em 60 dias, as contas vão à Ordem do Dia e as demais proposições ficam sobrestadas (art. 12, XXI, b).
+P: Quantas assinaturas são necessárias para pedir uma CPI na Câmara de Petrolina?
+R: O requerimento de CPI exige um terço dos membros da Câmara (Lei Orgânica, art. 12, VIII).
+P: Como se aprova uma emenda à Lei Orgânica de Petrolina e uma lei complementar?
+R: A emenda à Lei Orgânica exige dois turnos de votação, com dois terços dos membros em ambos (art. 35, § 1º). A lei complementar exige maioria absoluta (art. 36).
+P: Qual o prazo do pedido de informações da Câmara ao Executivo?
+R: Quinze dias, prorrogáveis por igual período, com justificativa (Lei Orgânica, art. 12, § 2º).
 
 ## Legislação Câmara de Pires do Rio 2026: Regimento Interno e Lei Orgânica
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/

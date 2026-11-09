@@ -1,4 +1,71 @@
 User-agent: *
 Allow: /
+Disallow: /d/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /d/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /d/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /d/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /d/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /d/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /d/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /d/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /d/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /d/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /d/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /d/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /d/
+
+User-agent: CCBot
+Allow: /
+Disallow: /d/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /d/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /d/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /d/
 
 Sitemap: https://araujo19con.github.io/questaodiaria/sitemap.xml
+# llms.txt: https://araujo19con.github.io/questaodiaria/llms.txt
+# llms-full.txt: https://araujo19con.github.io/questaodiaria/llms-full.txt

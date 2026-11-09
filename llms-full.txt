@@ -461,84 +461,178 @@ URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/contas-prefeito-
 Atualizado em: 2026-11-09
 Resumo do julgamento das contas do Prefeito e da Mesa no Regimento Interno (Res. 25/2025, arts. 295 e 296) e da fiscalização na Lei Orgânica de Mossoró/RN (arts. 65 e 66) para a prova da Comperve: prazos, parecer do TCE e quórum de 2/3.
 
-Seções: 1.10 Julgamento das contas do Prefeito e da Mesa (RI, arts. 295 e 296) | 2.7 Fiscalização (LOM, arts. 65 e 66) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.10 Julgamento das contas do Prefeito e da Mesa (RI, arts. 295 e 296) | 2.7 Fiscalização (LOM, arts. 65 e 66) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Qual o prazo para a Câmara de Mossoró julgar as contas do Prefeito?
+R: Sessenta dias do recebimento do parecer prévio do Tribunal de Contas (Lei Orgânica, art. 65, § 2º; Regimento Interno, art. 296). A Lei Orgânica veda o julgamento ficto: o parecer deve ser necessariamente deliberado.
+P: Qual o quórum para a Câmara de Mossoró rejeitar o parecer do Tribunal de Contas sobre as contas?
+R: Decisão de 2/3 dos membros da Câmara (Lei Orgânica, art. 65, § 3º; Regimento Interno, art. 296, III).
+P: Qual o prazo da comissão para opinar sobre o parecer do Tribunal de Contas em Mossoró?
+R: A Comissão de Orçamento, Finanças e Contabilidade tem 30 dias; se não cumprir, o Presidente designa Relator Especial, com prazo improrrogável de 10 dias (Regimento Interno, art. 295, §§ 1º e 2º).
+P: O Prefeito é ouvido antes do julgamento das contas pela Câmara de Mossoró?
+R: Sim. É notificado para manifestação escrita em 15 dias e, se não se manifestar, é considerado revel (Regimento Interno, art. 295, §§ 3º e 4º). O resultado do julgamento é transformado em Decreto Legislativo (art. 295, § 7º).
 
 ## Lei de Improbidade com a reforma da Lei 14.230/2021: resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-de-improbidade-resumo/
 Atualizado em: 2026-11-09
 Resumo da Lei 8.429/1992 com a Lei 14.230/2021: dolo, sujeitos, as três espécies de ato, sanções, ação, acordo de não persecução civil e prescrição.
 
-Seções: 3.1 Sistema, conceitos e sujeitos (LIA, arts. 1º a 8º-A) | 3.2 As três espécies de ato de improbidade | 3.3 Sanções (LIA, art. 12) | 3.4 Declaração de bens (LIA, art. 13) | 3.5 Procedimento administrativo e indisponibilidade (LIA, arts. 14 a 16) | 3.6 Ação judicial (LIA, arts. 17 a 18-A) | 3.7 Acordo de não persecução civil (LIA, art. 17-B) | 3.8 Disposições penais e independência (LIA, arts. 19 a 22) | 3.9 Prescrição e disposições finais (LIA, arts. 23 a 25) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 3.1 Sistema, conceitos e sujeitos (LIA, arts. 1º a 8º-A) | 3.2 As três espécies de ato de improbidade | 3.3 Sanções (LIA, art. 12) | 3.4 Declaração de bens (LIA, art. 13) | 3.5 Procedimento administrativo e indisponibilidade (LIA, arts. 14 a 16) | 3.6 Ação judicial (LIA, arts. 17 a 18-A) | 3.7 Acordo de não persecução civil (LIA, art. 17-B) | 3.8 Disposições penais e independência (LIA, arts. 19 a 22) | 3.9 Prescrição e disposições finais (LIA, arts. 23 a 25) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: O que é preciso para configurar ato de improbidade administrativa após a Lei 14.230/2021?
+R: Conduta dolosa tipificada nos arts. 9º, 10 e 11 (Lei 8.429/1992, art. 1º, § 1º). Dolo é a vontade livre e consciente de alcançar o resultado ilícito, não bastando a voluntariedade do agente (art. 1º, § 2º).
+P: Por quanto tempo pode ser suspenso o direito político em caso de improbidade?
+R: Até 14 anos no enriquecimento ilícito (art. 9º) e até 12 anos no dano ao erário (art. 10) (Lei 8.429/1992, art. 12, I e II).
+P: Qual a sanção para ato de improbidade que atenta contra os princípios da administração?
+R: Multa civil de até 24 vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou receber benefícios ou incentivos fiscais ou creditícios por prazo não superior a 4 anos (Lei 8.429/1992, art. 12, III).
+P: Qual o prazo de prescrição da ação de improbidade administrativa?
+R: Oito anos, contados da ocorrência do fato ou, nas infrações permanentes, do dia em que cessou a permanência (Lei 8.429/1992, art. 23). A instauração de inquérito civil ou processo administrativo suspende o prazo por no máximo 180 dias corridos (art. 23, § 1º).
 
 ## Lei Orgânica do Município de Mossoró: resumo para a Comperve
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-organica-mossoro-resumo/
 Atualizado em: 2026-11-09
 Resumo da Lei Orgânica do Município de Mossoró/RN para o concurso da Câmara (Comperve): fundamentos, competências, servidores e Câmara Municipal, com os artigos.
 
-Seções: 2.1 Fundamentos e organização (LOM, arts. 1º a 16) | 2.2 Administração pública e servidores (LOM, arts. 17 a 27) | 2.3 Câmara Municipal (LOM, arts. 28 a 38) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 2.1 Fundamentos e organização (LOM, arts. 1º a 16) | 2.2 Administração pública e servidores (LOM, arts. 17 a 27) | 2.3 Câmara Municipal (LOM, arts. 28 a 38) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Quantos vereadores tem a Câmara Municipal de Mossoró e qual a duração do mandato?
+R: São 23 vereadores (Lei Orgânica de Mossoró, art. 28, redação da Emenda à Lei Orgânica 10/2020), eleitos pelo sistema proporcional, com mandato de quatro anos (art. 29).
+P: Em quais períodos a Câmara de Mossoró se reúne ordinariamente?
+R: De 1º de fevereiro a 18 de julho e de 1º de agosto a 23 de dezembro (Lei Orgânica, art. 30, redação da Emenda à Lei Orgânica 09/2019).
+P: Como a Câmara de Mossoró delibera e quando as sessões podem ser reservadas?
+R: As deliberações são tomadas por maioria de votos, presente a maioria dos membros, salvo disposição em contrário (Lei Orgânica, art. 31). As sessões são públicas, salvo deliberação em contrário de dois terços dos vereadores, por motivo relevante (art. 34).
+P: Quem pode convocar extraordinariamente a Câmara Municipal de Mossoró?
+R: O Prefeito; o Presidente da Câmara, para o compromisso e a posse do Prefeito e do Vice-Prefeito; o Presidente ou a maioria dos membros, em casos de urgência ou interesse público relevante; e a Comissão Representativa (Lei Orgânica, art. 30, § 3º, I a IV).
 
 ## Participação popular na Câmara de Mossoró (Regimento Interno, arts. 283 a 294): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/participacao-popular-camara-mossoro-regimento-interno/
-Atualizado em: 2026-10-17
+Atualizado em: 2026-11-09
 Resumo da participação popular no Regimento Interno da Câmara Municipal de Mossoró/RN (Res. 25/2025, arts. 283 a 294) para a prova da Comperve: iniciativa popular, emendas populares, audiências públicas, petições, plebiscito e referendo.
 
-Seções: 1.9 Participação popular (RI, arts. 283 a 294) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.9 Participação popular (RI, arts. 283 a 294) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Quantas assinaturas são necessárias para a iniciativa popular na Câmara de Mossoró?
+R: No mínimo 5% do eleitorado local, para propostas de emenda à Lei Orgânica ou projetos de lei de interesse específico do Município, da cidade ou de bairros (Regimento Interno, art. 283). O primeiro signatário pode discutir o projeto por 30 minutos (art. 283, III).
+P: Como funciona o plebiscito na Câmara de Mossoró: quórum e prazo?
+R: A proposta parte da maioria dos membros da Câmara ou de no mínimo 5% dos eleitores e exige 2/3 dos membros (Regimento Interno, art. 292 e parágrafo único). O Executivo realiza o plebiscito em 180 dias (art. 293), sendo um por sessão legislativa (art. 293, § 1º).
+P: Em quanto tempo a mesma proposta de plebiscito pode ser reapresentada em Mossoró?
+R: Somente depois de 5 anos de carência (Regimento Interno, art. 293, § 2º).
+P: O que a sociedade precisa para pedir audiência pública na Câmara de Mossoró?
+R: Requerimento subscrito por 0,1% dos eleitores do Município ou de entidade legalmente constituída e em funcionamento há mais de um ano, sobre assunto de interesse público (Regimento Interno, art. 288).
 
 ## Processo legislativo na Câmara de Mossoró (Regimento e Lei Orgânica): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/processo-legislativo-camara-mossoro-regimento-lei-organica/
 Atualizado em: 2026-11-09
 Resumo do processo legislativo no Regimento Interno (Res. 25/2025, arts. 231 a 282) e na Lei Orgânica de Mossoró/RN (arts. 53 a 64) para a prova da Comperve.
 
-Seções: 1.8 Processo legislativo (RI, arts. 231 a 282) | 2.6 Processo legislativo (LOM, arts. 53 a 64) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.8 Processo legislativo (RI, arts. 231 a 282) | 2.6 Processo legislativo (LOM, arts. 53 a 64) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Qual o prazo para o Prefeito de Mossoró vetar um projeto de lei?
+R: Quinze dias úteis, contados do recebimento (Lei Orgânica, art. 60, § 1º; Regimento Interno, art. 263). O silêncio do Prefeito importa sanção (Lei Orgânica, art. 60, § 2º).
+P: Qual o quórum para a Câmara de Mossoró rejeitar um veto?
+R: Maioria absoluta dos Vereadores (Lei Orgânica, art. 60, § 4º; Regimento Interno, art. 263, § 6º). Esgotado o prazo sem deliberação, o veto vai para a Ordem do Dia da sessão imediata, sobrestadas as demais proposições (Lei Orgânica, art. 60, § 6º).
+P: Em quanto tempo a lei deve ser promulgada se o Prefeito não o fizer em Mossoró?
+R: O projeto aprovado é enviado ao Prefeito em dez dias úteis (Lei Orgânica, art. 60; Regimento Interno, art. 262). Se o Prefeito não promulgar em 48 horas, o Presidente da Câmara o faz em igual prazo e, na omissão deste, o Vice-Presidente (Lei Orgânica, art. 60, § 7º).
+P: Quais proposições têm dois turnos de votação na Câmara de Mossoró?
+R: A proposta de emenda à Lei Orgânica (intervalo mínimo de 10 dias), os projetos de PPA, LDO e LOA e os de codificação (Regimento Interno, art. 242, § 1º). As demais proposições têm discussão e votação únicas (art. 242, § 3º).
 
 ## Proposições na Câmara de Mossoró (Regimento Interno, Res. 25/2025): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/proposicoes-camara-mossoro-regimento-interno/
 Atualizado em: 2026-11-09
 Resumo das proposições no Regimento Interno da Câmara Municipal de Mossoró/RN (Res. 25/2025, arts. 180 a 230) para a prova da Comperve: espécies, requisitos, tramitação e prazos.
 
-Seções: 1.7 Proposições (RI, arts. 180 a 230) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.7 Proposições (RI, arts. 180 a 230) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Quem pode propor emenda à Lei Orgânica de Mossoró e qual o quórum de aprovação?
+R: Pelo menos 1/3 dos membros da Câmara, o Prefeito ou no mínimo 5% do eleitorado (Regimento Interno, art. 199, I). A proposta tem dois turnos, com intervalo mínimo de 10 dias, e exige 2/3 dos membros da Câmara (art. 200).
+P: Qual o prazo da Câmara de Mossoró para apreciar projeto com pedido de prazo do Prefeito?
+R: Noventa dias, contados do recebimento na Diretoria Legislativa; se o Prefeito julgar urgente, o regime de urgência é de até 30 dias (Regimento Interno, art. 205 e § 1º). Esses prazos não correm no recesso nem se aplicam aos projetos de códigos (art. 205, § 5º).
+P: Um projeto de lei rejeitado pode ser reapresentado na mesma sessão legislativa em Mossoró?
+R: Somente mediante proposta da maioria absoluta dos membros da Câmara (Regimento Interno, art. 206).
+P: Até quando se pode desarquivar uma proposição ao fim da legislatura em Mossoró?
+R: Mediante requerimento do vereador interessado ao Presidente, nos primeiros 180 dias da legislatura subsequente, retomando a tramitação do estágio em que estava (Regimento Interno, art. 190, parágrafo único).
 
 ## Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-mossoro-resolucao-25-2025/
 Atualizado em: 2026-11-09
 Resumo do Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025) e suas alterações para a prova da Comperve: funções, posse, quóruns e lideranças.
 
-Seções: 1.0 A Resolução nº 25/2025 (8 artigos) | 1.1 A Câmara e suas funções (RI, arts. 1º a 3º) | 1.2 Instalação e posse (RI, arts. 4º a 11) | 1.4 Plenário, quóruns e lideranças (RI, arts. 52 a 66) | Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.0 A Resolução nº 25/2025 (8 artigos) | 1.1 A Câmara e suas funções (RI, arts. 1º a 3º) | 1.2 Instalação e posse (RI, arts. 4º a 11) | 1.4 Plenário, quóruns e lideranças (RI, arts. 52 a 66) | Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Qual a diferença entre maioria simples, absoluta e qualificada no Regimento da Câmara de Mossoró?
+R: Simples é o maior resultado dentre os presentes; absoluta é mais da metade dos membros da Câmara; qualificada é 2/3 dos membros (Regimento Interno, art. 53, §§ 1º a 3º).
+P: As votações do Plenário da Câmara de Mossoró são abertas ou secretas?
+R: As deliberações do Plenário dão-se sempre por voto aberto (Regimento Interno, art. 55).
+P: Quando a Câmara de Mossoró se instala e quem preside a sessão de posse?
+R: Em 1º de janeiro de cada legislatura, em sessão solene, independentemente de número, sob a presidência do Vereador mais idoso entre os presentes; se houver empate de idade, do mais votado na eleição municipal (Regimento Interno, art. 4º).
+P: A Resolução nº 25/2025 revogou qual regimento anterior e quando entrou em vigor?
+R: Revogou a Resolução nº 01/1997, suas alterações e seus precedentes regimentais, além das Resoluções nº 03/2011, 02/2012 e 05/2019 (Resolução 25/2025, art. 7º). Entrou em vigor na data da publicação (art. 8º).
 
 ## Regimento Interno da Câmara Municipal de Mossoró
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-de-mossoro/
 Atualizado em: 2026-11-09
 Resumo do Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025): Mesa Diretora, Presidente, destituição e comissões, com os artigos.
 
-Seções: 1.3 Mesa Diretora (RI, arts. 12 a 51) | 1.5 Comissões (RI, arts. 67 a 138) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.3 Mesa Diretora (RI, arts. 12 a 51) | 1.5 Comissões (RI, arts. 67 a 138) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Como é composta a Mesa da Câmara de Mossoró e qual o mandato?
+R: A Mesa é composta pelo Presidente e pelos 1º e 2º Secretários; os dois Vice-Presidentes e os 3º e 4º Secretários só integram a Mesa quando em efetivo exercício (Regimento Interno, art. 15 e parágrafo único). O mandato é de dois anos, permitida a reeleição (art. 14).
+P: Qual o quórum para destituir membro da Mesa Diretora da Câmara de Mossoró?
+R: Projeto de resolução aprovado por no mínimo 2/3 dos membros da Câmara (Regimento Interno, art. 46). O processo começa por denúncia de no mínimo dois Vereadores (art. 47) e a Comissão Processante é formada por três Vereadores sorteados (art. 48).
+P: Quantos membros tem cada Comissão Permanente e por quanto tempo é o mandato?
+R: Cada Comissão Permanente tem 3 membros e 2 suplentes (Regimento Interno, art. 79). Os membros são nomeados pelo Presidente por 2 anos, com recondução permitida uma vez (art. 73).
+P: Quantas assinaturas são necessárias para criar uma CEI na Câmara de Mossoró?
+R: O requerimento subscrito por 1/3 dos membros da Câmara independe de deliberação do Plenário (Regimento Interno, art. 121, § 1º). O relatório final da CEI exige aprovação de 2/3 do Plenário (art. 138).
 
 ## Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025) e suas alterações
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-municipal-mossoro-rn-alteracoes/
 Atualizado em: 2026-11-09
 Regimento Interno da Câmara de Mossoró/RN (Res. 25/2025) e suas alterações: como o RI é reformado, prazos, legislatura, recesso e sessões, para a Comperve.
 
-Seções: 1.12 Precedentes, reforma do RI e disposições finais (RI, arts. 338 a 347) | 1.6 Sessões (RI, arts. 139 a 179) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: 1.12 Precedentes, reforma do RI e disposições finais (RI, arts. 338 a 347) | 1.6 Sessões (RI, arts. 139 a 179) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Qual o quórum para alterar o Regimento Interno da Câmara de Mossoró?
+R: A alteração se faz por projeto de resolução de qualquer Vereador ou da Mesa Diretora, com voto favorável da maioria qualificada dos membros (Regimento Interno, art. 341 e § 1º), que é de 2/3 (art. 53, § 3º).
+P: Quais são os períodos de recesso legislativo na Câmara de Mossoró?
+R: De 19 a 31 de julho e de 24 de dezembro a 31 de janeiro de cada ano (Regimento Interno, art. 344).
+P: Em que dias e horário ocorrem as sessões ordinárias da Câmara de Mossoró?
+R: Às terças e quartas-feiras, com início às 9h00 (Regimento Interno, art. 151). A abertura exige a presença de no mínimo 1/3 dos membros (art. 141).
+P: Os prazos do Regimento da Câmara de Mossoró correm durante o recesso?
+R: Não, salvo os relativos a matérias de convocação extraordinária e os das Comissões Processantes (Regimento Interno, art. 342 e § 1º). Quando não se mencionam dias úteis, o prazo conta-se em dias corridos (art. 342, § 2º).
 
 ## Regimento Interno x Lei Orgânica de Mossoró: divergências
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-x-lei-organica-mossoro/
 Atualizado em: 2026-11-09
 Onde o Regimento Interno da Câmara de Mossoró (Res. 25/2025) e a Lei Orgânica do Município dizem coisas diferentes, com o artigo de cada um.
 
-Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: A Mesa da Câmara de Mossoró é composta da mesma forma no Regimento e na Lei Orgânica?
+R: Não. O Regimento Interno (art. 15) fixa Presidente, 1º e 2º Secretários, com Vice-Presidentes e 3º e 4º Secretários só em efetivo exercício. A Lei Orgânica (art. 46) fixa Presidente, 1º e 2º Vice-Presidentes e 1º a 4º Secretários.
+P: O prazo de apreciação do veto é igual no Regimento e na Lei Orgânica de Mossoró?
+R: Não. O Regimento Interno prevê 30 dias a contar do recebimento (art. 263, § 6º); a Lei Orgânica prevê 30 dias úteis (art. 60, § 4º). Nas duas normas a rejeição exige a maioria absoluta.
+P: Qual o quórum para a perda do mandato de vereador: Regimento ou Lei Orgânica?
+R: O Regimento Interno exige 2/3 dos membros para cassar o mandato (art. 329). A Lei Orgânica prevê a declaração de perda por maioria absoluta nos casos do art. 41, I, II e VIII (art. 41, § 2º).
+P: A Comissão Representativa é escolhida da mesma forma no Regimento e na Lei Orgânica?
+R: Não. No Regimento Interno é nomeada pela Mesa Diretora (art. 345). Na Lei Orgânica é eleita pela Câmara ao término de cada sessão legislativa (art. 38).
 
 ## Top 20 dispositivos da Câmara de Mossoró (Comperve)
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/top-20-dispositivos-camara-mossoro/
 Atualizado em: 2026-11-09
 Os 20 dispositivos do Regimento Interno (Res. 25/2025), da Lei Orgânica de Mossoró e da Lei de Improbidade com mais chance de cair na prova.
 
-Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró
+Seções: Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró
+P: Qual o quórum para abrir a sessão e para iniciar a Ordem do Dia na Câmara de Mossoró?
+R: A sessão abre com no mínimo 1/3 dos membros da Câmara (Regimento Interno, art. 141). A Ordem do Dia só inicia com a maioria absoluta dos Vereadores (art. 161, § 1º).
+P: Quem pode pedir urgência especial na Câmara de Mossoró e qual o quórum?
+R: A Mesa Diretora, em proposição de sua autoria, ou no mínimo 1/3 dos Vereadores (Regimento Interno, art. 193, I). O requerimento não sofre discussão (inciso III); se rejeitado pela CCJR, vai ao Plenário e exige maioria absoluta (inciso V); não se admite para proposições com menos de 8 dias de protocolo (inciso VI).
+P: Qual o quórum e o prazo para cassar mandato de vereador em Mossoró?
+R: O mandato é cassado pelo voto de no mínimo 2/3 dos membros da Câmara, em votações nominais (Regimento Interno, art. 329 e parágrafo único). O processo deve estar concluído em até 90 dias do recebimento da denúncia, sob pena de arquivamento (art. 327).
 
 ## Vereadores de Mossoró: direitos, proibições e mandato (Regimento e Lei Orgânica)
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/vereadores-mandato-direitos-proibicoes-camara-mossoro/
 Atualizado em: 2026-11-09
 Resumo sobre os Vereadores no Regimento Interno (Res. 25/2025, arts. 297 a 337) e na Lei Orgânica de Mossoró/RN (arts. 39 a 43) para a prova da Comperve: competências, uso da palavra, proibições, inviolabilidade e mandato.
 
-Seções: 1.11 Vereadores (RI, arts. 297 a 337) | 2.4 Vereadores (LOM, arts. 39 a 43) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Mossoró | Salve esta imagem no Pinterest
+Seções: 1.11 Vereadores (RI, arts. 297 a 337) | 2.4 Vereadores (LOM, arts. 39 a 43) | Quer o resumo completo e as questões comentadas? | Perguntas frequentes | Mais conteúdo grátis de Câmara de Mossoró | Salve esta imagem no Pinterest
+P: O que é vedado ao vereador de Mossoró desde a expedição do diploma?
+R: Firmar ou manter contrato com o Município, autarquias, fundações, empresas públicas, sociedades de economia mista ou concessionárias de serviço público, salvo cláusulas uniformes, e aceitar cargo, emprego ou função na administração municipal, salvo por concurso público (Lei Orgânica, art. 40, I).
+P: Quantas faltas fazem o vereador de Mossoró perder o mandato?
+R: Pela Lei Orgânica, deixar de comparecer, em cada sessão legislativa, a um terço das sessões ordinárias, salvo doença comprovada, licença ou missão autorizada (art. 41, IV). Pelo Regimento Interno, extingue-se o mandato de quem faltar a 1/3 ou mais das sessões ordinárias e extraordinárias do ano legislativo, sem justificativa (art. 320, III).
+P: Qual o prazo da licença do vereador para tratar de interesse particular em Mossoró?
+R: No Regimento Interno, não inferior a 30 nem superior a 120 dias por sessão legislativa, sem reassumir antes do fim da licença (art. 316, III). A Lei Orgânica exige que não seja inferior a 30 dias (art. 42, § 4º).
+P: Em quanto tempo o suplente de vereador deve tomar posse em Mossoró?
+R: Em 15 dias da convocação, salvo justo motivo aceito pela Câmara (Regimento Interno, art. 319, § 1º; Lei Orgânica, art. 43, § 1º). O suplente é convocado, entre outros casos, em licença superior a 30 dias (Regimento Interno, art. 319).
 
 ## Legislação Câmara de Petrolina 2026: Lei Orgânica e Regimento Interno
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/

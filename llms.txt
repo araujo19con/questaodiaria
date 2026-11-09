@@ -65,6 +65,9 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Lei Orgânica de Vila Boa: o que cai na prova da Câmara](https://araujo19con.github.io/questaodiaria/camara-vila-boa/lei-organica-de-vila-boa/)
   - [Regimento Interno da Câmara de Vila Boa: prazos, quóruns e questões](https://araujo19con.github.io/questaodiaria/camara-vila-boa/regimento-interno-camara-de-vila-boa/)
 - [Legislação Câmara de Petrolina 2026 (IDECAN)](https://araujo19con.github.io/questaodiaria/camara-petrolina/): Câmara Municipal de Petrolina/PE, banca IDECAN, prova 17/01/2027
+  - [Cassação de mandato de vereador em Petrolina (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/cassacao-mandato-vereador-camara-petrolina-regimento-resumo/)
+  - [Processo legislativo e veto em Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/processo-legislativo-veto-camara-petrolina-resumo/)
+  - [Quóruns e competência da Câmara de Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/quoruns-camara-petrolina-lei-organica-resumo/)
 
 ## Guardas Municipais
 - [Concursos de Guarda Civil Municipal: legislação e questões](https://araujo19con.github.io/questaodiaria/guardas-municipais/)

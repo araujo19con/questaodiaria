@@ -10,6 +10,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Julgamento das contas do Prefeito na Câmara de Mossoró (Regimento e Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/contas-prefeito-fiscalizacao-camara-mossoro-regimento-lei-organica/)
   - [Lei de Improbidade com a reforma da Lei 14.230/2021: resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-de-improbidade-resumo/)
   - [Lei Orgânica do Município de Mossoró: resumo para a Comperve](https://araujo19con.github.io/questaodiaria/camara-mossoro/lei-organica-mossoro-resumo/)
+  - [Participação popular na Câmara de Mossoró (Regimento Interno, arts. 283 a 294): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/participacao-popular-camara-mossoro-regimento-interno/)
   - [Processo legislativo na Câmara de Mossoró (Regimento e Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/processo-legislativo-camara-mossoro-regimento-lei-organica/)
   - [Proposições na Câmara de Mossoró (Regimento Interno, Res. 25/2025): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/proposicoes-camara-mossoro-regimento-interno/)
   - [Regimento Interno da Câmara Municipal de Mossoró/RN (Resolução nº 25/2025): resumo](https://araujo19con.github.io/questaodiaria/camara-mossoro/regimento-interno-camara-mossoro-resolucao-25-2025/)
@@ -44,7 +45,9 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Vereadores da Câmara de Cuiabá (Regimento Interno, Res. 08/2016): resumo](https://araujo19con.github.io/questaodiaria/camara-cuiaba/regimento-interno-camara-cuiaba-vereadores-resumo/)
 - [Legislação Câmara de Goianinha 2026 (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/): Câmara Municipal de Goianinha/RN, banca Comperve, prova 06/12/2026
   - [Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/)
+  - [Penalidades e cassação de vereador na Câmara de Goianinha (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-goianinha/penalidades-cassacao-mandato-vereador-camara-goianinha-regimento/)
   - [Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/)
+  - [Sanção, veto e promulgação na Câmara de Goianinha (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-goianinha/sancao-veto-promulgacao-camara-goianinha-regimento/)
   - [Sessões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)](https://araujo19con.github.io/questaodiaria/camara-goianinha/sessoes-camara-goianinha-regimento-interno/)
   - [Top 20 dispositivos da Câmara de Goianinha/RN para a prova da Comperve](https://araujo19con.github.io/questaodiaria/camara-goianinha/top-20-dispositivos-camara-goianinha/)
   - [Vereadores no Regimento Interno da Câmara de Goianinha/RN: mandato, faltas e penalidades](https://araujo19con.github.io/questaodiaria/camara-goianinha/vereadores-mandato-regimento-interno-camara-goianinha/)
@@ -67,6 +70,8 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Regimento Interno da Câmara de Vila Boa: prazos, quóruns e questões](https://araujo19con.github.io/questaodiaria/camara-vila-boa/regimento-interno-camara-de-vila-boa/)
 - [Legislação Câmara de Petrolina 2026 (IDECAN)](https://araujo19con.github.io/questaodiaria/camara-petrolina/): Câmara Municipal de Petrolina/PE, banca IDECAN, prova 17/01/2027
   - [Cassação de mandato de vereador em Petrolina (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/cassacao-mandato-vereador-camara-petrolina-regimento-resumo/)
+  - [Lei Orgânica x Regimento Interno da Câmara de Petrolina: onde divergem](https://araujo19con.github.io/questaodiaria/camara-petrolina/divergencias-lei-organica-regimento-camara-petrolina/)
+  - [Mesa, sessões e comissões da Câmara de Petrolina (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/mesa-sessoes-comissoes-camara-petrolina-regimento-resumo/)
   - [Processo legislativo e veto em Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/processo-legislativo-veto-camara-petrolina-resumo/)
   - [Quóruns e competência da Câmara de Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/quoruns-camara-petrolina-lei-organica-resumo/)
 

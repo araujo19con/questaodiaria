@@ -107,7 +107,7 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Provas da Comperve: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/comperve/
-Atualizado em: 2026-11-09
+Atualizado em: 2026-11-10
 Materiais de legislação para provas da Comperve (Câmara de Goianinha, Câmara de Mossoró): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -383,6 +383,13 @@ Concurso da Câmara de Goianinha/RN 2026 (Comperve): o que cai em Legislação (
 
 Seções: O que o edital diz sobre Legislação | Prazos e quóruns do Regimento Interno que mais caem | 5 questões grátis do Regimento Interno da Câmara de Goianinha | Material completo: Legislação Câmara de Goianinha 2026 | Mais conteúdo grátis da Câmara de Goianinha | Salve esta imagem no Pinterest
 
+## Comissões permanentes e CEI na Câmara de Goianinha (Regimento Interno): resumo
+URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-permanentes-cei-camara-goianinha-regimento/
+Atualizado em: 2026-10-17
+Resumo das comissões permanentes e temporárias do Regimento Interno da Câmara de Goianinha/RN (arts. 84 a 117) para a prova da Comperve: composição, prazos de parecer, vista, CEI e quórum.
+
+Seções: 5.1 Regras gerais | 5.2 As 4 Comissões Permanentes (RI, art. 92: no mínimo 3 membros cada) | 5.3 Funcionamento e prazos | 5.4 Comissões Temporárias (RI, arts. 109 a 117) | 6. SESSÕES | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
+
 ## Comissões da Câmara de Goianinha/RN no Regimento Interno: resumo (Comperve)
 URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/comissoes-regimento-interno-camara-goianinha/
 Atualizado em: 2026-10-27
@@ -390,12 +397,26 @@ As Comissões Permanentes e Temporárias da Câmara de Goianinha/RN no Regimento
 
 Seções: Regras gerais | As 4 Comissões Permanentes (RI, art. 92: no mínimo 3 membros cada) | Funcionamento e prazos | Comissões Temporárias (RI, arts. 109 a 117) | Material completo: Legislação Câmara de Goianinha 2026 | Mais conteúdo grátis da Câmara de Goianinha
 
+## Leis orçamentárias e contas do Prefeito na Câmara de Goianinha (Regimento Interno): resumo
+URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/orcamento-contas-prefeito-camara-goianinha-regimento/
+Atualizado em: 2026-10-17
+Resumo da tramitação de LDO, LOA e PPA e do julgamento das contas do Prefeito e da Mesa no Regimento Interno da Câmara de Goianinha/RN (arts. 209 a 215) para a prova da Comperve: prazos e quórum de 2/3.
+
+Seções: 8.2 Leis orçamentárias | 8.3 Audiências públicas | 8.4 Julgamento das contas do Prefeito e da Mesa | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
+
 ## Penalidades e cassação de vereador na Câmara de Goianinha (Regimento Interno): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/penalidades-cassacao-mandato-vereador-camara-goianinha-regimento/
-Atualizado em: 2026-10-17
+Atualizado em: 2026-11-10
 Resumo das penalidades, extinção e cassação do mandato de vereador no Regimento Interno da Câmara de Goianinha/RN (arts. 63 a 77) para a prova da Comperve: prazos, quórum de 2/3 e comissão processante.
 
 Seções: 4.4 Penalidades (RI, arts. 63 a 69) | 4.5 Extinção, cassação e interrupção do mandato | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
+
+## Proposições, urgência e turnos na Câmara de Goianinha (Regimento Interno): resumo
+URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/proposicoes-urgencia-turnos-camara-goianinha-regimento/
+Atualizado em: 2026-10-17
+Resumo das proposições, da urgência e dos turnos de votação no Regimento Interno da Câmara de Goianinha/RN (arts. 148 a 160) para a prova da Comperve: espécies, retirada, quórum de urgência e discussão.
+
+Seções: 7.1 Proposições | 7.2 Urgência e turnos | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
 
 ## Regimento Interno da Câmara Municipal de Goianinha/RN e suas atualizações: resumo (Comperve)
 URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/regimento-interno-camara-goianinha-resumo/
@@ -406,7 +427,7 @@ Seções: Sede e funções | Legislatura, sessão legislativa e recesso | Instal
 
 ## Sanção, veto e promulgação na Câmara de Goianinha (Regimento Interno): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/sancao-veto-promulgacao-camara-goianinha-regimento/
-Atualizado em: 2026-10-17
+Atualizado em: 2026-11-10
 Resumo da redação final, sanção tácita, veto e promulgação no Regimento Interno da Câmara de Goianinha/RN (arts. 203 a 207) para a prova da Comperve, com prazos e quórum.
 
 Seções: 7.6 Redação final, sanção, veto e promulgação | 8. ORÇAMENTO, CONTAS E DISPOSIÇÕES FINAIS | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
@@ -417,6 +438,13 @@ Atualizado em: 2026-10-27
 Sessões ordinárias, extraordinárias, secretas, solenes e especiais e a Tribuna Popular no Regimento Interno da Câmara de Goianinha/RN, com o artigo de cada regra.
 
 Seções: Regras gerais | Sessões ordinárias | Extraordinárias, secretas, solenes e especiais | Tribuna Popular (RI, arts. 146 e 147) | Material completo: Legislação Câmara de Goianinha 2026 | Mais conteúdo grátis da Câmara de Goianinha
+
+## Sessões e Tribuna Popular na Câmara de Goianinha (Regimento Interno): resumo
+URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/sessoes-tribuna-popular-camara-goianinha-regimento/
+Atualizado em: 2026-10-17
+Resumo das sessões ordinárias, extraordinárias, secretas e solenes e da Tribuna Popular no Regimento Interno da Câmara de Goianinha/RN (arts. 118 a 147) para a prova da Comperve: horários, quóruns e prazos.
+
+Seções: 6.1 Regras gerais | 6.2 Sessões ordinárias | 6.3 Extraordinárias, secretas, solenes e especiais | 6.4 Tribuna Popular (RI, arts. 146 e 147) | 7. PROPOSIÇÕES E PROCESSO LEGISLATIVO | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Goianinha
 
 ## Top 20 dispositivos da Câmara de Goianinha/RN para a prova da Comperve
 URL: https://araujo19con.github.io/questaodiaria/camara-goianinha/top-20-dispositivos-camara-goianinha/
@@ -860,7 +888,7 @@ Seções: Prazos e quóruns do Regimento Interno | Alterações recentes | Quest
 
 ## Concursos de Câmara Municipal: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/
-Atualizado em: 2026-11-09
+Atualizado em: 2026-11-10
 Concursos de Câmara Municipal: Regimento Interno, Lei Orgânica e Estatuto em resumos e questões inéditas no estilo da banca. Veja por cidade, banca e data da prova.
 
 Seções: Escolha o concurso | Provas por data | Por estado | Por banca | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -881,7 +909,7 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Concursos de Câmara Municipal em Rio Grande do Norte: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/rn/
-Atualizado em: 2026-11-09
+Atualizado em: 2026-11-10
 Concursos de Câmara Municipal em Rio Grande do Norte: Goianinha, Mossoró. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)

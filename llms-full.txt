@@ -4,7 +4,7 @@
 
 ## 1 questão de legislação específica por dia
 URL: https://araujo19con.github.io/questaodiaria/
-Atualizado em: 2026-11-09
+Atualizado em: 2026-11-13
 1 questão de legislação específica por dia. Questões grátis comentadas e amostras em PDF para Mossoró, ALEPA, GCM Salvador, TRT-8, PMAL/CBMAL e Ética OAB.
 
 Seções: Concursos, pela data da prova | Explore por tema | Conteúdo grátis por concurso | Para advogados: posts prontos para o Instagram | Ferramentas grátis para organizar o dinheiro | Como funciona | Acompanhe a questão do dia | Quem faz
@@ -133,6 +133,13 @@ Materiais de legislação para provas da FGV (Ética OAB, GCM Salvador): resumos
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
 
+## Provas da ITAME: legislação e questões por concurso
+URL: https://araujo19con.github.io/questaodiaria/bancas/itame/
+Atualizado em: 2026-11-13
+Materiais de legislação para provas da ITAME (Câmara de Vila Boa, Câmara de Santa Helena de Goiás): resumos, questões inéditas no estilo da banca e a data de cada prova.
+
+Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
+
 ## Provas da Selecon: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/selecon/
 Atualizado em: 2026-11-08
@@ -190,7 +197,7 @@ R: Não. É uma ferramenta de organização e não garante resultado.
 
 ## Legislação Câmara de Cristalina 2026: Regimento Interno, Lei Orgânica e Estatuto
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Legislação da Câmara de Cristalina/GO 2026 (Consulplan): Regimento Interno, Lei Orgânica e Estatuto (Lei 1.207/1994 com a Lei 2.874/2026). 10 questões grátis comentadas e amostra em PDF.
 
 Seções: Concurso Câmara de Cristalina 2026: o bloco de Legislação Específica | Regimento Interno da Câmara de Cristalina e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Cristalina 2026 (Consulplan) | 10 questões grátis do Regimento Interno da Câmara de Cristalina, da Lei Orgânica e do Estatuto | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cristalina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -312,7 +319,7 @@ Seções: 1.7 Vereadores (RI, arts. 64 a 89) | Quer o resumo completo e as quest
 
 ## Legislação Câmara de Cuiabá 2026: Lei Orgânica, Regimento, Estatuto e Plano de Cargos
 URL: https://araujo19con.github.io/questaodiaria/camara-cuiaba/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Legislação da Câmara de Cuiabá/MT 2026 (Selecon): Lei Orgânica, Regimento Interno, Estatuto (LC 93/2003) e Plano de Cargos (LC 235/2011 e LC 609/2026). 10 questões grátis comentadas e amostra em PDF.
 
 Seções: Concurso Câmara de Cuiabá 2026: o bloco de Legislação | Os quatro itens de Legislação e o que mais cai | O que diz o edital | Material: Legislação Câmara de Cuiabá 2026 (Selecon) | 10 questões grátis da Lei Orgânica, do Regimento Interno, do Estatuto e do Plano de Cargos de Cuiabá | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cuiabá | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -469,7 +476,7 @@ Seções: Redação final, sanção, veto e promulgação | Material completo: L
 
 ## Legislação Câmara de Mossoró 2026: questões do Regimento Interno e da Lei Orgânica
 URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/
-Atualizado em: 2026-11-09
+Atualizado em: 2026-11-13
 Regimento Interno da Câmara de Mossoró (Res. 25/2025), Lei Orgânica e Improbidade: 10 questões grátis comentadas, estilo Comperve 2026. Amostra grátis em PDF.
 
 Seções: Concurso Câmara de Mossoró 2026: o bloco de Legislação | Regimento Interno da Câmara de Mossoró e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Mossoró 2026 (Comperve) | 10 questões grátis do Regimento Interno da Câmara de Mossoró e da Lei Orgânica | Amostra grátis em PDF | Plano de estudos até a prova | Quer treinar com simulados? | Dúvida na hora de estudar? Pergunte ao Tutor com IA | Conteúdo grátis de Câmara de Mossoró | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -664,7 +671,7 @@ R: Em 15 dias da convocação, salvo justo motivo aceito pela Câmara (Regimento
 
 ## Legislação Câmara de Petrolina 2026: Lei Orgânica e Regimento Interno
 URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/
-Atualizado em: 2026-11-11
+Atualizado em: 2026-11-13
 Legislação da Câmara de Petrolina/PE 2026 (IDECAN): Lei Orgânica e Regimento Interno, com quadro de divergências entre as normas. 10 questões grátis comentadas e amostra em PDF.
 
 Seções: Concurso Câmara de Petrolina 2026: o bloco de Legislação | As duas normas e o que mais cai | Material: Legislação Câmara de Petrolina 2026 (IDECAN) | 10 questões grátis da Lei Orgânica e do Regimento Interno de Petrolina | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Petrolina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -800,6 +807,23 @@ Prazos de redação final, autógrafo, sanção, veto e promulgação no Regimen
 
 Seções: Linha do tempo | Motivos do veto (art. 155) | Rito do veto na Câmara (art. 164) | Pegadinha: dois prazos para o autógrafo | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
 
+## Legislação Câmara de Santa Helena de Goiás 2027: Regimento Interno, Lei Orgânica e Estatuto
+URL: https://araujo19con.github.io/questaodiaria/camara-santa-helena/
+Atualizado em: 2026-11-13
+Legislação da Câmara de Santa Helena de Goiás/GO (ITAME, prova 21/02/2027): Regimento Interno (Res. 180/2020), Lei Orgânica com as emendas até 2026, Estatuto (Lei 1.664/1992) e CF arts. 1º a 6º. 10 questões grátis comentadas e amostra em PDF.
+
+Seções: Concurso Câmara de Santa Helena de Goiás: o peso da Legislação | Regimento Interno, Lei Orgânica e Estatuto de Santa Helena de Goiás | Material: Legislação Câmara de Santa Helena de Goiás 2027 (ITAME) | 10 questões grátis de legislação da Câmara de Santa Helena de Goiás, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+P: Serve para o meu cargo?
+R: Sim. O edital cobra Regimento Interno, Estatuto, Lei Orgânica e CF (arts. 1º a 6º) como legislação comum a todos os cargos. Confira no edital os itens do seu cargo.
+P: As questões são de provas anteriores?
+R: Não. São inéditas, no estilo do ITAME (4 alternativas), e comentadas.
+P: A Lei Orgânica está atualizada?
+R: Sim. O material aplica as Emendas à Lei Orgânica até a nº 22/2026, conferidas no sistema de legislação da Câmara em 13/11/2026, e usa a redação atual dos artigos que aparecem duplicados no arquivo oficial.
+P: Tem amostra grátis?
+R: Sim. Baixe a amostra grátis nesta página: 2 seções do resumo e 8 questões comentadas.
+P: Tem garantia?
+R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
+
 ## Legislação Câmara de Tupaciguara 2026: Regimento Interno e Lei Orgânica
 URL: https://araujo19con.github.io/questaodiaria/camara-tupaciguara/
 Atualizado em: 2026-11-08
@@ -888,15 +912,15 @@ Seções: Prazos e quóruns do Regimento Interno | Alterações recentes | Quest
 
 ## Concursos de Câmara Municipal: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/
-Atualizado em: 2026-11-10
+Atualizado em: 2026-11-13
 Concursos de Câmara Municipal: Regimento Interno, Lei Orgânica e Estatuto em resumos e questões inéditas no estilo da banca. Veja por cidade, banca e data da prova.
 
 Seções: Escolha o concurso | Provas por data | Por estado | Por banca | Páginas de apoio (resumos e artigos grátis) | Outros temas
 
 ## Concursos de Câmara Municipal em Goiás: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/go/
-Atualizado em: 2026-11-08
-Concursos de Câmara Municipal em Goiás: Cristalina, Pires do Rio, Vila Boa. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
+Atualizado em: 2026-11-13
+Concursos de Câmara Municipal em Goiás: Cristalina, Pires do Rio, Vila Boa, Santa Helena de Goiás. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)
 
@@ -944,7 +968,7 @@ Seções: Contrato precisa ser escrito? | Checklist: o que não pode faltar em u
 
 ## Ética para a OAB (48º Exame): questões comentadas do Estatuto e do Código de Ética
 URL: https://araujo19con.github.io/questaodiaria/etica-oab/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Ética para a 1ª fase do 48º Exame de Ordem (FGV): 10 questões grátis comentadas do Estatuto da OAB e do Código de Ética, atualizados até 2026.
 
 Seções: 48º Exame de Ordem: por que Ética decide a 1ª fase | O que cai de Ética na OAB | Revisão em vídeo | Material: Ética para a OAB 48 (FGV): Estatuto e CED Esquematizados | 10 questões grátis de Ética para a OAB, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de Ética OAB | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -1122,7 +1146,7 @@ Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo gr�
 
 ## Legislação GCM São Gonçalo: Estatuto da Guarda (Lei 1.625/2026) e questões estilo Selecon
 URL: https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Legislação específica da GCM de São Gonçalo/RJ (Selecon): Estatuto da Guarda Municipal (Lei 1.625/2026), Lei 1.416/2022, Lei 13.022/2014 e Lei 13.675/2018. 10 questões grátis comentadas e amostra em PDF.
 
 Seções: Concurso GCM São Gonçalo: a legislação específica na prova | Lei 1.625/2026 de São Gonçalo e as outras normas que caem | Material: Legislação GCM São Gonçalo 2026 (Selecon) | 10 questões grátis de legislação específica da GCM de São Gonçalo, comentadas | Amostra grátis em PDF | Conteúdo grátis de GCM São Gonçalo | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -1257,7 +1281,7 @@ Seções: Cronograma semana a semana | Como encaixar na sua rotina | Quer o mate
 
 ## Legislação PMAL e CBMAL 2027: Estatuto PMAL atualizado e itens Certo/Errado
 URL: https://araujo19con.github.io/questaodiaria/pmal-cbmal/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Estatuto PMAL atualizado até 2024, RDPM, Lei 14.751/2023 e promoções do CBMAL: 10 itens Certo/Errado grátis e comentados (Cebraspe 2027). Amostra em PDF.
 
 Seções: Concurso PMAL e CBMAL 2027: a legislação específica | Estatuto PMAL atualizado e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação PMAL e CBMAL 2027 (Cebraspe) | 10 itens grátis de legislação PMAL e CBMAL (Certo ou Errado), comentados | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de PMAL e CBMAL | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
@@ -1903,7 +1927,7 @@ Seções: Quem faz | Como o conteúdo é produzido | O que o material não é | 
 
 ## Legislação Institucional TCE-GO 2026: Lei Orgânica, Regimento, Plano de Cargos e Ética
 URL: https://araujo19con.github.io/questaodiaria/tce-go/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Legislação Institucional do TCE-GO 2026 (FCC): Lei Orgânica, Regimento Interno, Plano de Cargos e Código de Ética. 10 questões grátis comentadas e amostra em PDF.
 
 Seções: Concurso TCE-GO 2026: o bloco de Legislação Institucional | As normas do TCE-GO cobertas pelo material | O que diz o edital | Material: Legislação Institucional TCE-GO 2026 (FCC) | 10 questões grátis da legislação institucional do TCE-GO, comentadas | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de TCE-GO | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest

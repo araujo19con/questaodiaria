@@ -62,6 +62,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Mesa Diretora da Câmara de Pires do Rio/GO no Regimento Interno: composição, eleição e destituição](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/mesa-diretora-camara-pires-do-rio/)
   - [Quórum e votações no Regimento Interno da Câmara de Pires do Rio/GO (Instituto Verbena)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/quorum-votacoes-camara-pires-do-rio/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Pires do Rio/GO](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/veto-sancao-promulgacao-camara-pires-do-rio/)
+- [Legislação Câmara de Santa Helena de Goiás 2027 (ITAME)](https://araujo19con.github.io/questaodiaria/camara-santa-helena/): Câmara Municipal de Santa Helena de Goiás/GO, banca ITAME, prova 21/02/2027
 - [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
   - [Eleição da Mesa no Regimento Interno da Câmara de Unaí/MG: prazos, votação e desempate (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/eleicao-mesa-camara-unai/)
   - [Quórum, votação e veto no Regimento Interno da Câmara de Unaí/MG (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/quorum-votacao-veto-camara-unai/)
@@ -184,6 +185,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Provas da Consulplan: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/consulplan/)
 - [Provas da FCC: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fcc/)
 - [Provas da FGV: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fgv/)
+- [Provas da ITAME: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/itame/)
 - [Provas da Selecon: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/selecon/)
 
 ## Sobre

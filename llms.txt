@@ -63,6 +63,12 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Quórum e votações no Regimento Interno da Câmara de Pires do Rio/GO (Instituto Verbena)](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/quorum-votacoes-camara-pires-do-rio/)
   - [Veto, sanção e promulgação no Regimento Interno da Câmara de Pires do Rio/GO](https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/veto-sancao-promulgacao-camara-pires-do-rio/)
 - [Legislação Câmara de Santa Helena de Goiás 2027 (ITAME)](https://araujo19con.github.io/questaodiaria/camara-santa-helena/): Câmara Municipal de Santa Helena de Goiás/GO, banca ITAME, prova 21/02/2027
+  - [Comissões e CPI na Câmara de Santa Helena de Goiás: composição, prazos e perda do lugar](https://araujo19con.github.io/questaodiaria/camara-santa-helena/comissoes-cpi-camara-santa-helena/)
+  - [Lei Orgânica x Regimento Interno de Santa Helena de Goiás: as divergências que caem na prova](https://araujo19con.github.io/questaodiaria/camara-santa-helena/divergencias-lei-organica-regimento-santa-helena/)
+  - [Estatuto dos Servidores de Santa Helena de Goiás (Lei 1.664/1992): prazos e números que caem](https://araujo19con.github.io/questaodiaria/camara-santa-helena/estatuto-servidores-santa-helena-prazos/)
+  - [Quórum e votações na Câmara de Santa Helena de Goiás: maioria simples, absoluta, 3/5 e 2/3](https://araujo19con.github.io/questaodiaria/camara-santa-helena/quorum-votacoes-camara-santa-helena/)
+  - [Vereadores de Santa Helena de Goiás: posse, faltas, licenças, suplentes e perda do mandato](https://araujo19con.github.io/questaodiaria/camara-santa-helena/vereadores-posse-faltas-licencas-camara-santa-helena/)
+  - [Sanção, veto e urgência na Câmara de Santa Helena de Goiás: prazos da Lei Orgânica e do Regimento](https://araujo19con.github.io/questaodiaria/camara-santa-helena/veto-sancao-urgencia-camara-santa-helena/)
 - [Legislação Câmara de Unaí 2026 (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/): Câmara Municipal de Unaí/MG, banca Consulplan, prova 10/01/2027
   - [Eleição da Mesa no Regimento Interno da Câmara de Unaí/MG: prazos, votação e desempate (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/eleicao-mesa-camara-unai/)
   - [Quórum, votação e veto no Regimento Interno da Câmara de Unaí/MG (Consulplan)](https://araujo19con.github.io/questaodiaria/camara-unai/quorum-votacao-veto-camara-unai/)

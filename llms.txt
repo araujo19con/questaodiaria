@@ -157,6 +157,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Prisão temporária (Lei 7.960/1989) para o concurso da PM-AL: resumo](https://araujo19con.github.io/questaodiaria/pmal-cbmal/prisao-temporaria-lei-7960-pm-al/): Resumo da Lei 7.960/1989 para a PM de Alagoas (Cebraspe): cabimento, requisitos do STF nas ADIs 3360 e 4109, prazos de 5 e 30 dias e soltura sem nova ordem.
   - [Racismo e injúria racial (Lei 7.716/1989) para o concurso da PM-AL](https://araujo19con.github.io/questaodiaria/pmal-cbmal/racismo-injuria-racial-lei-7716-pm-al/): Lei 7.716/1989 para a PM de Alagoas (Cebraspe): injúria racial no art. 2º-A, racismo recreativo, aumento para funcionário público e os crimes do art. 20.
   - [Top 20 dispositivos da PMAL e do CBMAL (Cebraspe)](https://araujo19con.github.io/questaodiaria/pmal-cbmal/top-20-dispositivos-pmal/): Os 20 dispositivos da legislação específica da PMAL e do CBMAL com mais chance de cair na prova do Cebraspe em janeiro de 2027.
+- [Estatuto e Código Disciplinar dos Militares de PE 2027 (AOCP)](https://araujo19con.github.io/questaodiaria/militares-pe/): Polícia Militar e Corpo de Bombeiros Militar de Pernambuco, banca Instituto AOCP, prova 21/02/2027 (PM) e 28/02/2027 (CBM)
 
 ## Assembleias Legislativas
 - [Concursos de Assembleia Legislativa: legislação e questões](https://araujo19con.github.io/questaodiaria/assembleias-legislativas/)
@@ -245,7 +246,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Provas da Selecon: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/selecon/)
 
 ## Calendário de provas e questões por banca
-- [Calendário de provas de concursos 2027: Câmaras, Guardas e Tribunais](https://araujo19con.github.io/questaodiaria/calendario-de-provas-concursos-2027/): Datas das provas de 21 concursos de dezembro de 2026 a abril de 2027 (Câmaras Municipais, Guardas, Tribunais, PM): banca, cidade e questões grátis de legislação.
+- [Calendário de provas de concursos 2027: Câmaras, Guardas e Tribunais](https://araujo19con.github.io/questaodiaria/calendario-de-provas-concursos-2027/): Datas das provas de 22 concursos de dezembro de 2026 a abril de 2027 (Câmaras Municipais, Guardas, Tribunais, PM): banca, cidade e questões grátis de legislação.
 - [Questões no estilo Comperve grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-comperve/): 15 questões grátis comentadas no estilo Comperve para 2 concursos com prova prevista, com gabarito, trecho da lei e amostra em PDF.
 - [Questões no estilo Consulplan grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-consulplan/): 15 questões grátis comentadas no estilo Consulplan para 2 concursos com prova prevista, com gabarito, trecho da lei e amostra em PDF.
 - [Questões no estilo FCC grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-fcc/): 20 questões grátis comentadas no estilo FCC para 2 concursos com prova prevista, com gabarito, trecho da lei e amostra em PDF.

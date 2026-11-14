@@ -1886,7 +1886,7 @@ URL: https://araujo19con.github.io/questaodiaria/militares-pe/
 Atualizado em: 2026-11-14
 Lei 6.783/1974 e Lei 11.817/2000 atualizadas, com Decreto 50.014/2020 e Lei 15.187/2013, para PM PE e CBM PE 2027 (Instituto AOCP). 10 questões grátis e amostra.
 
-Seções: O que vem no material | Concursos PM PE e CBM PE: onde a legislação militar estadual aparece | Leis estaduais dos militares de Pernambuco no material | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 (AOCP) | Como funciona a compra | 10 questões grátis sobre o Estatuto e o Código Disciplinar dos Militares de PE, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação
+Seções: O que vem no material | Concursos PM PE e CBM PE: onde a legislação militar estadual aparece | Leis estaduais dos militares de Pernambuco no material | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 (AOCP) | Como funciona a compra | 10 questões grátis sobre o Estatuto e o Código Disciplinar dos Militares de PE, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Cobre todo o bloco de legislação do meu cargo?
 R: Não. Cobre as leis estaduais dos militares de PE. A Lei Federal 14.751/2023 e as leis federais do bloco de Legislação Extravagante da PM PE não estão incluídas. Da Lei 15.187/2013, só os arts. 1º a 11.
 P: As questões são de provas anteriores?
@@ -1899,6 +1899,58 @@ P: Tem amostra grátis?
 R: Sim. Baixe a amostra grátis nesta página: 2 seções do resumo e 8 questões comentadas.
 P: Tem garantia?
 R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
+
+## Comportamento da praça e recursos no Código Disciplinar de PE
+URL: https://araujo19con.github.io/questaodiaria/militares-pe/comportamento-recursos-codigo-disciplinar-militares-pe/
+Atualizado em: 2026-11-14
+Excepcional, ótimo, bom, insuficiente e mau; prazos de reconsideração, queixa e revisão; cancelamento de penas na Lei 11.817/2000, com o artigo.
+
+Seções: Comportamento das praças (art. 46) | Recursos disciplinares (arts. 51 a 55) | Cancelamento automático de penas (art. 61) | Perguntas frequentes | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 | Mais conteúdo grátis dos militares de PE
+P: Em qual comportamento a praça entra nos militares de PE?
+R: No comportamento Bom, ao ser incluída na Corporação (Lei 11.817/2000, art. 45, § 2º).
+P: Quantas detenções equivalem a uma prisão no Código Disciplinar de PE?
+R: Duas detenções equivalem a uma prisão, para classificação e melhoria de comportamento (art. 49).
+P: Qual o prazo da reconsideração de ato no Código Disciplinar de PE?
+R: Até 2 dias úteis da ciência oficial dos fatos; a autoridade despacha em até 4 dias úteis (art. 52, §§ 2º e 3º).
+
+## Hierarquia, postos e graduações no Estatuto dos Militares de PE
+URL: https://araujo19con.github.io/questaodiaria/militares-pe/hierarquia-postos-graduacoes-estatuto-militares-pe/
+Atualizado em: 2026-11-14
+Escala hierárquica, círculos, quem confere posto e graduação e regras de antiguidade na Lei 6.783/1974 (Estatuto dos Militares de PE), com o artigo.
+
+Seções: Escala hierárquica (art. 14) | Regras de hierarquia e precedência | Perguntas frequentes | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 | Mais conteúdo grátis dos militares de PE
+P: Quem confere o posto e a graduação nos militares de PE?
+R: O posto, grau do oficial, é conferido por ato do Governador do Estado; a graduação, grau da praça, por ato do Comandante-Geral (Lei 6.783/1974, art. 14, §§ 1º e 2º).
+P: Como se resolve o empate de antiguidade no Estatuto dos Militares de PE?
+R: Pela antiguidade no posto ou graduação anterior e, persistindo, pelos graus anteriores, pela data de inclusão e pela data de nascimento, sendo o mais velho o mais antigo (art. 15, § 2º, b).
+P: Aluno-Oficial é superior a Subtenente?
+R: Sim. Pelo art. 16, II, os Alunos-Oficiais são hierarquicamente superiores aos Subtenentes; os Aspirantes-a-Oficial são superiores às demais praças (art. 16, I).
+
+## Legislação militar de PE no concurso PM PE e CBM PE 2027
+URL: https://araujo19con.github.io/questaodiaria/militares-pe/legislacao-militar-pm-pe-cbm-pe-2027-o-que-estudar/
+Atualizado em: 2026-11-14
+Onde o Estatuto (Lei 6.783/1974), o Código Disciplinar (Lei 11.817/2000), o Decreto 50.014/2020 e a Lei 15.187/2013 aparecem nos editais PM PE e CBM PE 2027.
+
+Seções: Normas e onde aparecem | Por onde começar | Perguntas frequentes | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 | Mais conteúdo grátis dos militares de PE
+P: O Estatuto dos Militares de PE cai na prova de Soldado da PM PE 2027?
+R: Sim. No edital de 2026, a Lei 6.783/1974 é um dos itens do bloco "Direitos Humanos e Legislação Extravagante", ao lado de leis federais.
+P: O que cai de legislação militar estadual no CBM PE 2027?
+R: Para 2º Tenente QOC, o bloco "Legislações pertinentes aos militares do Estado de Pernambuco" cobra a Lei 11.817/2000, o Decreto 50.014/2020, a Lei 6.783/1974, a Lei 15.187/2013 e a Lei Federal 14.751/2023.
+P: Quando são as provas da PM PE e do CBM PE?
+R: Pelos cronogramas dos editais, a prova objetiva da PM PE está prevista para 21/02/2027 e a do CBM PE para 28/02/2027. Confira sempre o edital.
+
+## Transgressões e penas no Código Disciplinar dos Militares de PE
+URL: https://araujo19con.github.io/questaodiaria/militares-pe/transgressoes-penas-codigo-disciplinar-militares-pe/
+Atualizado em: 2026-11-14
+Classificação das transgressões, penas, medidas administrativas, justificação, atenuantes e o Decreto 50.014/2020 no Código Disciplinar de PE (Lei 11.817/2000).
+
+Seções: Penas e medidas (Lei 11.817/2000, art. 28) | Classificação e circunstâncias | Decreto 50.014/2020 | Perguntas frequentes | Material: Estatuto e Código Disciplinar dos Militares de PE 2027 | Mais conteúdo grátis dos militares de PE
+P: Quais são as penas do Código Disciplinar dos Militares de PE?
+R: Repreensão, detenção, prisão, licenciamento a bem da disciplina e exclusão a bem da disciplina (Lei 11.817/2000, art. 28).
+P: Prisão disciplinar ainda priva a liberdade do militar de PE?
+R: Não. O Decreto 50.014/2020 (art. 2º) manteve a detenção e a prisão com todos os efeitos administrativos e secundários, exceto a privação da liberdade, com base na Lei Federal 13.967/2019.
+P: A advertência é pena no Código Disciplinar de PE?
+R: Não está no rol do art. 28. É orientação verbal que pode preceder a pena, sem registro na ficha disciplinar (art. 28, § 3º).
 
 ## Ética para a OAB: Estatuto e Código de Ética em questões
 URL: https://araujo19con.github.io/questaodiaria/oab/

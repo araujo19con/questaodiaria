@@ -125,6 +125,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Deveres, penalidades e processo disciplinar em São Gonçalo (Lei 1.416/2022)](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/processo-disciplinar-servidores-sao-goncalo-lei-1416/): Resumo dos deveres, proibições, penalidades, prescrição e processo disciplinar da Lei 1.416/2022 de São Gonçalo/RJ para a prova da Selecon, com os artigos.
   - [Regime Jurídico dos Servidores de São Gonçalo/RJ (Lei 1.416/2022): resumo](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/regime-juridico-servidores-sao-goncalo-lei-1416-resumo/): Resumo da Lei Municipal 1.416/2022 de São Gonçalo/RJ para a Selecon: provimento, posse, estágio probatório, estabilidade, vacância, férias e licenças.
   - [Susp e PNSPDS (Lei 13.675/2018): resumo para a Guarda Municipal](https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/susp-lei-13675-resumo-guarda-municipal-sao-goncalo/): Resumo da Lei 13.675/2018 para a prova da GCM de São Gonçalo/RJ: princípios do Sistema Único de Segurança Pública e composição do Susp, com os artigos.
+- [Legislação GCM Marabá 2027 (Fadesp)](https://araujo19con.github.io/questaodiaria/gcm-maraba/): Guarda Municipal de Marabá/PA, banca Fadesp, prova 24/01/2027
 
 ## Polícia Militar e Bombeiros
 - [Concursos de Polícia Militar e Bombeiros: legislação e itens](https://araujo19con.github.io/questaodiaria/policia-militar/)

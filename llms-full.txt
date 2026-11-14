@@ -163,7 +163,7 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Provas da Comperve: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/comperve/
-Atualizado em: 2026-11-10
+Atualizado em: 2026-11-13
 Materiais de legislação para provas da Comperve (Câmara de Goianinha, Câmara de Mossoró): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -198,7 +198,7 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Provas da Selecon: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/selecon/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Materiais de legislação para provas da Selecon (Câmara de Cuiabá, GCM São Gonçalo): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -250,6 +250,30 @@ P: O rendimento informado é garantido?
 R: Não. É só uma estimativa para o cálculo. O rendimento real varia com a aplicação e com o tempo.
 P: É consultoria financeira?
 R: Não. É uma ferramenta de organização e não garante resultado.
+
+## Calendário de provas de concursos: dezembro de 2026 a abril de 2027
+URL: https://araujo19con.github.io/questaodiaria/calendario-de-provas-concursos-2027/
+Atualizado em: 2026-11-13
+Datas das provas de 21 concursos de dezembro de 2026 a abril de 2027 (Câmaras Municipais, Guardas, Tribunais, PM): banca, cidade e questões grátis de legislação.
+
+Seções: Dezembro de 2026 | Janeiro de 2027 | Fevereiro de 2027 | Março de 2027 | Questões por banca | Por tema
+
+## Legislação Câmara de Cachoeiro de Itapemirim 2027: Lei Orgânica, Regimento Interno e Estatuto
+URL: https://araujo19con.github.io/questaodiaria/camara-cachoeiro-de-itapemirim/
+Atualizado em: 2026-11-13
+Legislação municipal da Câmara de Cachoeiro de Itapemirim/ES (Instituto ACCESS, prova 28/02/2027): Lei Orgânica, Regimento Interno e Estatuto dos Servidores (Lei 4.009/1994). 10 questões grátis comentadas e amostra em PDF.
+
+Seções: O que vem no material | Concurso Câmara de Cachoeiro de Itapemirim: o que o edital cobra de legislação municipal | Lei Orgânica, Regimento Interno e Estatuto de Cachoeiro de Itapemirim | Material: Legislação Câmara de Cachoeiro de Itapemirim 2027 (Instituto ACCESS) | Como funciona a compra | 10 questões grátis de legislação da Câmara de Cachoeiro de Itapemirim, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação
+P: Serve para o meu cargo?
+R: O edital cobra Lei Orgânica, Regimento Interno e Estatuto dos Servidores na disciplina Legislação e Noções de Administração Pública, comum a todos os cargos. O material não cobre Constituição nem leis federais. Confira no edital os itens do seu cargo.
+P: As questões são de provas anteriores?
+R: Não. São inéditas, no estilo do Instituto ACCESS (5 alternativas), e comentadas.
+P: Os textos estão atualizados?
+R: O material usa a Lei Orgânica publicada pela Câmara (conferida com a compilação da Prefeitura), o Regimento Interno com alterações até a Resolução 415/2022 e o Estatuto com alterações até a Lei 8.147/2024, consultados em 13/11/2026.
+P: Tem amostra grátis?
+R: Sim. Baixe a amostra grátis nesta página: 2 seções do resumo e 8 questões comentadas.
+P: Tem garantia?
+R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
 
 ## Legislação Câmara de Cristalina 2026: Regimento Interno, Lei Orgânica e Estatuto
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/
@@ -1243,14 +1267,14 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Concursos de Câmara Municipal em Minas Gerais: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/mg/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Concursos de Câmara Municipal em Minas Gerais: Tupaciguara, Unaí. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)
 
 ## Concursos de Câmara Municipal em Rio Grande do Norte: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/rn/
-Atualizado em: 2026-11-10
+Atualizado em: 2026-11-13
 Concursos de Câmara Municipal em Rio Grande do Norte: Goianinha, Mossoró. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)
@@ -1703,7 +1727,7 @@ Seções: Escolha o concurso | Provas por data | Por banca | Páginas de apoio (
 
 ## Ética para a OAB: Estatuto e Código de Ética em questões
 URL: https://araujo19con.github.io/questaodiaria/oab/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Ética Profissional para a 1ª fase do Exame de Ordem (FGV): Estatuto da Advocacia e Código de Ética esquematizados, com questões inéditas comentadas e artigos de apoio.
 
 Seções: Escolha o concurso | Provas por data | Por banca | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -1883,7 +1907,7 @@ Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo gr�
 
 ## Concursos de Polícia Militar e Bombeiros: legislação e itens
 URL: https://araujo19con.github.io/questaodiaria/policia-militar/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Concurso de Polícia Militar e Corpo de Bombeiros: Estatuto, regulamento disciplinar, Lei 14.751/2023 e legislação penal especial em resumos e itens Certo/Errado.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -2499,6 +2523,48 @@ Atualizado em: 2026-11-08
 Descarregue grátis uma folha de orçamento familiar simples, em euros: receitas, despesas, previsto vs. real, o que sobra e taxa de poupança. Para Excel e Google Sheets.
 
 Seções: O que traz a versão grátis | Como usar no Google Sheets | Grátis vs. completo | Quer o ano inteiro e os gráficos?
+
+## Questões no estilo Comperve: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-comperve/
+Atualizado em: 2026-11-13
+15 questões grátis comentadas no estilo Comperve para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
+
+## Questões no estilo Consulplan: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-consulplan/
+Atualizado em: 2026-11-13
+15 questões grátis comentadas no estilo Consulplan para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
+
+## Questões no estilo FCC: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-fcc/
+Atualizado em: 2026-11-13
+20 questões grátis comentadas no estilo FCC para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
+
+## Questões no estilo FGV: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-fgv/
+Atualizado em: 2026-11-13
+20 questões grátis comentadas no estilo FGV para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
+
+## Questões no estilo ITAME: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-itame/
+Atualizado em: 2026-11-13
+25 questões grátis comentadas no estilo ITAME para 3 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
+
+## Questões no estilo Selecon: legislação específica grátis e comentada
+URL: https://araujo19con.github.io/questaodiaria/questoes-banca-selecon/
+Atualizado em: 2026-11-13
+20 questões grátis comentadas no estilo Selecon para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+
+Seções: Questões grátis e amostras por concurso | Escolha o concurso | Outras bancas
 
 ## Como recorrer de multa de trânsito: prazos e passo a passo
 URL: https://araujo19con.github.io/questaodiaria/recurso-multa-transito/

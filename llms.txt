@@ -103,6 +103,7 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
   - [Mesa, sessões e comissões da Câmara de Petrolina (Regimento Interno): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/mesa-sessoes-comissoes-camara-petrolina-regimento-resumo/): Resumo da Mesa, das sessões e das comissões no Regimento Interno da Câmara de Petrolina/PE para a prova do IDECAN, com os artigos.
   - [Processo legislativo e veto em Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/processo-legislativo-veto-camara-petrolina-resumo/): Resumo do processo legislativo da Lei Orgânica de Petrolina/PE: urgência, veto, sanção tácita, promulgação, decreto legislativo e resolução, com os artigos.
   - [Quóruns e competência da Câmara de Petrolina (Lei Orgânica): resumo](https://araujo19con.github.io/questaodiaria/camara-petrolina/quoruns-camara-petrolina-lei-organica-resumo/): Resumo da competência da Câmara e dos quóruns (2/3, maioria absoluta, 1/3) da Lei Orgânica do Município de Petrolina/PE para a prova do IDECAN, com os artigos.
+- [Legislação Câmara de Cachoeiro de Itapemirim 2027 (Instituto ACCESS)](https://araujo19con.github.io/questaodiaria/camara-cachoeiro-de-itapemirim/): Câmara Municipal de Cachoeiro de Itapemirim/ES, banca Instituto ACCESS, prova 28/02/2027
 
 ## Guardas Municipais
 - [Concursos de Guarda Civil Municipal: legislação e questões](https://araujo19con.github.io/questaodiaria/guardas-municipais/)
@@ -230,6 +231,15 @@ Cada página traz o concurso, a banca e a data da prova; os artigos citados são
 - [Provas da FGV: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/fgv/)
 - [Provas da ITAME: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/itame/)
 - [Provas da Selecon: legislação e questões por concurso](https://araujo19con.github.io/questaodiaria/bancas/selecon/)
+
+## Calendário de provas e questões por banca
+- [Calendário de provas de concursos 2027: Câmaras, Guardas e Tribunais](https://araujo19con.github.io/questaodiaria/calendario-de-provas-concursos-2027/): Datas das provas de 21 concursos de dezembro de 2026 a abril de 2027 (Câmaras Municipais, Guardas, Tribunais, PM): banca, cidade e questões grátis de legislação.
+- [Questões no estilo Comperve grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-comperve/): 15 questões grátis comentadas no estilo Comperve para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+- [Questões no estilo Consulplan grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-consulplan/): 15 questões grátis comentadas no estilo Consulplan para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+- [Questões no estilo FCC grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-fcc/): 20 questões grátis comentadas no estilo FCC para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+- [Questões no estilo FGV grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-fgv/): 20 questões grátis comentadas no estilo FGV para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+- [Questões no estilo ITAME grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-itame/): 25 questões grátis comentadas no estilo ITAME para 3 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
+- [Questões no estilo Selecon grátis: legislação específica comentada](https://araujo19con.github.io/questaodiaria/questoes-banca-selecon/): 20 questões grátis comentadas no estilo Selecon para 2 concursos com prova marcada, com gabarito, trecho da lei e amostra em PDF.
 
 ## Sobre
 - [Como o material é feito e conferido](https://araujo19con.github.io/questaodiaria/sobre/)

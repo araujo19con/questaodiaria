@@ -179,5 +179,49 @@ p { margin: 0 0 1rem; }
   .sticky-buy ~ .foot { padding-bottom: 32px; }
   .q { padding: 20px 22px; }
 }
+/* CRO das páginas de produto (13/11/2026) */
+.hero-grid { display: grid; gap: 22px; }
+.offer { background: #fff; color: var(--ink, #1a2633); border-radius: 14px; padding: 16px; box-shadow: 0 14px 40px rgba(0,0,0,.28); align-self: start; }
+.offer-top { display: flex; gap: 14px; align-items: center; }
+.offer-top img { width: 96px; height: 96px; border-radius: 10px; object-fit: cover; flex: 0 0 96px; }
+.offer-k { margin: 0; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: #5a6b7d; font-weight: 700; }
+.offer-p { margin: 0; font-size: 2.1rem; font-weight: 800; color: var(--navy-900); line-height: 1.1; }
+.offer-p span { font-size: 1rem; vertical-align: super; margin-right: 2px; }
+.offer-n { margin: 2px 0 0; font-size: .88rem; color: #5a6b7d; }
+.offer-cd { display: flex; align-items: center; gap: 10px; background: #fff6e3; border: 1px solid #f2d38b; border-radius: 10px; padding: 8px 12px; margin: 14px 0 12px; }
+.cd-n { font-size: 1.9rem; font-weight: 800; color: var(--navy-900); line-height: 1; }
+.cd-t { font-size: .92rem; font-weight: 700; color: var(--navy-900); line-height: 1.25; }
+.cd-t small { font-weight: 500; color: #5a6b7d; }
+.offer .btn-big { width: 100%; justify-content: center; margin-top: 4px; }
+.offer-l { list-style: none; padding: 0; margin: 12px 0 0; font-size: .9rem; color: #33475b; }
+.offer-l li { padding-left: 22px; position: relative; margin: 4px 0; }
+.offer-l li::before { content: "✓"; position: absolute; left: 2px; color: #1f8a4c; font-weight: 800; }
+.rx { margin: 1.6rem 0 1rem; }
+.rx-g { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.rx-g li { background: var(--navy-50); border: 1px solid #d6e3f0; border-radius: 12px; padding: 12px 14px; }
+.rx-g b { display: block; font-size: 1.8rem; line-height: 1.1; color: var(--navy-900); }
+.rx-g span { display: block; font-size: .92rem; line-height: 1.35; color: #33475b; }
+.rx-d { margin-top: 12px; }
+.rx-d summary { cursor: pointer; font-weight: 700; color: var(--navy); min-height: 44px; display: flex; align-items: center; }
+.rx-t { width: 100%; border-collapse: collapse; font-size: .95rem; }
+.rx-t th, .rx-t td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e3eaf2; }
+.rx-t td:last-child, .rx-t th:last-child { text-align: right; white-space: nowrap; }
+.previa { list-style: none; padding: 0; margin: 14px 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.previa img { width: 100%; height: auto; border: 1px solid #d6e3f0; border-radius: 6px; box-shadow: 0 4px 14px rgba(11,61,110,.12); display: block; }
+.steps-s { margin: 1.6rem 0; }
+.steps { list-style: none; counter-reset: st; padding: 0; margin: 0; display: grid; gap: 10px; }
+.steps li { counter-increment: st; position: relative; padding: 12px 14px 12px 52px; border: 1px solid #e3eaf2; border-radius: 12px; background: #fff; }
+.steps li::before { content: counter(st); position: absolute; left: 14px; top: 12px; width: 28px; height: 28px; border-radius: 50%; background: var(--navy); color: #fff; font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: .9rem; }
+.steps b { display: block; color: var(--navy-900); }
+.steps span { display: block; font-size: .95rem; line-height: 1.45; color: #33475b; }
+.hero .datas-conc { color: #3a2a00; font-size: .95rem; }
+.bar-b { display: flex; flex-direction: column; line-height: 1.15; }
+.bar-t { font-size: .78rem; font-weight: 600; color: #f6d48a; }
+@media (min-width: 640px) { .rx-g { grid-template-columns: repeat(4, 1fr); } .steps { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 900px) {
+  .hero-grid { grid-template-columns: minmax(0, 1fr) 360px; gap: 40px; align-items: center; }
+  .offer { padding: 20px; }
+  .previa { max-width: 620px; }
+}
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .card { transition: none; } }
 @media print { .top, .sticky-buy, .foot, .cta-row, .pbox { display: none; } .gab-body { display: block; } }

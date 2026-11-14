@@ -28,7 +28,7 @@ URL: https://araujo19con.github.io/questaodiaria/alepa/
 Atualizado em: 2026-11-13
 Legislação ALEPA 2026 (Cetap): 10 questões grátis comentadas do Regimento Interno, da Constituição do Pará, LGPD e mais. Amostra grátis com resumo do Regimento.
 
-Seções: Concurso ALEPA 2026: o bloco de Legislação e Ética | O que cai na legislação da ALEPA | O que diz o edital | Revisão em vídeo | Material: Legislação ALEPA 2026 (Cetap) | 10 questões grátis de legislação ALEPA 2026, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Vai fazer também o TRT-8 (prova em 17/01/2027)? | Quer treinar com simulados? | Conteúdo grátis de ALEPA | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso ALEPA 2026: o bloco de Legislação e Ética | O que cai na legislação da ALEPA | O que diz o edital | Revisão em vídeo | Material: Legislação ALEPA 2026 (Cetap) | Como funciona a compra | 10 questões grátis de legislação ALEPA 2026, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Vai fazer também o TRT-8 (prova em 17/01/2027)? | Quer treinar com simulados? | Conteúdo grátis de ALEPA | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: Sim. O bloco de Legislação e Ética é comum aos três editais. Confira no edital os itens exatos.
 P: As questões são de provas anteriores?
@@ -55,6 +55,21 @@ Atualizado em: 2026-10-17
 Onde o Regimento Interno da ALEPA, a Constituição do Pará e outras normas dizem coisas diferentes, e qual regra a prova costuma cobrar.
 
 Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de ALEPA
+
+## Lei de Improbidade (8.429/1992): sanções e prescrição de 8 anos
+URL: https://araujo19con.github.io/questaodiaria/alepa/improbidade-administrativa-lei-8429-sancoes-prescricao/
+Atualizado em: 2026-11-13
+Sanções do art. 12 da Lei 8.429/1992 por espécie de ato, prescrição de 8 anos, interrupção e afastamento cautelar, com o artigo de cada regra.
+
+Seções: Sanções do art. 12 | Prescrição (art. 23) | Afastamento cautelar (art. 20) | Perguntas frequentes | Material completo: Legislação e Ética ALEPA 2026 | Mais conteúdo grátis: ALEPA
+P: Qual a prescrição da ação de improbidade?
+R: Oito anos, contados do fato ou, nas infrações permanentes, do dia em que cessou a permanência (Lei 8.429/1992, art. 23).
+P: A violação de princípios (art. 11) suspende os direitos políticos?
+R: Não. O art. 12, III, prevê multa civil de até 24 vezes a remuneração e proibição de contratar com o poder público por até 4 anos.
+P: Por quanto tempo o agente pode ser afastado do cargo na ação de improbidade?
+R: Por até 90 dias, prorrogáveis uma única vez por igual prazo, sem prejuízo da remuneração (art. 20, §§ 1º e 2º).
+P: Qual a suspensão dos direitos políticos no enriquecimento ilícito?
+R: Até 14 anos (art. 12, I). Na lesão ao erário, até 12 anos (art. 12, II).
 
 ## Lei Anticorrupção (12.846/2013): resumo para concursos
 URL: https://araujo19con.github.io/questaodiaria/alepa/lei-anticorrupcao-resumo/
@@ -84,12 +99,53 @@ As pegadinhas mais prováveis de legislação da ALEPA (Cetap): Regimento Intern
 
 Seções: Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de ALEPA
 
+## Prazos das Comissões e da CPI na ALEPA (Regimento Interno)
+URL: https://araujo19con.github.io/questaodiaria/alepa/prazos-comissoes-cpi-regimento-alepa/
+Atualizado em: 2026-11-13
+Prazos das Comissões da ALEPA (3, 6 e 12 dias úteis), Relator, vista, perda do lugar e CPI (120 + 60 dias), com o artigo de cada prazo.
+
+Seções: Prazos das Comissões (art. 65) | Outros prazos que caem | CPI (art. 82) | Perguntas frequentes | Material completo: Legislação e Ética ALEPA 2026 | Mais conteúdo grátis: ALEPA
+P: Qual o prazo das Comissões da ALEPA em regime de urgência?
+R: Três dias úteis; na prioridade são seis e na tramitação ordinária, doze (Regimento Interno, art. 65).
+P: Qual o prazo de vista em Comissão na ALEPA?
+R: Dois dias úteis, vedada a vista em matéria em regime de urgência (Regimento, art. 67, XVII).
+P: Qual o prazo da CPI na ALEPA?
+R: 120 dias, prorrogável por até 60 dias, por deliberação dos membros da CPI (Regimento, art. 82, § 3º).
+
+## Quórum na ALEPA: maioria simples, absoluta e 3/5 no Regimento
+URL: https://araujo19con.github.io/questaodiaria/alepa/quorum-votacao-regimento-alepa/
+Atualizado em: 2026-11-13
+Quóruns do Regimento Interno da ALEPA: abertura da sessão, maioria simples e absoluta, lei complementar, PEC e veto, com o artigo de cada regra.
+
+Seções: Quórum para funcionar (art. 230) | Os três tipos de maioria (art. 232) | Lei complementar x PEC | Perguntas frequentes | Material completo: Legislação e Ética ALEPA 2026 | Mais conteúdo grátis: ALEPA
+P: Qual o quórum para abrir a sessão na ALEPA?
+R: A décima parte do número total de Deputados, desprezada a fração (Regimento Interno, art. 230, I). A Ordem do Dia exige a maioria absoluta (art. 230, II).
+P: Qual o quórum para aprovar PEC na ALEPA?
+R: Três quintos dos membros da Assembleia, em cada um dos dois turnos (Regimento, art. 261, § 3º).
+P: Como se aprova lei complementar na ALEPA?
+R: Por maioria absoluta dos membros, em dois turnos de votação nominal, com interstício de cinco sessões (Regimento, art. 172).
+P: Qual o quórum para rejeitar veto na ALEPA?
+R: Maioria absoluta dos Deputados, em escrutínio secreto (Regimento, art. 257, § 1º).
+
 ## Regimento Interno da ALEPA (Resolução nº 02/2022): resumo para a Cetap
 URL: https://araujo19con.github.io/questaodiaria/alepa/regimento-interno-alepa-resolucao-02-2022/
 Atualizado em: 2026-10-17
 Resumo do Regimento Interno da Assembleia Legislativa do Pará (Resolução nº 02/2022) para a prova da Cetap: legislatura, sessões preparatórias, líderes e blocos.
 
 Seções: 1.0 A Resolução nº 02/2022 (5 artigos) | 1.1 Assembleia, legislatura e sessões preparatórias (RI, arts. 1º a 11) | 1.2 Líderes, blocos, Bancada Feminina e veículos oficiais (RI, arts. 12 a 22) | Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de ALEPA
+
+## Sanção, veto e promulgação no Regimento Interno da ALEPA
+URL: https://araujo19con.github.io/questaodiaria/alepa/sancao-veto-promulgacao-alepa/
+Atualizado em: 2026-11-13
+Sanção e veto do Governador (15 dias úteis), motivos em 48 horas, apreciação em 30 dias e promulgação no Regimento Interno da ALEPA.
+
+Seções: Linha do tempo | Pegadinhas | Perguntas frequentes | Material completo: Legislação e Ética ALEPA 2026 | Mais conteúdo grátis: ALEPA
+P: Qual o prazo do Governador do Pará para vetar?
+R: Quinze dias úteis, contados do recebimento do projeto; o silêncio importa sanção (Regimento Interno da ALEPA, art. 255).
+P: Como a ALEPA rejeita o veto?
+R: Pela maioria absoluta dos Deputados, em escrutínio secreto, dentro de 30 dias do recebimento (art. 257, § 1º).
+P: Quem promulga a lei se o Governador não o fizer em 48 horas?
+R: O Presidente da Assembleia e, se ele não o fizer em igual prazo, os Vice-Presidentes, sucessivamente (art. 259, § 4º).
 
 ## Top 20 dispositivos da ALEPA para a prova (Cetap)
 URL: https://araujo19con.github.io/questaodiaria/alepa/top-20-dispositivos-alepa/
@@ -100,7 +156,7 @@ Seções: Quer o resumo completo e as questões comentadas? | Mais conteúdo gr�
 
 ## Concursos de Assembleia Legislativa: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/assembleias-legislativas/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Concurso de Assembleia Legislativa: Regimento Interno, Constituição Estadual, ética no serviço público e LGPD em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -114,21 +170,21 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 
 ## Provas da Consulplan: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/consulplan/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Materiais de legislação para provas da Consulplan (Câmara de Cristalina, Câmara de Unaí): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
 
 ## Provas da FCC: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/fcc/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Materiais de legislação para provas da FCC (TCE-GO, TRT-8): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
 
 ## Provas da FGV: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/fgv/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Materiais de legislação para provas da FGV (Ética OAB, GCM Salvador): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -200,7 +256,7 @@ URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/
 Atualizado em: 2026-11-13
 Legislação da Câmara de Cristalina/GO 2026 (Consulplan): Regimento Interno, Lei Orgânica e Estatuto (Lei 1.207/1994 com a Lei 2.874/2026). 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso Câmara de Cristalina 2026: o bloco de Legislação Específica | Regimento Interno da Câmara de Cristalina e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Cristalina 2026 (Consulplan) | 10 questões grátis do Regimento Interno da Câmara de Cristalina, da Lei Orgânica e do Estatuto | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cristalina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso Câmara de Cristalina 2026: o bloco de Legislação Específica | Regimento Interno da Câmara de Cristalina e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Cristalina 2026 (Consulplan) | Como funciona a compra | 10 questões grátis do Regimento Interno da Câmara de Cristalina, da Lei Orgânica e do Estatuto | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cristalina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: Serve para quem tem Legislação Específica na prova: os cargos de nível médio/técnico e superior. Para Técnico Legislativo e Técnico Parlamentar, ajuda também em Conhecimentos do Cargo. Confira no edital os itens do seu cargo.
 P: As questões são de provas anteriores?
@@ -247,6 +303,21 @@ Lei Orgânica do Município de Cristalina-GO nº 1/1990 para o concurso da Câma
 
 Seções: Prazos e quóruns da Lei Orgânica | 3 questões grátis da Lei Orgânica | Quer treinar mais até 20/12? | Mais conteúdo grátis de Câmara de Cristalina
 
+## Licenças do servidor de Cristalina (Lei 1.207/1994): prazos e regras
+URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/licencas-servidores-cristalina-lei-1207/
+Atualizado em: 2026-11-13
+Licenças do Estatuto de Cristalina/GO (Lei 1.207/1994): família, interesse particular, licença-prêmio, gestante e paternidade, com o artigo de cada prazo.
+
+Seções: Quadro das licenças | Detalhes que a banca troca | Ausências sem prejuízo (art. 120) | Perguntas frequentes | Material completo: Legislação Câmara de Cristalina 2026 | Mais conteúdo grátis: Câmara de Cristalina
+P: Quantos dias dura a licença por doença em pessoa da família em Cristalina?
+R: Até 90 dias com remuneração, prorrogáveis por até 90 dias mediante parecer de junta médica (Lei 1.207/1994, art. 108, § 2º).
+P: Quem pode tirar licença para tratar de interesse particular?
+R: Só o servidor estável, a critério da administração, por até 2 anos consecutivos e sem remuneração (art. 111).
+P: Qual a duração da licença-prêmio no Estatuto de Cristalina?
+R: Seis meses a cada decênio de efetivo serviço, gozados de forma ininterrupta (art. 113).
+P: Quantos dias de licença tem a servidora gestante em Cristalina?
+R: 180 dias consecutivos, a partir do primeiro dia do nono mês de gestação, salvo antecipação por prescrição médica (art. 220).
+
 ## Mesa Diretora e Comissões da Câmara de Cristalina (Regimento Interno): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/mesa-diretora-comissoes-camara-cristalina-regimento/
 Atualizado em: 2026-10-17
@@ -260,6 +331,19 @@ Atualizado em: 2026-10-17
 Resumo do regime disciplinar (arts. 138 a 165) e da sindicância e do PAD (arts. 166 a 199) do Estatuto dos Servidores de Cristalina/GO (Lei 1.207/1994) para a prova da Consulplan.
 
 Seções: 3.11 Regime disciplinar (Est., arts. 138 a 165) | 3.12 Sindicância e PAD (Est., arts. 166 a 199) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Cristalina | Salve esta imagem no Pinterest
+
+## Lei Orgânica de Cristalina: emenda, urgência, sanção e veto
+URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/processo-legislativo-lei-organica-cristalina/
+Atualizado em: 2026-11-13
+Emenda à Lei Orgânica, leis complementares, urgência, sanção e veto na Lei Orgânica de Cristalina/GO, com o artigo de cada prazo e quórum.
+
+Seções: Emenda e iniciativa | Urgência, sanção e veto | Perguntas frequentes | Material completo: Legislação Câmara de Cristalina 2026 | Mais conteúdo grátis: Câmara de Cristalina
+P: Qual o quórum para emendar a Lei Orgânica de Cristalina?
+R: Dois terços dos membros da Câmara, em dois turnos, com interstício mínimo de 10 dias (Lei Orgânica, art. 44, § 1º).
+P: Quais leis são complementares em Cristalina?
+R: Código Tributário, Código de Obras, Plano Diretor, Código de Posturas, regime jurídico único dos servidores, lei da guarda municipal e lei de criação de cargos, aprovadas por maioria absoluta (art. 46).
+P: Em quanto tempo a Câmara de Cristalina aprecia o veto?
+R: Em 30 dias do recebimento; o veto só é rejeitado pela maioria absoluta dos Vereadores, em escrutínio nominal (art. 50, § 4º).
 
 ## Proposições, tramitação, urgência e veto na Câmara de Cristalina: resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/proposicoes-tramitacao-veto-camara-cristalina/
@@ -289,12 +373,40 @@ Onde o Regimento Interno da Câmara de Cristalina e a Lei Orgânica do Municípi
 
 Seções: Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Cristalina
 
+## Adicionais do servidor de Cristalina: insalubridade, noturno e 13º
+URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/remuneracao-adicionais-servidores-cristalina-lei-1207/
+Atualizado em: 2026-11-13
+Insalubridade, periculosidade, adicional noturno, 13º, teto e descontos no Estatuto de Cristalina/GO (Lei 1.207/1994), com o artigo de cada regra.
+
+Seções: Adicionais e gratificações | Tetos e descontos | Perguntas frequentes | Material completo: Legislação Câmara de Cristalina 2026 | Mais conteúdo grátis: Câmara de Cristalina
+P: Qual o adicional de insalubridade em Cristalina?
+R: 30%, 20% e 10% calculados sobre o salário mínimo, conforme o grau máximo, médio ou mínimo (Lei 1.207/1994, art. 86).
+P: O servidor de Cristalina pode receber insalubridade e periculosidade juntas?
+R: Não. Os adicionais de penosidade, insalubridade e periculosidade não se acumulam, e o servidor opta por um deles (art. 88).
+P: Qual o adicional noturno no Estatuto de Cristalina?
+R: 25%, para o serviço prestado entre 22 horas e 5 horas, contando-se cada hora como 52 minutos e 30 segundos (art. 90).
+P: Qual o limite da consignação em folha?
+R: 35% da remuneração, com autorização do servidor (art. 67, parágrafo único, na redação da Lei nº 2.773/2025).
+
 ## Reuniões, votações e quóruns na Câmara de Cristalina (Regimento Interno): resumo
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/reunioes-votacoes-quoruns-camara-cristalina/
 Atualizado em: 2026-10-17
 Resumo das reuniões (arts. 132 a 167) e das votações e quóruns (arts. 168 a 181) no Regimento Interno da Câmara de Cristalina/GO para a prova da Consulplan.
 
 Seções: 1.10 Reuniões (RI, arts. 132 a 167) | 1.11 Votações e quóruns (RI, arts. 168 a 181) | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de Câmara de Cristalina
+
+## Sessão legislativa, recesso e posse na Câmara de Cristalina
+URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/sessao-legislativa-recesso-posse-camara-cristalina/
+Atualizado em: 2026-11-13
+Sessão legislativa, recesso, convocação extraordinária e posse dos Vereadores no Regimento da Câmara de Cristalina/GO, com o artigo de cada data.
+
+Seções: Calendário | Quem convoca no recesso (RI, art. 3º, § 5º) | Posse dos Vereadores | Perguntas frequentes | Material completo: Legislação Câmara de Cristalina 2026 | Mais conteúdo grátis: Câmara de Cristalina
+P: Quando começa a sessão legislativa da Câmara de Cristalina?
+R: Em 2 de fevereiro. Os períodos são de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro (Regimento, art. 3º, § 2º; Lei Orgânica, art. 19).
+P: Quais são os períodos de recesso em Cristalina?
+R: De 1º de janeiro a 1º de fevereiro, de 18 a 31 de julho e de 23 a 31 de dezembro (Regimento, art. 3º, § 4º).
+P: Qual o prazo para o Vereador que faltou à instalação tomar posse?
+R: 15 dias, contados do início do funcionamento normal da Câmara, sob pena de perda do mandato, salvo motivo justo aceito pela maioria (Regimento, art. 6º).
 
 ## Simulado Câmara de Cristalina (Consulplan): 5 questões grátis de Legislação Específica
 URL: https://araujo19con.github.io/questaodiaria/camara-cristalina/simulado-camara-cristalina-consulplan/
@@ -322,7 +434,7 @@ URL: https://araujo19con.github.io/questaodiaria/camara-cuiaba/
 Atualizado em: 2026-11-13
 Legislação da Câmara de Cuiabá/MT 2026 (Selecon): Lei Orgânica, Regimento Interno, Estatuto (LC 93/2003) e Plano de Cargos (LC 235/2011 e LC 609/2026). 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso Câmara de Cuiabá 2026: o bloco de Legislação | Os quatro itens de Legislação e o que mais cai | O que diz o edital | Material: Legislação Câmara de Cuiabá 2026 (Selecon) | 10 questões grátis da Lei Orgânica, do Regimento Interno, do Estatuto e do Plano de Cargos de Cuiabá | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cuiabá | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso Câmara de Cuiabá 2026: o bloco de Legislação | Os quatro itens de Legislação e o que mais cai | O que diz o edital | Material: Legislação Câmara de Cuiabá 2026 (Selecon) | Como funciona a compra | 10 questões grátis da Lei Orgânica, do Regimento Interno, do Estatuto e do Plano de Cargos de Cuiabá | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Cuiabá | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: O Anexo V cobra Legislação (os quatro itens) dos cargos de nível superior. Para o nível médio, o edital pede organização e funcionamento do Poder Legislativo Municipal, e a Lei Orgânica e o Regimento ajudam. Confira no edital os itens do seu cargo.
 P: As questões são de provas anteriores?
@@ -479,7 +591,7 @@ URL: https://araujo19con.github.io/questaodiaria/camara-mossoro/
 Atualizado em: 2026-11-13
 Regimento Interno da Câmara de Mossoró (Res. 25/2025), Lei Orgânica e Improbidade: 10 questões grátis comentadas, estilo Comperve 2026. Amostra grátis em PDF.
 
-Seções: Concurso Câmara de Mossoró 2026: o bloco de Legislação | Regimento Interno da Câmara de Mossoró e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Mossoró 2026 (Comperve) | 10 questões grátis do Regimento Interno da Câmara de Mossoró e da Lei Orgânica | Amostra grátis em PDF | Plano de estudos até a prova | Quer treinar com simulados? | Dúvida na hora de estudar? Pergunte ao Tutor com IA | Conteúdo grátis de Câmara de Mossoró | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso Câmara de Mossoró 2026: o bloco de Legislação | Regimento Interno da Câmara de Mossoró e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação Câmara de Mossoró 2026 (Comperve) | Como funciona a compra | 10 questões grátis do Regimento Interno da Câmara de Mossoró e da Lei Orgânica | Amostra grátis em PDF | Plano de estudos até a prova | Quer treinar com simulados? | Dúvida na hora de estudar? Pergunte ao Tutor com IA | Conteúdo grátis de Câmara de Mossoró | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação 
 P: Serve para o meu cargo?
 R: Sim. As 10 questões de legislação são comuns a todos os cargos. Confira no edital os itens exatos.
 P: As questões são de provas anteriores?
@@ -674,7 +786,7 @@ URL: https://araujo19con.github.io/questaodiaria/camara-petrolina/
 Atualizado em: 2026-11-13
 Legislação da Câmara de Petrolina/PE 2026 (IDECAN): Lei Orgânica e Regimento Interno, com quadro de divergências entre as normas. 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso Câmara de Petrolina 2026: o bloco de Legislação | As duas normas e o que mais cai | Material: Legislação Câmara de Petrolina 2026 (IDECAN) | 10 questões grátis da Lei Orgânica e do Regimento Interno de Petrolina | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Petrolina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso Câmara de Petrolina 2026: o bloco de Legislação | As duas normas e o que mais cai | Material: Legislação Câmara de Petrolina 2026 (IDECAN) | Como funciona a compra | 10 questões grátis da Lei Orgânica e do Regimento Interno de Petrolina | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de Câmara de Petrolina | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: O material cobre a Lei Orgânica e o Regimento Interno da Câmara. Confira no edital se esses itens aparecem no conteúdo do seu cargo.
 P: As questões são de provas anteriores?
@@ -774,45 +886,77 @@ R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro
 
 ## Comissões da Câmara de Pires do Rio/GO no Regimento Interno: permanentes e temporárias
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/comissoes-regimento-interno-camara-pires-do-rio/
-Atualizado em: 2026-10-27
+Atualizado em: 2026-11-13
 Comissões Permanentes e Temporárias da Câmara de Pires do Rio/GO no Regimento Interno: composição, prazos de relatoria, CPI, Comissão Representativa e o artigo de cada regra.
 
-Seções: Comissões Permanentes | O que cada uma analisa | Audiência pública e códigos (arts. 38 e 39) | Comissões Temporárias | Comissão Representativa (arts. 49 e 50) | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+Seções: Comissões Permanentes | O que cada uma analisa | Audiência pública e códigos (arts. 38 e 39) | Comissões Temporárias | Comissão Representativa (arts. 49 e 50) | Perguntas frequentes | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+P: Quantas Comissões Permanentes tem a Câmara de Pires do Rio?
+R: Três: Constituição, Legislação e Redação Final; Orçamentos, Finanças e Contas Públicas; e Saúde, Educação, Cultura, Assistência Social, Esporte, Meio Ambiente, Trânsito e Serviço Público (Regimento Interno, art. 31).
+P: Qual o prazo do Relator nas Comissões de Pires do Rio?
+R: 10 dias úteis, ou 5 dias no rito de urgência (art. 37, §§ 2º e 6º).
+P: Qual o prazo da CPI na Câmara de Pires do Rio?
+R: 120 dias, prorrogáveis por mais 60, e a CPI é requerida por um terço dos Vereadores (art. 46).
 
 ## Lei Orgânica de Pires do Rio/GO: pontos que mais caem e divergências com o Regimento Interno
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/lei-organica-camara-pires-do-rio-pontos-e-divergencias/
-Atualizado em: 2026-10-27
+Atualizado em: 2026-11-13
 Resumo da Lei Orgânica do Município de Pires do Rio/GO (até a Emenda 51/2024) sobre a Câmara, quórum, veto e emenda, e as divergências com o Regimento Interno, com o artigo de cada regra.
 
-Seções: Câmara e sessões | Quórum e voto | Vereador: perda do mandato e licença | Processo legislativo | Divergências entre a Lei Orgânica e o Regimento Interno | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+Seções: Câmara e sessões | Quórum e voto | Vereador: perda do mandato e licença | Processo legislativo | Divergências entre a Lei Orgânica e o Regimento Interno | Perguntas frequentes | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+P: Quando a Câmara de Pires do Rio se reúne pela Lei Orgânica?
+R: De 2 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro (art. 59, na redação da Emenda nº 51/2024). O Regimento ainda fala em 15 de fevereiro (art. 72).
+P: Qual o quórum para abrir a sessão pela Lei Orgânica de Pires do Rio?
+R: Um terço dos membros (Lei Orgânica, art. 74). O Regimento exige a maioria absoluta (art. 88).
+P: Como se emenda a Lei Orgânica de Pires do Rio?
+R: Por proposta de um terço dos Vereadores, de 1% dos eleitores ou do Prefeito, em dois turnos com intervalo mínimo de dez dias e dois terços em ambos (art. 90).
 
 ## Mesa Diretora da Câmara de Pires do Rio/GO no Regimento Interno: composição, eleição e destituição
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/mesa-diretora-camara-pires-do-rio/
-Atualizado em: 2026-10-27
+Atualizado em: 2026-11-13
 Composição, eleição, vacância, destituição e competências da Mesa Diretora no Regimento Interno da Câmara de Pires do Rio/GO, com o artigo de cada regra e os prazos.
 
-Seções: Composição e reuniões (art. 10) | Eleição | Vacância (art. 16) | Destituição (arts. 17 e 18) | Presidente: algumas atribuições | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+Seções: Composição e reuniões (art. 10) | Eleição | Vacância (art. 16) | Destituição (arts. 17 e 18) | Presidente: algumas atribuições | Perguntas frequentes | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+P: Como é composta a Mesa da Câmara de Pires do Rio?
+R: Presidente, Vice-Presidente, 1º Secretário e 2º Secretário (Regimento Interno, art. 10).
+P: Como é a eleição da Mesa em Pires do Rio?
+R: Por voto aberto, por chapas, presente a maioria absoluta dos Vereadores (art. 11). Vence a chapa com a maioria dos votos dos presentes (art. 15, II).
+P: Licença do Vereador gera vaga na Mesa?
+R: Sim, a licença do mandato por mais de 120 dias ou para assumir cargo de Secretário Municipal (art. 16, § 1º).
 
 ## Quórum e votações no Regimento Interno da Câmara de Pires do Rio/GO (Instituto Verbena)
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/quorum-votacoes-camara-pires-do-rio/
-Atualizado em: 2026-10-27
+Atualizado em: 2026-11-13
 Maioria simples, absoluta e qualificada no Regimento Interno da Câmara de Pires do Rio/GO: o que exige cada quórum, quando o Presidente vota e a diferença entre abrir e decidir a destituição da Mesa.
 
-Seções: Os três tipos de maioria (art. 53) | Matérias que exigem maioria absoluta (art. 91, § 1º) | Matérias que exigem dois terços (art. 91, § 2º) | Quando o Presidente da Câmara vota (art. 24) | Abrir o processo não é decidir (arts. 17, 18 e 91) | Quórum de funcionamento da sessão (arts. 87, 88 e 97) | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+Seções: Os três tipos de maioria (art. 53) | Matérias que exigem maioria absoluta (art. 91, § 1º) | Matérias que exigem dois terços (art. 91, § 2º) | Quando o Presidente da Câmara vota (art. 24) | Abrir o processo não é decidir (arts. 17, 18 e 91) | Quórum de funcionamento da sessão (arts. 87, 88 e 97) | Perguntas frequentes | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+P: Qual o quórum para a Câmara de Pires do Rio deliberar?
+R: A presença de, no mínimo, a maioria absoluta dos Vereadores (Regimento Interno, art. 53, caput). A regra geral de votação é a maioria simples dos presentes (art. 53, § 1º).
+P: Quantos votos são a maioria absoluta em Pires do Rio?
+R: Sete votos, porque a Câmara tem 13 Vereadores. Os dois terços são 9 votos.
+P: Quais matérias exigem dois terços no Regimento de Pires do Rio?
+R: Emenda à Lei Orgânica, rejeição do parecer prévio do TCM, cassação de mandato de Prefeito e de Vereador e outras indicadas na Lei Orgânica (art. 91, § 2º).
+P: Qual o quórum para destituir membro da Mesa em Pires do Rio?
+R: Pelo Regimento, a abertura do processo exige maioria absoluta (art. 18, § 1º) e a destituição, dois terços dos membros, em votação aberta (art. 17).
 
 ## Veto, sanção e promulgação no Regimento Interno da Câmara de Pires do Rio/GO
 URL: https://araujo19con.github.io/questaodiaria/camara-pires-do-rio/veto-sancao-promulgacao-camara-pires-do-rio/
-Atualizado em: 2026-10-27
+Atualizado em: 2026-11-13
 Prazos de redação final, autógrafo, sanção, veto e promulgação no Regimento Interno da Câmara de Pires do Rio/GO, o rito do veto e o quórum para rejeitá-lo, com o artigo de cada regra.
 
-Seções: Linha do tempo | Motivos do veto (art. 155) | Rito do veto na Câmara (art. 164) | Pegadinha: dois prazos para o autógrafo | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+Seções: Linha do tempo | Motivos do veto (art. 155) | Rito do veto na Câmara (art. 164) | Pegadinha: dois prazos para o autógrafo | Perguntas frequentes | Material completo: Legislação Câmara de Pires do Rio 2026 | Mais conteúdo grátis da Câmara de Pires do Rio
+P: Qual o prazo do Prefeito de Pires do Rio para sancionar ou vetar?
+R: Quinze dias úteis (Regimento Interno, arts. 154 e 155). O silêncio vale como sanção tácita (art. 154, parágrafo único).
+P: Em quanto tempo o Prefeito comunica os motivos do veto?
+R: Em 48 horas, ao Presidente da Câmara (Regimento, art. 155).
+P: Qual o quórum para derrubar o veto em Pires do Rio?
+R: Maioria absoluta dos membros da Câmara (Regimento, art. 164, VIII; art. 91, § 1º, I).
 
 ## Legislação Câmara de Santa Helena de Goiás 2027: Regimento Interno, Lei Orgânica e Estatuto
 URL: https://araujo19con.github.io/questaodiaria/camara-santa-helena/
 Atualizado em: 2026-11-13
 Legislação da Câmara de Santa Helena de Goiás/GO (ITAME, prova 21/02/2027): Regimento Interno (Res. 180/2020), Lei Orgânica com as emendas até 2026, Estatuto (Lei 1.664/1992) e CF arts. 1º a 6º. 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso Câmara de Santa Helena de Goiás: o peso da Legislação | Regimento Interno, Lei Orgânica e Estatuto de Santa Helena de Goiás | Material: Legislação Câmara de Santa Helena de Goiás 2027 (ITAME) | 10 questões grátis de legislação da Câmara de Santa Helena de Goiás, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso Câmara de Santa Helena de Goiás: o peso da Legislação | Regimento Interno, Lei Orgânica e Estatuto de Santa Helena de Goiás | Material: Legislação Câmara de Santa Helena de Goiás 2027 (ITAME) | Como funciona a compra | 10 questões grátis de legislação da Câmara de Santa Helena de Goiás, comentadas | Amostra grátis em PDF | Quer treinar com simulados? | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: Sim. O edital cobra Regimento Interno, Estatuto, Lei Orgânica e CF (arts. 1º a 6º) como legislação comum a todos os cargos. Confira no edital os itens do seu cargo.
 P: As questões são de provas anteriores?
@@ -1049,7 +1193,7 @@ URL: https://araujo19con.github.io/questaodiaria/etica-oab/
 Atualizado em: 2026-11-13
 Ética para a 1ª fase do 48º Exame de Ordem (FGV): 10 questões grátis comentadas do Estatuto da OAB e do Código de Ética, atualizados até 2026.
 
-Seções: 48º Exame de Ordem: por que Ética decide a 1ª fase | O que cai de Ética na OAB | Revisão em vídeo | Material: Ética para a OAB 48 (FGV): Estatuto e CED Esquematizados | 10 questões grátis de Ética para a OAB, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de Ética OAB | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | 48º Exame de Ordem: por que Ética decide a 1ª fase | O que cai de Ética na OAB | Revisão em vídeo | Material: Ética para a OAB 48 (FGV): Estatuto e CED Esquematizados | Como funciona a compra | 10 questões grátis de Ética para a OAB, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de Ética OAB | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Cobre as outras matérias da 1ª fase?
 R: Não. É focado em Ética Profissional.
 P: As questões são de provas anteriores?
@@ -1159,7 +1303,7 @@ URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/
 Atualizado em: 2026-11-13
 Legislação específica GCM Salvador 2027 (FGV): 10 questões grátis comentadas da Lei 9.640/2022, LC 1/1991, Regime Disciplinar e Regimento da GCM. Amostra grátis em PDF.
 
-Seções: Concurso GCM Salvador 2027: a legislação específica na prova | Lei 9.640 Salvador e as outras normas que caem | O que diz o edital | Revisão em vídeo | Material: Legislação GCM Salvador 2027 (FGV) | 10 questões grátis de legislação específica da GCM Salvador, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Quer treinar com simulados? | Conteúdo grátis de GCM Salvador | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso GCM Salvador 2027: a legislação específica na prova | Lei 9.640 Salvador e as outras normas que caem | O que diz o edital | Revisão em vídeo | Material: Legislação GCM Salvador 2027 (FGV) | Como funciona a compra | 10 questões grátis de legislação específica da GCM Salvador, comentadas | Amostra grátis em PDF | Plano de estudos até a prova | Quer treinar com simulados? | Conteúdo grátis de GCM Salvador | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Cobre a Legislação Geral (leis federais)?
 R: Não. Cobre só o bloco municipal e específico do edital.
 P: As questões são de provas anteriores?
@@ -1208,12 +1352,66 @@ Resumo da Lei nº 9.640/2022 (Plano de Carreira e Vencimentos da Guarda Civil Mu
 
 Seções: Legislação GCM Salvador 2027 FGV: material completo | Mais conteúdo grátis da GCM Salvador
 
+## Licenças do servidor de Salvador (LC 1/1991): prazos e regras
+URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/licencas-servidor-salvador-lc-1-1991/
+Atualizado em: 2026-11-13
+Licenças da LC 1/1991 de Salvador: gestante, adotante, paternidade, família, interesses particulares e licença-prêmio, com o artigo de cada prazo.
+
+Seções: Quadro das licenças | Abono de faltas (art. 135) | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
+P: Quantos dias de licença tem a servidora gestante em Salvador?
+R: 180 dias consecutivos, a partir do oitavo mês de gestação (LC 1/1991, art. 123).
+P: A licença para interesses particulares conta como tempo de serviço em Salvador?
+R: Não. É sem remuneração, por até 2 anos, e o tempo não se computa para nenhum efeito (art. 131).
+P: Qual a licença-prêmio do servidor de Salvador?
+R: Três meses a cada quinquênio de efetivo exercício (art. 133).
+P: Quantos dias de abono por casamento na LC 1/1991?
+R: Até 7 dias consecutivos (art. 135, II).
+
 ## Pegadinhas FGV de legislação da GCM Salvador
 URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/pegadinhas-fgv-gcm-salvador/
 Atualizado em: 2026-10-17
 As trocas mais prováveis da FGV na legislação específica da GCM de Salvador: Estatuto das Guardas, carreira, regime disciplinar, RJU e Lei Orgânica.
 
 Seções: Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de GCM Salvador
+
+## Penalidades e prescrição do servidor de Salvador (LC 1/1991)
+URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/penalidades-prescricao-servidor-salvador-lc-1-1991/
+Atualizado em: 2026-11-13
+Suspensão até 90 dias, abandono, inassiduidade e prescrição da ação disciplinar na LC 1/1991 de Salvador, com o artigo de cada prazo.
+
+Seções: Prazos disciplinares | Prescrição da ação disciplinar (art. 187) | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
+P: Qual o limite da suspensão na LC 1/1991 de Salvador?
+R: Noventa dias (art. 174).
+P: O que é abandono de cargo no Regime Jurídico de Salvador?
+R: A ausência intencional do servidor por mais de 30 dias consecutivos (art. 178). A inassiduidade habitual são 60 dias interpolados em 12 meses (art. 179).
+P: Em quanto tempo prescreve a advertência na LC 1/1991?
+R: Em 180 dias, contados da data em que o fato se tornou conhecido (art. 187, III e § 1º).
+
+## Posse, exercício e estágio probatório em Salvador (LC 1/1991)
+URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/posse-exercicio-estagio-probatorio-servidor-salvador-lc-1-1991/
+Atualizado em: 2026-11-13
+Posse (30 + 15 dias), exercício (10 dias), estágio probatório e estabilidade de 3 anos na LC 1/1991 de Salvador, cobrada na prova da GCM.
+
+Seções: Prazos de ingresso | Pegadinhas | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
+P: Qual o prazo de posse na LC 1/1991 de Salvador?
+R: 30 dias, contados da publicação do ato de provimento, prorrogável por mais 15 dias a pedido do interessado (art. 17).
+P: Em quantos dias o servidor de Salvador entra em exercício?
+R: Em 10 dias corridos, contados da posse (LC 1/1991, art. 22, § 1º).
+P: Quanto dura o estágio probatório do servidor de Salvador?
+R: Três anos, com Avaliação Especial de Desempenho (art. 30). A estabilidade também se adquire com 3 anos de exercício (art. 35).
+
+## Sindicância e PAD do servidor de Salvador (LC 1/1991): prazos
+URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/sindicancia-pad-servidor-salvador-lc-1-1991/
+Atualizado em: 2026-11-13
+Sindicância (30 dias improrrogáveis), PAD (60 + 60 dias) e afastamento preventivo na LC 1/1991 de Salvador, com o artigo de cada prazo.
+
+Seções: Sindicância x PAD | Afastamento preventivo (art. 192) | Pegadinha | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
+P: Qual o prazo da sindicância na LC 1/1991 de Salvador?
+R: Até 30 dias, improrrogáveis, iniciando-se em 3 dias da ciência do ato designatório (art. 196).
+P: Qual o prazo do PAD no Regime Jurídico de Salvador?
+R: 60 dias, admitida a prorrogação por igual prazo (art. 202).
+P: Por quanto tempo o servidor pode ser afastado preventivamente?
+R: Por até 60 dias, sem prejuízo da remuneração, prorrogável por igual prazo (art. 192).
 
 ## Top 20 dispositivos da GCM Salvador para a prova (FGV)
 URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/top-20-dispositivos-gcm-salvador/
@@ -1227,7 +1425,7 @@ URL: https://araujo19con.github.io/questaodiaria/gcm-sao-goncalo/
 Atualizado em: 2026-11-13
 Legislação específica da GCM de São Gonçalo/RJ (Selecon): Estatuto da Guarda Municipal (Lei 1.625/2026), Lei 1.416/2022, Lei 13.022/2014 e Lei 13.675/2018. 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso GCM São Gonçalo: a legislação específica na prova | Lei 1.625/2026 de São Gonçalo e as outras normas que caem | Material: Legislação GCM São Gonçalo 2026 (Selecon) | 10 questões grátis de legislação específica da GCM de São Gonçalo, comentadas | Amostra grátis em PDF | Conteúdo grátis de GCM São Gonçalo | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso GCM São Gonçalo: a legislação específica na prova | Lei 1.625/2026 de São Gonçalo e as outras normas que caem | Material: Legislação GCM São Gonçalo 2026 (Selecon) | Como funciona a compra | 10 questões grátis de legislação específica da GCM de São Gonçalo, comentadas | Amostra grátis em PDF | Conteúdo grátis de GCM São Gonçalo | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: As questões são de provas anteriores?
 R: Não. São inéditas, no estilo da Selecon, e comentadas.
 P: O material usa o Estatuto novo da Guarda?
@@ -1289,7 +1487,7 @@ Seções: 4.1 Disposições gerais e princípios (L75, arts. 1º a 6º) | 4.2 Co
 
 ## Concursos de Guarda Civil Municipal: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/guardas-municipais/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Concurso de Guarda Civil Municipal: Estatuto Geral das Guardas (Lei 13.022/2014), plano de carreira e regime disciplinar em resumos e questões no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Por banca | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -1362,7 +1560,7 @@ URL: https://araujo19con.github.io/questaodiaria/pmal-cbmal/
 Atualizado em: 2026-11-13
 Estatuto PMAL atualizado até 2024, RDPM, Lei 14.751/2023 e promoções do CBMAL: 10 itens Certo/Errado grátis e comentados (Cebraspe 2027). Amostra em PDF.
 
-Seções: Concurso PMAL e CBMAL 2027: a legislação específica | Estatuto PMAL atualizado e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação PMAL e CBMAL 2027 (Cebraspe) | 10 itens grátis de legislação PMAL e CBMAL (Certo ou Errado), comentados | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de PMAL e CBMAL | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso PMAL e CBMAL 2027: a legislação específica | Estatuto PMAL atualizado e o que mais cai | O que diz o edital | Revisão em vídeo | Material: Legislação PMAL e CBMAL 2027 (Cebraspe) | Como funciona a compra | 10 itens grátis de legislação PMAL e CBMAL (Certo ou Errado), comentados | Amostra grátis em PDF | Plano de estudos até a prova | Conteúdo grátis de PMAL e CBMAL | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o CBMAL?
 R: Sim. Inclui as Leis 6.514 e 6.544/2004 e a Lei 14.751/2023, que vale para PM e CBM.
 P: Os itens são de provas anteriores?
@@ -2008,7 +2206,7 @@ URL: https://araujo19con.github.io/questaodiaria/tce-go/
 Atualizado em: 2026-11-13
 Legislação Institucional do TCE-GO 2026 (FCC): Lei Orgânica, Regimento Interno, Plano de Cargos e Código de Ética. 10 questões grátis comentadas e amostra em PDF.
 
-Seções: Concurso TCE-GO 2026: o bloco de Legislação Institucional | As normas do TCE-GO cobertas pelo material | O que diz o edital | Material: Legislação Institucional TCE-GO 2026 (FCC) | 10 questões grátis da legislação institucional do TCE-GO, comentadas | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de TCE-GO | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso TCE-GO 2026: o bloco de Legislação Institucional | As normas do TCE-GO cobertas pelo material | O que diz o edital | Material: Legislação Institucional TCE-GO 2026 (FCC) | Como funciona a compra | 10 questões grátis da legislação institucional do TCE-GO, comentadas | Amostra grátis em PDF | Quer treinar com simulados? | Conteúdo grátis de TCE-GO | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Cobre todo o programa de Legislação Institucional?
 R: Não. Cobre a Lei Orgânica, o Regimento Interno, o Plano de Cargos e o Código de Ética. O Regime Jurídico dos Servidores (Lei estadual nº 20.756/2020) não está incluído, e as tabelas de vencimento dos anexos do Plano também não. Confira o edital.
 P: As questões são de provas anteriores?
@@ -2050,7 +2248,7 @@ Seções: 2.7 Sessões (arts. 112 a 154) | Quer o resumo completo e as questões
 
 ## Concursos de Tribunal: legislação e questões comentadas
 URL: https://araujo19con.github.io/questaodiaria/tribunais/
-Atualizado em: 2026-11-08
+Atualizado em: 2026-11-13
 Concurso de Tribunal (TRT e outros): Regimento Interno, Código de Ética, resoluções do CNJ e do CSJT e direitos da pessoa com deficiência em resumos e questões.
 
 Seções: Escolha o concurso | Provas por data | Por banca | Páginas de apoio (resumos e artigos grátis) | Outros temas
@@ -2060,7 +2258,7 @@ URL: https://araujo19con.github.io/questaodiaria/trt8/
 Atualizado em: 2026-11-13
 Reta Final TRT-8 2027 (FCC): 10 questões grátis comentadas do Regimento Interno do TRT-8, Código de Ética, resoluções do CNJ/CSJT e Direitos PcD (LBI).
 
-Seções: Concurso TRT-8 2027: legislação do tribunal e Direitos PcD | O que cai: Regimento Interno do TRT-8, resoluções e Direitos PcD | Revisão em vídeo | Material: Reta Final TRT-8 2027 (FCC): Direitos PcD + Legislação do TRT-8 | 10 questões grátis do Regimento Interno do TRT-8, legislação e Direitos PcD | Amostra grátis em PDF | Plano de estudos até a prova | Vai fazer também o ALEPA (prova em 13/12/2026)? | Quer treinar com simulados? | Conteúdo grátis de TRT-8 | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+Seções: O que vem no material | Concurso TRT-8 2027: legislação do tribunal e Direitos PcD | O que cai: Regimento Interno do TRT-8, resoluções e Direitos PcD | Revisão em vídeo | Material: Reta Final TRT-8 2027 (FCC): Direitos PcD + Legislação do TRT-8 | Como funciona a compra | 10 questões grátis do Regimento Interno do TRT-8, legislação e Direitos PcD | Amostra grátis em PDF | Plano de estudos até a prova | Vai fazer também o ALEPA (prova em 13/12/2026)? | Quer treinar com simulados? | Conteúdo grátis de TRT-8 | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve 
 P: Serve para Técnico e Analista?
 R: Sim. O material é para Técnico e Analista do TRT-8 (prova em 17/01/2027).
 P: As questões são de provas anteriores?
@@ -2074,12 +2272,42 @@ R: Sim. Baixe a amostra grátis nesta página: 10 questões comentadas tiradas d
 P: Tem garantia?
 R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
 
+## Assédio no TRT-8: Resolução 65/2025, prazos e subcomitês
+URL: https://araujo19con.github.io/questaodiaria/trt8/assedio-discriminacao-trt8-resolucao-65-2025/
+Atualizado em: 2026-11-13
+Res. TRT8 65/2025: retaliação, subcomitês, 20 horas de capacitação, apuração em 30 dias e Semana de Combate, com o artigo de cada regra.
+
+Seções: Números da Res. 65/2025 | Retaliação (art. 2º-A, Res. 23/2026) | Pegadinha: Res. 67/2021 x Res. 65/2025 | Perguntas frequentes | Material completo: Reta Final TRT-8 2027 | Mais conteúdo grátis: TRT-8
+P: Quantas horas de capacitação exige a Res. TRT8 65/2025 dos membros dos Subcomitês?
+R: No mínimo 20 horas anuais em prevenção e enfrentamento da violência, do assédio e da discriminação (art. 8º, § 2º).
+P: Qual o prazo para apurar a notícia de assédio no TRT-8?
+R: 30 dias, prorrogável uma única vez (Res. TRT8 nº 65/2025, art. 15).
+P: Quando é a Semana de Combate ao assédio no TRT-8?
+R: Na primeira semana de maio de cada ano (art. 19).
+P: Como a Res. 65/2025 classifica o assédio sexual?
+R: Como infração disciplinar de natureza grave (art. 17, § 1º).
+
 ## Capacidade civil, curatela e tomada de decisão apoiada (LBI)
 URL: https://araujo19con.github.io/questaodiaria/trt8/capacidade-civil-curatela-lbi/
 Atualizado em: 2026-10-17
 Resumo da capacidade civil da pessoa com deficiência na LBI: curatela como medida extraordinária, limites da curatela e tomada de decisão apoiada.
 
 Seções: 4.1 Reconhecimento igual perante a lei (art. 84) | 4.2 Alcance da curatela (art. 85) 🎯 | 4.3 Outros dispositivos sobre curatela | 4.4 Serviços notariais e de registro (art. 83) | 4.5 Alterações no Código Civil feitas pela LBI (arts. 114 a 116 e 123) | 4.6 Tomada de decisão apoiada — TDA (CC, art. 1.783-A, incluído pelo art. 116 da LBI) 🎯 | 4.7 Curatela × TDA | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de TRT-8
+
+## Código de Ética do TRT-8 (Res. 88/2012): vedações e presentes
+URL: https://araujo19con.github.io/questaodiaria/trt8/codigo-etica-servidores-trt8-res-88-2012/
+Atualizado em: 2026-11-13
+Vedações, presentes e brindes, quarentena e Comitê de Ética e Integridade no Código de Ética do TRT-8 (Res. TRT8 88/2012), com o artigo de cada regra.
+
+Seções: Vedações mais cobradas (art. 7º) | Deveres e regras práticas | Comitê de Ética e Integridade (arts. 18 a 20) | Perguntas frequentes | Material completo: Reta Final TRT-8 2027 | Mais conteúdo grátis: TRT-8
+P: O servidor do TRT-8 pode exercer a advocacia?
+R: Não. O Código de Ética veda exercer a advocacia, de forma direta ou mediante auxílio (Res. TRT8 nº 88/2012, art. 7º, VII).
+P: Brinde é considerado presente no Código de Ética do TRT-8?
+R: Não, se não tiver valor comercial ou for distribuído como cortesia ou propaganda dentro do valor do Ato da Presidência, como agendas, canetas e copos (art. 7º, § 1º).
+P: O que acontece com o presente que não pode ser devolvido?
+R: É doado a entidade assistencial ou filantrópica reconhecida como de utilidade pública (art. 7º, § 2º).
+P: Qual o mandato dos membros do Comitê de Ética do TRT-8?
+R: Dois anos, permitida a recondução (art. 18, parágrafo único).
 
 ## Conceitos da LBI: pessoa com deficiência e barreiras (arts. 2º e 3º)
 URL: https://araujo19con.github.io/questaodiaria/trt8/conceitos-lbi-pessoa-com-deficiencia/
@@ -2171,3 +2399,33 @@ Atualizado em: 2026-10-17
 Quadros de revisão da LBI (Lei 13.146/2015) e das Leis 10.048, 10.098, 7.853, 11.126 e 8.160 para a prova do TRT-8 (FCC).
 
 Seções: A. Tabela-mestra de números (percentuais, quantidades e prazos) | B. "Poderá" × "Deverá" × "É facultado" — os verbos que a banca troca | C. Quem faz o quê (sujeitos que a banca troca) | D. Listas fechadas para memorizar | Revisão em vídeo | Quer o resumo completo e as questões comentadas? | Mais conteúdo grátis de TRT-8
+
+## Regimento Interno do TRT-8: composição, eleição e Tribunal Pleno
+URL: https://araujo19con.github.io/questaodiaria/trt8/regimento-interno-trt8-composicao-eleicao-pleno/
+Atualizado em: 2026-11-13
+Composição do TRT-8 (23 Desembargadores), eleição de Presidente, Vice e Corregedor e quórum do Tribunal Pleno no Regimento Interno.
+
+Seções: Composição (art. 2º) | Eleição da direção (art. 14) | Tribunal Pleno (art. 22) | Perguntas frequentes | Material completo: Reta Final TRT-8 2027 | Mais conteúdo grátis: TRT-8
+P: Quantos Desembargadores tem o TRT da 8ª Região?
+R: 23 Desembargadores vitalícios, nomeados pelo Presidente da República (Regimento Interno do TRT-8, art. 2º).
+P: Quem pode concorrer à Presidência do TRT-8?
+R: Exclusivamente os três Desembargadores mais antigos não alcançados pelos impedimentos da LOMAN (art. 14, § 2º).
+P: Qual o mandato do Presidente do TRT-8?
+R: Dois anos, vedada a reeleição, com posse até 8 de dezembro (art. 14, § 3º).
+P: Qual o quórum de instalação do Tribunal Pleno do TRT-8?
+R: Maioria absoluta, com deliberações por maioria simples, salvo quórum especial (art. 22).
+
+## Resolução CNJ 400/2021 resumida: PLS, prazos e Comissão Gestora
+URL: https://araujo19con.github.io/questaodiaria/trt8/resolucao-cnj-400-2021-sustentabilidade-resumo/
+Atualizado em: 2026-11-13
+Res. CNJ 400/2021: PLS, revisão a cada 2 anos, Comissão Gestora, prazos do PLS-Jud e neutralidade de carbono até 2030, com o artigo de cada regra.
+
+Seções: Números da Res. 400 | Quem faz o quê | Perguntas frequentes | Material completo: Reta Final TRT-8 2027 | Mais conteúdo grátis: TRT-8
+P: De quanto em quanto tempo o PLS é revisado?
+R: No máximo a cada 2 anos. A Comissão Gestora propõe e a unidade de sustentabilidade promove a revisão (Res. CNJ 400/2021, art. 8º, parágrafo único).
+P: Qual a composição mínima da Comissão Gestora do PLS?
+R: Presidida por magistrado, com no mínimo 5 servidores titulares de unidade, incluindo gestão estratégica, sustentabilidade e compras ou aquisições (art. 18).
+P: Até quando o relatório de desempenho do PLS é enviado ao CNJ?
+R: Até 28 de fevereiro do ano seguinte, pelo PLS-Jud (art. 10-A, § 3º).
+P: Qual a meta de neutralidade de carbono da Res. CNJ 400?
+R: Alcançar a neutralidade de carbono até 2030 (art. 24).

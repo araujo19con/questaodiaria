@@ -1,12 +1,12 @@
 LEGENDAS SUGERIDAS · Clube de Posts para Advogados · Edição 2 (dezembro de 2026 a fevereiro de 2027)
-Troque [Nome do Escritório], OAB/UF e @seuperfil. As legendas são informativas e seguem o Provimento CFOAB 205/2021: sem valores, sem promessa de resultado, sem casos concretos e sem chamada direta para contratação. Conteúdo conferido na legislação em 27/10/2026.
+Troque [Nome do Escritório], OAB/UF e @seuperfil. As legendas são informativas e seguem o Provimento CFOAB 205/2021: sem valores, sem promessa de resultado, sem casos concretos e sem chamada direta para contratação. Conteúdo conferido na legislação em 13/11/2026.
 
 ===== POST 01 · Direito do Consumidor · sugestão de data: 01/12 (terça) =====
-Comprou pela internet e se arrependeu? O CDC (art. 49) permite desistir do contrato em 7 dias, contados da assinatura ou do recebimento do produto ou serviço, quando a contratação ocorre fora do estabelecimento comercial, especialmente por telefone ou a domicílio.
+Compras de fim de ano: a loja pode exigir que você leve outro produto ou contrate um serviço para conseguir o que quer comprar? O CDC (art. 39, I) diz que não. É prática abusiva condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos.
 
-Guarde o comprovante da compra e a data de entrega.
+Guarde o anúncio e o comprovante da compra.
 
-#direitodoconsumidor #comprasonline #cdc
+#direitodoconsumidor #cdc #vendacasada
 
 ===== POST 02 · Direito do Consumidor · sugestão de data: 03/12 (quinta) =====
 Ganhou ou comprou um produto com defeito? Pelo CDC (art. 18), se o vício não for sanado no prazo máximo de 30 dias, o consumidor pode exigir, à sua escolha:
@@ -102,6 +102,8 @@ Os alimentos devem ser fixados na proporção das necessidades de quem os pede e
 ===== POST 15 · Direito de Família · sugestão de data: 14/01 (quinta) =====
 O que caracteriza a união estável? O Código Civil (art. 1.723) a reconhece como entidade familiar quando configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.
 
+O texto legal menciona o homem e a mulher, mas o STF reconheceu, em 2011, que o mesmo regime vale para as uniões entre pessoas do mesmo sexo (ADI 4277 e ADPF 132).
+
 #direitodefamilia #uniaoestavel #codigocivil
 
 ===== POST 16 · Direito de Família · sugestão de data: 19/01 (terça) =====
@@ -113,6 +115,8 @@ Nela, o tempo de convívio com os filhos deve ser dividido de forma equilibrada 
 
 ===== POST 17 · Direito Previdenciário · sugestão de data: 21/01 (quinta) =====
 Quando é devido o auxílio-doença? Pela Lei 8.213/1991 (art. 59), ele é devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 dias consecutivos.
+
+Nos regulamentos atuais do INSS, o benefício aparece com o nome de auxílio por incapacidade temporária.
 
 #direitoprevidenciario #inss #lei8213
 
@@ -138,4 +142,3 @@ Prazo para contestar: o réu pode oferecer contestação, por petição, no praz
 Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computam-se somente os dias úteis (CPC, art. 219).
 
 #processocivil #cpc #prazos
-

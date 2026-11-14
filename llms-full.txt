@@ -192,7 +192,7 @@ Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e ar
 ## Provas da ITAME: legislação e questões por concurso
 URL: https://araujo19con.github.io/questaodiaria/bancas/itame/
 Atualizado em: 2026-11-13
-Materiais de legislação para provas da ITAME (Câmara de Vila Boa, Câmara de Santa Helena de Goiás): resumos, questões inéditas no estilo da banca e a data de cada prova.
+Materiais de legislação para provas da ITAME (Câmara de Vila Boa, Câmara de Santa Helena de Goiás, Campo Limpo de Goiás): resumos, questões inéditas no estilo da banca e a data de cada prova.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis) | Outros temas
 
@@ -1051,7 +1051,7 @@ URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/
 Atualizado em: 2026-11-13
 Legislação Municipal da Câmara de São Francisco do Sul/SC (FURB, prova 24/01/2027): Lei Orgânica com as Emendas até 2/2026, Regimento Interno (Res. 05/1992) e Estatuto (LC 8/2003). 10 questões grátis comentadas e amostra em PDF.
 
-Seções: O que vem no material | Concurso Câmara de São Francisco do Sul: o peso da Legislação Municipal | Lei Orgânica, Regimento Interno e Estatuto de São Francisco do Sul | Material: Legislação Câmara de São Francisco do Sul 2027 (FURB) | Como funciona a compra | 10 questões grátis de legislação da Câmara de São Francisco do Sul, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação
+Seções: O que vem no material | Concurso Câmara de São Francisco do Sul: o peso da Legislação Municipal | Lei Orgânica, Regimento Interno e Estatuto de São Francisco do Sul | Material: Legislação Câmara de São Francisco do Sul 2027 (FURB) | Como funciona a compra | 10 questões grátis de legislação da Câmara de São Francisco do Sul, comentadas | Amostra grátis em PDF | Quer treinar com simulados? | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
 P: Serve para o meu cargo?
 R: Sim. O edital cobra Lei Orgânica, Estatuto dos Servidores e Regimento Interno como Legislação Municipal para todos os cargos. Confira no edital os itens do seu cargo.
 P: As questões são de provas anteriores?
@@ -1062,6 +1062,84 @@ P: Tem amostra grátis?
 R: Sim. Baixe a amostra grátis nesta página: 2 seções do resumo e 8 questões comentadas.
 P: Tem garantia?
 R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
+
+## Lei Orgânica x Regimento de São Francisco do Sul: onde não batem
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/divergencias-lei-organica-regimento-sao-francisco-do-sul/
+Atualizado em: 2026-11-13
+Onde a Lei Orgânica e o Regimento da Câmara de São Francisco do Sul/SC divergem (quórum, veto, instalação) e onde coincidem, com os artigos.
+
+Seções: Quadro de divergências | Onde as normas coincidem | Como responder na prova | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: A Lei Orgânica e o Regimento de São Francisco do Sul exigem o mesmo quórum para abrir a sessão?
+R: Não. A Lei Orgânica fala em um terço dos membros (art. 24); o Regimento exige a maioria absoluta para abrir a sessão ordinária (art. 159) e um terço para a Câmara se reunir (art. 155).
+P: O veto é votado em sessão secreta?
+R: A Lei Orgânica (art. 46, § 5º) prevê votação secreta para rejeitar o veto; o Regimento (art. 194) diz que o voto é sempre público. O quórum de rejeição, maioria absoluta, é o mesmo.
+P: Em que as duas normas coincidem sobre a Mesa?
+R: Mandato de 1 ano sem recondução para o mesmo cargo na eleição seguinte, eleição na última Sessão Ordinária de novembro e destituição pela maioria absoluta.
+
+## Estatuto dos Servidores de São Francisco do Sul (LC 8/2003): prazos
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/estatuto-servidores-sao-francisco-do-sul-lc-8-2003/
+Atualizado em: 2026-11-13
+Estatuto de São Francisco do Sul/SC (LC 8/2003): posse em 30 dias, exercício em 15, estabilidade em 3 anos, licenças, penalidades e prescrição.
+
+Seções: Ingresso e estágio | Vantagens, férias e licenças | Penalidades e processo disciplinar | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: Qual o estágio probatório no Estatuto de São Francisco do Sul?
+R: A estabilidade vem após três anos de efetivo exercício, com avaliação especial de desempenho por comissão (LC 8/2003, art. 18). A avaliação é obrigatória nos quatro meses anteriores ao fim do período (art. 19, § 1º).
+P: Qual o prazo de posse no Estatuto de São Francisco do Sul?
+R: 30 dias, prorrogáveis por mais 30, contados da publicação do ato de provimento; depois, o exercício deve começar em 15 dias da posse (LC 8/2003, arts. 16, § 1º, e 17, § 2º).
+P: Em quanto tempo prescreve a advertência?
+R: Em 30 dias; a suspensão em 90 dias e a demissão em 2 anos (LC 8/2003, art. 143).
+
+## Mesa da Câmara de São Francisco do Sul: mandato, eleição e destituição
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/mesa-diretora-eleicao-camara-sao-francisco-do-sul/
+Atualizado em: 2026-11-13
+Mesa da Câmara de São Francisco do Sul/SC: cargos, mandato de 1 ano, eleição em novembro, empate, vaga e destituição, com o artigo de cada regra.
+
+Seções: Regras da Mesa | Quando o cargo da Mesa fica vago (RI, art. 28) | Substituições | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: Qual o mandato da Mesa da Câmara de São Francisco do Sul?
+R: Um ano, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente (Lei Orgânica, art. 19, § 1º; Regimento Interno, art. 19).
+P: Quando é a eleição da Mesa?
+R: Na última Sessão Ordinária do mês de novembro, com posse dos eleitos no primeiro dia útil do ano seguinte (Lei Orgânica, art. 19, § 3º, e Regimento Interno, art. 21, § 2º, com as alterações de 2026).
+P: Como se resolve o empate na eleição da Mesa?
+R: Com segundo e terceiro escrutínios; persistindo o empate, vence a chapa cujo candidato a Presidente foi o mais votado nas eleições municipais (Regimento Interno, art. 25).
+
+## Quórum e sessões da Câmara de São Francisco do Sul: 1/3, maioria e 2/3
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/quorum-sessoes-camara-sao-francisco-do-sul/
+Atualizado em: 2026-11-13
+Quóruns, sessões às terças e recesso de 23/12 a 31/01 na Lei Orgânica e no Regimento da Câmara de São Francisco do Sul/SC, com o artigo de cada regra.
+
+Seções: Quóruns que mais caem | Calendário e sessões | Como se vota | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: Qual o quórum para abrir a sessão na Câmara de São Francisco do Sul?
+R: Pela Lei Orgânica (art. 24), um terço dos membros. Pelo Regimento Interno (art. 159), a sessão ordinária só é aberta com a maioria absoluta; sem ela, o Presidente aguarda 15 minutos e declara prejudicada a sessão.
+P: Quando é o recesso da Câmara de São Francisco do Sul?
+R: De 23 de dezembro a 31 de janeiro do ano seguinte (Lei Orgânica, art. 21, § 1º, com a Emenda nº 2/2026). A sessão legislativa ordinária vai de 1º de fevereiro a 22 de dezembro.
+P: Em que dia são as sessões ordinárias?
+R: Às terças-feiras, das 18h às 22h (Regimento Interno, art. 149, com a Resolução Legislativa nº 3/2026).
+
+## Sanção, veto e urgência em São Francisco do Sul: prazos e quóruns
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/sancao-veto-processo-legislativo-sao-francisco-do-sul/
+Atualizado em: 2026-11-13
+Processo legislativo de São Francisco do Sul/SC: emenda, lei complementar, urgência de 30 dias, sanção e veto em 15 dias úteis, com o artigo de cada prazo.
+
+Seções: Linha do tempo da sanção e do veto (LOM, art. 46) | Outras regras do processo legislativo | Detalhe que a banca troca | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: Qual o prazo do Prefeito de São Francisco do Sul para vetar um projeto?
+R: 15 dias úteis, contados do recebimento, com comunicação dos motivos ao Presidente da Câmara em 48 horas (Lei Orgânica, art. 46, § 2º).
+P: Em quanto tempo a Câmara aprecia o veto?
+R: Em 15 dias contados do recebimento, em única discussão e votação; o veto só é rejeitado pela maioria absoluta (Lei Orgânica, art. 46, §§ 4º e 5º).
+P: Qual o prazo da urgência pedida pelo Prefeito?
+R: 30 dias (Lei Orgânica, art. 45). O prazo não corre no recesso nem se aplica aos projetos de codificação (art. 45, § 2º).
+
+## Vereadores de São Francisco do Sul: posse, licenças e perda do mandato
+URL: https://araujo19con.github.io/questaodiaria/camara-sao-francisco-do-sul/vereadores-posse-licencas-perda-mandato-sao-francisco-do-sul/
+Atualizado em: 2026-11-13
+Posse em 15 dias, licença de até 120 dias, suplente e perda do mandato do Vereador de São Francisco do Sul/SC, com o artigo de cada regra.
+
+Seções: Posse e instalação | Licenças | Suplente | Perda do mandato (LOM, art. 33) | Perguntas frequentes | Material completo: Legislação Câmara de São Francisco do Sul 2027 | Mais conteúdo grátis da Câmara de São Francisco do Sul
+P: Quantos Vereadores tem a Câmara de São Francisco do Sul?
+R: Treze (Lei Orgânica, art. 11, I, com a Emenda nº 04/2023).
+P: Qual o prazo da licença do Vereador para interesse particular?
+R: Até 120 dias por sessão legislativa, sem remuneração, e nunca inferior a 30 dias (Lei Orgânica, art. 34, II e § 4º).
+P: Quantas faltas levam à perda do mandato?
+R: Faltar à terça parte das sessões ordinárias de cada sessão legislativa, salvo licença ou missão oficial, ou a cinco Sessões Ordinárias consecutivas sem estar licenciado (Lei Orgânica, art. 33, IV e V).
 
 ## Legislação Câmara de Tupaciguara 2026: Regimento Interno e Lei Orgânica
 URL: https://araujo19con.github.io/questaodiaria/camara-tupaciguara/
@@ -1159,7 +1237,7 @@ Seções: Escolha o concurso | Provas por data | Por estado | Por banca | Págin
 ## Concursos de Câmara Municipal em Goiás: legislação e questões
 URL: https://araujo19con.github.io/questaodiaria/camaras-municipais/go/
 Atualizado em: 2026-11-13
-Concursos de Câmara Municipal em Goiás: Cristalina, Pires do Rio, Vila Boa, Santa Helena de Goiás. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
+Concursos de Câmara Municipal em Goiás: Cristalina, Pires do Rio, Vila Boa, Santa Helena de Goiás, Campo Limpo de Goiás. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)
 
@@ -1176,6 +1254,101 @@ Atualizado em: 2026-11-10
 Concursos de Câmara Municipal em Rio Grande do Norte: Goianinha, Mossoró. Regimento Interno e Lei Orgânica em resumos e questões inéditas no estilo da banca.
 
 Seções: Escolha o concurso | Provas por data | Páginas de apoio (resumos e artigos grátis)
+
+## Legislação Campo Limpo de Goiás 2027: Lei Orgânica, Estatuto dos Servidores e Regimento Interno
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/
+Atualizado em: 2026-11-13
+Legislação do concurso da Prefeitura e da Câmara de Campo Limpo de Goiás/GO (ITAME, prova 14/03/2027): Lei Orgânica com as emendas, Estatuto (LC 006/2008) atualizado até 2026, Regimento Interno e CF arts. 1º a 6º. Questões grátis e amostra em PDF.
+
+Seções: O que vem no material | Concurso Campo Limpo de Goiás: o peso da Legislação | Lei Orgânica, Estatuto e Regimento de Campo Limpo de Goiás | Material: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 (ITAME) | Como funciona a compra | 10 questões grátis de legislação de Campo Limpo de Goiás, comentadas | Amostra grátis em PDF | E o Português da prova? | Perguntas frequentes | Outros materiais de legislação | Salve esta imagem no Pinterest
+P: Serve para o meu cargo?
+R: O edital cobra Estatuto dos Servidores, Lei Orgânica e CF (arts. 1º a 6º) como legislação comum aos cargos de nível fundamental completo, médio e superior; o Regimento Interno é só para os cargos da Câmara. Confira no edital os itens do seu cargo.
+P: As questões são de provas anteriores?
+R: Não. São inéditas, no estilo do ITAME (4 alternativas), e comentadas.
+P: O Estatuto está atualizado?
+R: Sim. O material usa a Lei Complementar nº 006/2008 com as alterações até a LC 078/2026, conferidas no sistema oficial de legislação da Prefeitura em 13/11/2026, incluindo a jornada de 40 horas (LC 072/2025) e a licença do art. 133-A (LC 077/2026).
+P: Tem amostra grátis?
+R: Sim. Baixe a amostra grátis nesta página: 3 seções do resumo e 10 questões comentadas.
+P: Tem garantia?
+R: Sim. São 7 dias de garantia Hotmart. Se não gostar, pede o reembolso dentro do prazo, sem precisar justificar.
+
+## Lei Orgânica x Regimento x Estatuto de Campo Limpo de Goiás: as divergências que caem
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/divergencias-lei-organica-regimento-estatuto-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Onde a Lei Orgânica, o Regimento Interno e o Estatuto dos Servidores de Campo Limpo de Goiás/GO dizem coisas diferentes: rejeição do veto, voto secreto, abandono de cargo, jornada e licença saúde.
+
+Seções: Quadro de divergências | O que já não diverge | Como responder | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Rejeição de veto em Campo Limpo de Goiás é maioria absoluta ou 2/3?
+R: Maioria absoluta, em votação nominal, pela Lei Orgânica (art. 53, § 3º); 2/3, pelo Regimento Interno (art. 94, II, "i"). Responda pela norma citada no enunciado.
+P: O voto na eleição da Mesa é secreto ou público?
+R: A Lei Orgânica (art. 35, § 2º, II) e o art. 11 do Regimento falam em voto secreto, mas o art. 95, parágrafo único, I, do Regimento diz que é obrigatoriamente público.
+P: Quantos dias de falta configuram abandono de cargo em Campo Limpo de Goiás?
+R: Pelo art. 189, § 1º, 30 dias ou mais consecutivos ou mais de 45 intercalados em 365 dias. Os arts. 38 e 41 usam redações diferentes ("mais de trinta dias consecutivos").
+
+## Estágio probatório, posse e concurso no Estatuto de Campo Limpo de Goiás (LC 006/2008)
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/estagio-probatorio-posse-estatuto-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Estágio probatório de 3 anos, posse em 30 dias, validade do concurso, reserva para pessoas com deficiência e jornada de 40 horas no Estatuto dos Servidores de Campo Limpo de Goiás/GO, com o artigo de cada regra.
+
+Seções: Do concurso à estabilidade | Volta ao exercício e jornada | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Quanto dura o estágio probatório em Campo Limpo de Goiás?
+R: Três anos de exercício (LC 006/2008, art. 21). A estabilidade vem após a aprovação no estágio (art. 145).
+P: Qual o prazo de posse no Estatuto de Campo Limpo de Goiás?
+R: Trinta dias, contados do ato oficial de provimento, salvo força maior. Sem posse no prazo, o ato de nomeação é tornado sem efeito por decreto (art. 25).
+P: Qual a jornada do servidor de Campo Limpo de Goiás?
+R: Quarenta horas semanais, na redação dada pela LC 072/2025 ao art. 42; o texto original falava em 30 horas.
+
+## Licenças do servidor de Campo Limpo de Goiás (LC 006/2008): prazos depois das LC 072/2025 e 077/2026
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/licencas-servidor-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Licença gestante, paternidade, adoção, doença em pessoa da família, prêmio, interesse particular e a nova licença para cargo em outro ente no Estatuto de Campo Limpo de Goiás/GO, com o artigo de cada prazo.
+
+Seções: Quadro das licenças | Licença saúde: o que mudou | Observação: licença-adotante e o STF | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Quantos dias de licença-gestante tem a servidora de Campo Limpo de Goiás?
+R: 120 dias consecutivos, com remuneração integral (LC 006/2008, art. 120, na redação da LC 030/2013). A licença-paternidade é de 8 dias.
+P: A licença para interesse particular pode ser negada em Campo Limpo de Goiás?
+R: Não. Depois de 2 anos de contínuo exercício, ela dura 24, 36 ou 48 meses, a critério do servidor, não pode ser negada (art. 130) nem cassada (art. 131).
+P: O que é a licença do art. 133-A do Estatuto de Campo Limpo de Goiás?
+R: É a licença para o servidor efetivo exercer cargo ou função em órgão da União, dos Estados, do DF ou de outros Municípios, sem remuneração e sem ônus para o Município, criada pela LC 077/2026.
+
+## Penalidades, prazo para punir e processo administrativo no Estatuto de Campo Limpo de Goiás
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/penalidades-prescricao-processo-servidor-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Penalidades do art. 184, competência para punir, suspensão até 30 dias, abandono de cargo, prazos para impor penas (48 horas a 4 anos) e prazos do processo administrativo no Estatuto de Campo Limpo de Goiás/GO.
+
+Seções: Penalidades e quem aplica (arts. 184 e 185) | Prazos para impor a pena (art. 191) | Abandono de cargo (art. 189, § 1º) | Processo administrativo | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Quanto tempo pode durar a suspensão no Estatuto de Campo Limpo de Goiás?
+R: No máximo 30 dias, imposta só pelo Prefeito, com processo administrativo e ampla defesa (LC 006/2008, art. 187).
+P: Em quanto tempo se extingue o prazo para aplicar advertência?
+R: Em 48 horas, contadas da ciência do fato pela autoridade competente (art. 191, I).
+P: Qual o prazo do processo administrativo em Campo Limpo de Goiás?
+R: Início em 5 dias e conclusão em 90 dias, prorrogáveis por mais 60 em caso de força maior (art. 198).
+
+## Quórum e votações na Câmara de Campo Limpo de Goiás: maioria simples, absoluta e 2/3
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/quorum-votacoes-camara-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Quóruns da Lei Orgânica e do Regimento Interno de Campo Limpo de Goiás/GO: abertura da sessão, Ordem do Dia, lei complementar, emenda à Lei Orgânica, veto, voto do Presidente e voto secreto, com o artigo de cada regra.
+
+Seções: Quóruns da Lei Orgânica | Leis complementares (LOM, art. 45, parágrafo único) | Como o Regimento conta (RI, arts. 93 e 94) | Quando o Presidente vota (LOM, art. 35) | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Quantos Vereadores tem a Câmara de Campo Limpo de Goiás?
+R: Nove (Lei Orgânica, art. 17, § 2º). A maioria absoluta é de 5 votos e 2/3 são 6.
+P: Qual o quórum para abrir a sessão da Câmara de Campo Limpo de Goiás?
+R: Um terço dos membros (Lei Orgânica, art. 38). A votação da Ordem do Dia exige a presença da maioria dos membros (art. 47).
+P: Como se aprova emenda à Lei Orgânica de Campo Limpo de Goiás?
+R: Em dois turnos, com 2/3 dos membros em cada um; a proposta é do Prefeito ou de 1/3 dos Vereadores, e a promulgação é da Mesa (art. 44).
+
+## Sanção, veto e urgência na Lei Orgânica de Campo Limpo de Goiás: os prazos
+URL: https://araujo19con.github.io/questaodiaria/campo-limpo-goias/veto-sancao-urgencia-lei-organica-campo-limpo-de-goias/
+Atualizado em: 2026-11-13
+Prazos de envio ao Prefeito, sanção tácita, veto, apreciação do veto, promulgação e urgência na Lei Orgânica de Campo Limpo de Goiás/GO, com o artigo de cada prazo.
+
+Seções: Linha do tempo | Projeto rejeitado (art. 54) | Perguntas frequentes | Material completo: Legislação Prefeitura e Câmara de Campo Limpo de Goiás 2027 | Mais conteúdo grátis de Campo Limpo de Goiás
+P: Qual o prazo de veto do Prefeito de Campo Limpo de Goiás?
+R: 15 dias úteis, contados do recebimento, com comunicação dos motivos ao Presidente da Câmara em 48 horas (Lei Orgânica, art. 53).
+P: Qual o quórum para rejeitar o veto em Campo Limpo de Goiás?
+R: Pela Lei Orgânica, maioria absoluta dos Vereadores, em votação nominal (art. 53, § 3º). O Regimento Interno fala em 2/3 (art. 94, II, "i").
+P: O que acontece se o Prefeito não sancionar no prazo?
+R: Decorridos 15 dias úteis, o silêncio importa sanção (art. 52, parágrafo único).
 
 ## Como fazer um orçamento mensal em 5 passos
 URL: https://araujo19con.github.io/questaodiaria/como-fazer-orcamento-mensal/
@@ -1374,7 +1547,7 @@ URL: https://araujo19con.github.io/questaodiaria/gcm-salvador/licencas-servidor-
 Atualizado em: 2026-11-13
 Licenças da LC 1/1991 de Salvador: gestante, adotante, paternidade, família, interesses particulares e licença-prêmio, com o artigo de cada prazo.
 
-Seções: Quadro das licenças | Abono de faltas (art. 135) | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
+Seções: Quadro das licenças | Observação: licença-adotante e o STF | Abono de faltas (art. 135) | Perguntas frequentes | Material completo: Legislação GCM Salvador 2027 | Mais conteúdo grátis: GCM Salvador
 P: Quantos dias de licença tem a servidora gestante em Salvador?
 R: 180 dias consecutivos, a partir do oitavo mês de gestação (LC 1/1991, art. 123).
 P: A licença para interesses particulares conta como tempo de serviço em Salvador?
